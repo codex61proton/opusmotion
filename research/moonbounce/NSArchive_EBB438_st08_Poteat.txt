@@ -1,0 +1,575 @@
+Some Beginnings of Information Warfare
+
+Stealth, Countermeasures, and ELINT, 1960wl975 (U)
+G~n~ Poteat
+
+
+                                      '!'he !are 1950• were the hcvdlV< uf        The en~;~incering approach to nealrh
+                                      che U-2 reconnai~s<~ncc air~r:~f; as ir     wa~ to cre~ce un airplane thnt would
+                                      flew with impunity over ehc Sovi<"t         ··~,ulr in an unnoticeable >mall blip
+                                      l:nion, bringing back rhc most·             on enemy r:~dar screens by shaping
+                                      sought-after intelligence at the tim':      the airplane with rt:r.or·sharp edges,·
+                                      confirmanon that there was no real          or chine~. by tilting the rudders in·
+                                      bomb<'r or bal!i,tic mis,ile gap wirh       board co reduce r~dar reflections.
+                                      the Sovlet Union. Bur the U-2 ~!so          and hy u~ing as much composite
+                                      broue;ht back lomething el": ~ fore.
+                                                                                  radar-absorbing material as practic31.
+                                      shadowing of it~ own impending
+
+
+                ''                    do misc. The U.2 c~mer~. alone; wich        Bur how small a radar target was
+                                      irs rudimentary electronics intdli-         small enough? Th\lt depended on
+      The Intelligence                gen<;e (ELINT) recetvers, h~d begun         how good the Soviet dir defense
+ Community (IC) had no                to pick up indications of a SO\·i~t         radars were. Buc there were more
+                                      antiaircraft def~nse buildt:p with          intelligence questions ;~bout the
+hard information about the            new and better ~urface·to-air (SAM)         Soviet air defen~e radars rh;o.n there
+U'ansmitter power of Soviet           missile~ and radars. The Soviets kept
+                                      trying to shoot down a U-2 with
+   radars, their receiver             interceptor fight(rS and SA!v!s: they
+                                      did not succeed until 1 May !960.           The lntdligenc: Commumcy (!C)
+  sensitivity, the spatial                                                        had no hard informution about thl"
+coverage of their beams, or                                                       transmitter power of Soviet radars.
+                                      At the time of the shootdown, rhc
+even how wid~pread they               CIA's U-2 progr•m effie~ .lroady w<>•       their receiver sensitivity, the: ~patial
+                                      well along in developing the U-2'•          coverage of their beams, ()f even how
+      were deployed.                  r•plac<>mcnt, the OXCART, nt Lock-          wid~sprcad they were deployed. The
+                                      heed's Skunk Works in Burbank.              CIA's Clandmine Service: did not
+
+
+               ''                     Cnlifornia. The OXCART would fly
+                                      ~r about 90,000 fecc, at Mach 3.3. It
+                                      would also become the predecessor to
+                                      the Air Force's better known SR-71
+                                       BlQckbird. The ClA ~nd rht Air
+                                      Force jointly also had the ultimate
+                                                                                  h~v• ~ •insle officer ~"igned to d11
+                                                                                  Sovlet !Jnion because the US Ambas·
+                                                                                  sad or in Moscow would not permit
+                                                                                  it. At chat time, EUNT could nor
+                                                                                  provide answers ro such hard quc:s·
+                                                                                  tions. Further, few in the ELJNT
+                                      reconnAissance •ystem undn w~y in ~         community knew anything about the
+                                      parallel development, the CORONA            OXCART program, and fewer still
+                                      'Rrellire, the firs. in~ long 'eric• thQt
+                                                                                  knew anything about the stealth
+                                      would eventually replace all over·
+                                      fliglm, including the OXCART.               aspects of the program. It seemed to
+                                                                                  come down to making the besc intel-
+                                      Concern• .,bout the vulncr•biliry    or     ligence ~sci mare pos~ible with regard
+                                                                                  10 Soviet radar capabilities for deal·
+                                      the Y't·to·lly OXCART ro the evolv-
+                                      ing Soviet air defcn!e network were         ing wHh a high and falt airplane
+                                      also rhe basis for rhe most secret and      with a small radar cross secrion. In
+                                      !ensitivc Mpcct of the project. The         the words of other inuUigtnca Vl!ter.
+~ne Poceat spent the bulk of his      OXCART was to be invisible to rhe           ans, "Estimating is what you do
+career in rhe Directorate ofStienc~   Soviet radars-the first·ever srealrh        when vou do not know and cannot
+and Technolosr.                       aircrafr.                                   flnd our."
+Stealth
+
+
+
+
+                                                           ''
+                                            ELINT's contribution was
+                                                virtually nil, and
+                                              intelligence analysts
+Primary Sources                                                                      ;11\d rhe recordings, one could fairly
+                                              considered it next to                  well derermine che radar's location,
+To \lndmtand why E.Ll!'-;T and the                   useless.                        and the signal's gene1·al frequency,
+inr~llip,M'• N<im~tins procc~s had so
+                                                                                     pulse race, and pulse width. From
+
+
+
+                                                           ''
+little Ill offer, and how both wm                                                    these signal parameters, an analyst
+r<~~rded, one nood• to take a closer
+                                                                                     could then estimate the r;dnr's per·
+look ar horh in the early y~m of the                                                 formancc but noc wirh any great
+Cold War, During rhc lim Jecade or         thm its sources, and they were uften      accuracy or certainty.
+so ntrcr rh~ National S~curiry Acr of      roo meng.er. ~ccond, NIEs were oft~n
+1947 created the CIA and the               dangerously wrong on crucial              'J'ha c:h:Jl~rtge w.~s to find a way to
+Narional Security Agency (NSA~.            Strategic issu~s. Fot· example. just      intercept chese r;dar signals beyond
+what we know today as SJGINT               before the Culnn missile crisis of        our line of sight, or horizon. :u well
+was, by nnd large, divid~d into rhrcc      I %2, an ~It cn,,cludcd that the          as those radar signals chac were within
+discipJiMS:                                USSR woold nor place strutel!,ic          our line of ~ight but which the Sovi-
+                                           weapons rn Cuba-even though               ets, who truly understood radiation
+• Communications intelligence              there was some evidence that it           ~ccuriry. simply kept off th~ air. The
+  (COMIKT), derived from NSA 's            already hod some mi.1siles there.         object of all this EUNT collection by
+  inrer.:cpt, decrypnon, and an,Jysit      Third, there was often insuffici~nr       v~riou$ IC elements was to contrib-
+  of foreign communic<tions.               information nvailable to prochrce         ute to the Department of Defen5e's
+                                           ~vcn a guess. much less ~n estimare,      Elmronic Ortbr o/Battlt (EQB), ~
+• EL!NT, b~1ed on the intercept            on such ~soteric topics us a radar's      publication listing rhe locilrions of
+  and an.,ly.i• of •it~nah, other than     ability ro detect ~tealchy aircraft.      che various radArs or signalrources
+  communications (such 2.S radar nnd       When available, COM INT and               for a number of .;on~urncrs. The
+  other sign;l]s associated with we~pon    photography were considered the           EOB was rather incomplete, and thus
+  S)'Stcms), and carried out by pracri·    most credibl~ sources of intelligence,    unreliable, because mosc Soviet radars
+  cally every element within the \C.       and they provided the b11lk of rhc        were well out of sight of any ELINT
+                                           NlE conrl'ibutions.                       collection assets.
+• Tdemerry imelligenc~ (TEl..lNT),
+  u~ually from the collection and analy·
+                                           No R•s"-rd for ELINT
+                                                                                     This was the scene ac che end of
+  sis of tdemetry trom missilc:s in                                                  19:59. when I was a new engineer
+  flight, mostly by rh~ CIA.                                                         assigned to the ClA's EL!NT Staff
+                                           ELINT's COIHI'iburion was virtually       Office (ESO) in the Office of
+The~e three, in conjunction with           nil, and incelligcncr ~nalysts consid·    Scientific Jnre11igence (OS!). I was
+nerial photogr~phy coming mo~tly           crcd It nexr to usdcs5. ()n~              soon cleared Into the OXCART
+from rhe U-2s r.ying over the Soviet       prominenr CIA operations officer          project and also into the stealth
+Union, provided most imellig~nce           said th~t the Clandestine: Service con-   asf~cr. One of my early encounters
+<twtilable at the time to intelligence     sidered ELINT a five-letter               was with a group of OSI analyses
+<malysrs. The analysts nlso drew on        cussword, that he viewed ELl NT ••        discussing a newly intercepted signal,
+information from cluJlde.~tinc or          worthless, and that only agents could     apparently picked up by an ELI NT
+open sources, and d1ey included            be relied on for worthwhile               site in Berlin. The analysu hnd
+their own views, biases, ond gueHe~        infntm~tion.                              skcrchcd the signal's characcerisdcs
+in the process of producing National                                                 on a blackboard. I ~uggened rhat it
+Intelligence Estimates (NJ&), the          EUNT was mosrly a pas.1ive, rudi·         probably was a missile guidance
+intelligence "hiblcs" on Sevier strate-    mentary means of collection. Jr           ~ignal, because: of irs similaricic:s t?
+gic and tactical technologies nnd          involv~d getting a radio receiver and     guidance signals I had been working
+capabilities, and on Soviet intentions.    r~co&·dcr within line of ~ight of the     with ea1·1ier at Btl! Telephone
+                                           Soviet radars or ocher source~ of         Labol'atorie~ in New Jersey and ar
+But there were three problems with         important noncommunicJtions sis·          Cape Canaveral as a missile guidance
+NlEs. First, no product is ~ver hcttcr     nals. From mdio dir·ectlon finding        development engineer.
+
+
+5?
+                                                                                                                      !ltllllth
+
+
+
+
+                                                            ''
+                                           The OXCART mission
+                                           phmners were espedal)y
+                                          concerned about just how
+The m)'Stery signal ind~ed turned                                                    Union that were needed by 1he
+out to be tht lvng-s<>ughr SA-2
+                                          widespread the Soviet early                OXCART planner:..
+GUIDELINE SAM guidance ~~~n;d.             warning radars were and
+Additi~)n~l EL!NT intercepts ~wer
+the emuing y~ars would reveal
+                                           where they were located.                  A New Challenge
+enough ;tbour the signal to build
+del'tronic jammers abk tv counter
+the SA-2. !learned later that the
+Soviets had easily acguired CS
+pat~nt information on which the SA-
+2'~ FAN SONG radar was based.
+The Soviets hud easy accm to US
+                                                            ''
+                                          G<orge M., chc head of the F.SO,
+                                          thoughc rhe ide• worrh pursutng 3nd
+                                          ~uggc:stcd l run rhc ide~ b)' a coupl~
+                                                                                     A new Sovkc air defense elrly warn-
+                                                                                     ing radar, the TALL KING, began to
+                                                                                     appear about chis time, which, if
+                                                                                     deployed widely, appeared to
+                                                                                     improve significantly che Soviets' air
+                                                                                     defenses. The TALL K1NG quickly
+cechnology, while Wl' had ha1·dly any     ofhishly r~garded EI.JNT cxp~rts           became rhe nemesis of the OXCART
+~ece<s to theirs.                         fi'Om private industry to fine-rune:       planners. MELODY's suecess with
+                                          rhc concept b<'forc procccdin5.            the high-powered, misslle-relllted
+                                          Consequently, 1was sent to                 radm led to the idea of using the
+                                          Califomia to dimtss the idea with          moon as a distant bim.cie refleetor co
+Diftkuh Q11c6tions                        Dr. Willi~m Perry of Sylvania's            intercept and locate che Soviet TALL
+                                          Electroni~· Def•noc Laborat<>ri"' i11      KING radar~ emplaced thrQ1115hout
+The OXCART mission pl;~nnm                Mounrain View and with Dr. Albert          rh~ Soviet t.:nion.
+were cspcci11ly concerned •hour 1ust      ("1-lud") Whedon of TRW in Lo,
+how widespread the Sevier early           Angeles, both of whom offered              Ac the same time, the Lincoln Labora-
+warning radars were and where the)'       tfchnkal and moral $Uppnrc. Th.,re         (Ories, America's premier radar·
+W(re located. It seemed impos5ihlc,       were no computers in d1ose days, so        development hou~. had been engaged
+however, to determine the number,         the feasibility studic~ and                in a "radar astronomy race" wirh irs
+~x~ct location, or anv other t~chntcal    cngineel'ing calcul~tions involved         Soviet counterparts co sec which side
+information on rhos~ radars. 1            dolvins 1pheri.::nl trit~onomttry          would be flm to detect and character·
+recalled an occasion at Cap~              equations using slide rules, tables of     ize the moon's surface using radar.
+Cnnayer~l in the 1950s, when the          lnsarlthm~. nnd hand.cr~nkd                Lincoln won, handily. l v~ited Dr.
+signal from a ground-based l'adar         mechanical calculators.                    John EYMS ar Lincoln Labs and dis-
+located 1,000 miles beyond our                                                       cussed che moon r.adar results and the
+hori2on was pick~d up at rhe Cape;        George's approach paid divtdends           bistatic EL!NT idea. Drawing on the
+the signal was reflected off a Thor       with an unusually swift funding,           Lincoln Labs' understanding of the
+IRBM during a r•;r flight. The            nppt·nv~l. 2n.-l th<" llni.~hed .w~tem,    moon as a reflector of radar sienals,
+sugge~tion was rhen made that this        which 1 named MELODY after one             semidve ELINT rcccivcu, tuned ro
+same phenomenon (laret• called            o( my f.1Voritc·sounding words, wa.~       the TALL KlNG frequency, were
+bistatic intercept) could be used to      Installed at CIA's ELI NT and              attached to the 60·foot RCA radar
+inc~rcepr Soviet high-powcr~d radars      CO MINT ~ite on the shores of the          2nrenna just off rhe New Jersey Turn-
+well over the: horizon by poinring the    Cnspian Sea in northern Iran. Over         pike near Moore~mwn •nd poinced at
+ELI NT antennas at rhe Sevier             the en~uing years, MELODY                  the moon {the Lincoln ubs' giant
+ballistic mi$siles during their flight    produced bistaril· intercept~ of           rudar nntenna were preoccupied wirh
+testing, by using rhe missile's radio     vlnuully all the g!'ound-based Sovi~c      more radnr astronomy experiments).
+beacon for pointing or programming        nHs~ile tracking radars, im:luding all     The ELINT receiver• w.lf\1 W<> opd-
+the ELI!'lT ancennas to follow the        ABM r~dars at a tW range I ,000            miud for the effects of the moon a.1 a
+mlssil~·~ predicted trajectory.           miles away. The fixed loc~cion oF          rel1eccor, that is, llsin!; the Lincoln
+Previously, the common practice had       MELODY and the limited                     Labs' "marched filter" techniques.
+been to poinr th_c ELJN1' anrenna.~       trajectories of chc Soviet missib          Over time, "" the E:~rrh and moon
+•H the horizon in the direction of rhc    being tracked, however, still did not      revolved 3nd rocated, all the Soviet
+target radars. h is Iitt!<' wonder rhat   provide the locations of all the air       TALL KING6 came inro view one ~~~a
+no signals were .-ver inrercepr<'d.       dl'fl'nse r:1d:ars throughout the Soviet   time, and their preci$e gcogrQphic loca-
+ Stealth
+
+
+
+
+ tions were plotted. The larg" numhcr        nnwre.~. their understanding of rhc        of the bricks. It turned our the bricks
+ of'rALL KJl'\Gs rh•r were found and         Sovtcr air dden~c syst~m. ;~nd their       were from the nearby Pritzwalk
+ ch~ in'r~dibly complete radat· covcra~c     ahiliry to oper>tc anywhere in tho         Brick Fact<>ry· When we :~•ked th~
+ of the Soviet Union was nor good            world.                                     Clandestine Service to get us a
+ news tor th~ OXCART l'rogram                                                           Pri<~WRik brick, we dared nat :.dmit
+ Offk~--Qr th~ US Air For(e Srrategic       The core group never conbist~d oi           it was for an ELINT project. We
+ Air Command (SAC), which had ro            more than six people. AI N. was to          were h11ppy to give the impreuion
+ plot wanime bomlxr pencrmion               run a C-97 flying ELINT laboratory          that it w~ to be hollowed om to con-
+ routes.                                    operating in the Berlin air corridors,      ceal something.
+                                            which had linc·of-sighc access ro East
+Lockheed had made it.~ own csti-            Gcrman-hased Soviet r~dan, and              Out· PPMS were inefalled in a 'erie<
+m;ues of the OXCART's                       Richard B. ran a similarly equipped         0f Air Foree planes, starting with •
+vulncrabilitv to Soviet rndar.<, which      RB·47 n:connai~sancc aircraft operat-        C·97 and an RB-47, then C-130c,
+some fdt w~rc overly optimistic.            ing around rht periphery 11f th~             and finally modern RC-135s. PPMS
+Although some earlier efforts had           Sov1er Union. )<lCk W., ~nAir force          mis~iono were flown aroun4 the
+already been m~dc ro quanrify the           mast<!r sergeunt who had to have            world, along rhe periphery of all
+older Soviet radar~' capabilities by        heen the original modd for telcvi-          Communist countries, and in the
+measuring llu:it power and r~ttcrm.         r.ion'• Serse~m Billt.o, r~n rh,. ground    Berlin air corridors. Of equal impor-
+they h~d only limited results. Now          <'lperadons.                                tance, the'e projecn led to an
+~$Si~ncd to the OXCART Program                                                          exrremdy dose and ea.sy working
+Office. I nsked for, and was gramcd,                                                    relationship among th<! CIA, NSA.
+the job of trying to gt:t the hard engi-                                                ~nd rh~ Air Force. Technical repom
+                                            PPMS Activity                               on chf product of each minion wera
+ neering data needed on the threat
+radm to put the vulnerability issue                                                     published by the CIA's Office of
+to rest. The first step was to ask OSI       These proj~cts lead to ~series of air·     ELINT (OEL) and distribut~d
+to set up a spe~;ial "Vulnerabiliry          borne Pow(r and P~tccrn                    throughout the defense and intdli-
+                                             Meocuremem Sy<tem• (PPMS) rh:a             genc" commurtirie~. ;U well~ to the
+Analysis Group" to work with the
+hard t:ngintering data we expected tu      . could mensure a radar's spatial cover·     industry's electronic countermea·
+obtain. The group worked closely             "fl<' and I« rodior~d power with           •uro< d•,isn•rr· The•e reports led to
+with my ELINT collectors, advismg            exueme precision. The PPMS would           a flood of requests for more informa-
+                                             tvemu~lly b. upgr~dcd for me~sur­          tion about bod1 old and new radars.
+us on the data they needed (there
+w~re no formal requirements for any-         ing other importanr radar si~nal           which generated more missions.
+thing we did at char time) and b>·           parameters, including radiolrequency
+                                             coher~nce, polari~cion, and internal       One of the e~rliesr benefits of this
+~uggesting colkction operation ideus.
+                                             ond .-.:c.rrnal signal srrucrurc derails   3Ccuratdy mea,ured air dcfen'e
+                                             which provided even further insight        coverage was rh:~t it revealed that the
+                                             inro • rodar's performance char            Sovi~t~' low·"-'titl.lde «>v•rage w:.• f:t.r
+A Talented Team                              would b~ vital to the Vulnerability        bercer than our analysrs' earlier
+                                             An:Jy~is Gt'Oup and to che designers       e~timACe8, ~nd SAC quickly changed
+ln looking at the Soviet ~ir defens~         and builders of electronic jammers.        irs SlOP plans for wartime
+rud~rs, particularly che TALL KING,                                                     penetration to a much lower and
+and, ro a lesser degree, at all th~         The .precist" dimtnsiom of the TALL         survivable altitude. The projt:ets also
+other major a<:qYi•itipn, t~rgct, an<!      KJNG «nt¢nna were ul5o needc<l for          ~ncwered the analyrt< question of
+                                                                                                                 1
+
+missile-tracking and guidance radar~,       our calculations of the antenna gain        wh~thct the TALL KING radar abo
+the obvious place m ~tart wa• where         for \l•c in our rAdar C<jU&tions. Ona       hAd a height-finding cllp:t.bility for
+the earlier efforts left off, but with a    US military attache got close-in            derermining an aircraft's ~titude as
+system that would ~'rCiducc repeat·         ground photograph~ of the raddf in          well'" in bearins :and r~~onge. One of
+able and unqu~scionablc results. 1          East Germnny. The antenna wa~               our RB-47s, towing in PPMS
+assc:mbl¢d ~ smllll flrO\tp of engineers    mounted on a smnll brick base, and          anrcnnn a mile behind the nircrafr
+who were known for rheir innovative:-       we ask~d lor the dim~nsions of one          while over the Sea of japan, abrupdy
+
+
+&4
+                                                                                                                        Stn/th
+
+
+
+
+                                                            ''
+                                             We now knew the Soviet
+                                             air defense radars' power
+                                             and spatial coverage, but
+descended 5.000 feet and then                                                         atrports in northern japan, Jack W.
+quickly climbed b~ck to crllise
+                                              that was only half the                  spent more chan three w~d~
+.tltirudc. A Marby US SlGJr•H               answer co the OXCART'$                    rr.ul3porting his lnrge PALUDIUM
+st~don was able tn confirm char rhc                                                   fun by min. Because of the ~mall rail
+Soviw' radar had in f.tct ohservcd
+                                                stealth-and health.                   tunnels, he ~penr •bout thrte weelu
+
+
+
+
+                                                            ''
+th~ <lircraft'~ altitude change while                                                 in northern japan, in the dead of
+the ;1ircraft's own war11111g rccdv~rs                                                winter, hauling hi~ van of
+confirmed no other rldars were                                                        PALUDIUM equipment off trcins
+trncking it at the rime Although                                                      and crucking and sledging it over the
+under strict ordel's never to deviate      Bud Whet!.on, nnw the ClA's new            mouncains-and purring it back on
+from • stead)', nonthreatening flight      Deputy Direcrnr t'or Scienc~ 3nd           lllloth•r train on the othrr cldc. Once
+profllc near the Soviet border, the        Technology, dubbed our project             operation<I.l, Jack flew his black ghost
+pilot explained his actions tn his         PALW\DIUM. Now, thf r~al trick             in and out of the Soviet "ir d~ftntt<.
+superior as rurhulcnce avoidlncc.          was to find .~ome way of knowing
+                                           whi.:h oF o~r blips th~ Sovi~t• could
+                                           see on cheir radar screen~-rhc
+                                           sm~llest size blip being a measure of
+                                                                                      Fooling the Cubans
+Project PALLADIUM
+                                           the semitivicy of rhe Soviets' radars
+We now knew the Soviet air defense         3nd the •kill of th~ir op•rotOT$. We       Wh~n the Soviet~ mov~d into Cuba
+r;~d~r~· power und sp.~tial coverage,      began looking ar a number of               with their missiles and associ:<ted air
+hut that was only h•lf th( answer ro       pauible Sovl~t ruction• thar might         dcfcns.: r•dau, mAny of which w•r•
+rhc OXCART's stealth-and hc•lth.           give us dues a~ co whether our             inHalled n~o1r rhe coast, it presented
+We also needed to know rhe sensitiv-       aircrnft wa~ •~en. Th .. clu~~ r;~ng•d     ~ golden opportuni~ to mccsure the
+ity of the Soviet~' radar receivers and    from monitOring th~ So viers'              system sensitivity of the SA-2 missile
+rhe proficicnq of their operators.         ,.:ommuni.:arions, to their switching      radar. 0 ne particularly memorable
+The OXCART Program Office h;td             on other radnrs to acquire and             operation, conducted during the
+a srable of top out&idc scientists ro      idoncify the incrudt~•. Rkh:aJ B.          c~ban mis.ile eridis, had the
+draw on, and, with their hdp ,nd           ~uggcsced we ream with NSA 10              PAI.UDIVM system mounted on n
+~uggcstions, I came up wlch a scheme       provide th~ SIC! NT monitoring of          destroyer out of Key We.r. The
+to dectronically gcnemte and inject        Soviet rtawon to our ghosr aircraft.       de moyer lay well off the Cuban
+carefully calibrated false rargcrs into    ThiQ link w;c co~ilv dec:rypud-:md         cour, just out of •i~ht of the Soviet
+the Soviet rad~rs. deceiving them          in real time. This feedback rurned         radars ne:tr Havozna, but with our
+inw seeing and tracking a ghost            ouc co be rhc rc:al key ro several         PALLADIUM transmitting antenna
+uirc1·afr.                                 PALlADIUM successe~.                       just breaking the horizon. The false
+                                                                                      aircraft wae made to tppe~r to be <l
+Ba~ically. we rec~ived the radar's ~ig·    Every PALlADIUM operation                  US flghrer plane out of Key West
+n~ and fed ic into a variable delav        consi~ccd of a ClA t·eam with iu           about to overfly Cuba. A NRvy
+line before mn.~mirring rht sign;!         ghost aircraft system, an NSA team         submarine slipped in dose to
+hack to the radar, By ~moothly vary-       wlrh lc5 .~pcclal COMINT xnd               Huvanft Bay, •nd it was co ~urfQce
+ing the l~ngrh of rhc: dday lin~. we       decryption cquipmenr. and :a               just long enough to release a timed
+could simulate che false t~rger's I'angc   military operational support ream.         s~ric~ of balloon-borne meta!ized
+and ~peed. Knowing the radar's             Covert PALLADIUM operations                spheres of different sizes. The idea
+power and coverage from the PPMS           were carried nut a~ainot a "~•·iery of     wu for the t~rly w:.rning radar C<l
+projects, we could now simulate an         .Sevier radar& around the world, from      track our electronic aircraft and then
+aircrw of any r•dar cross section          gro1.1nd buc•, n~v~l 3hip•. and            for the 511bmQrin" to 'urfact and
+from an invisible stealth airplane to      submarincs-submal'ine antenna              rdease rhe "calibrated" spheres up
+one that made a large blip on Soviet       i nsrall;ation• being rhe more tricky.     into the p!!th of the oncoming false
+rad~r screens-and anything in              The logistics o( s1.1.;h operations were   aircr;~.ft. It took; bir of coordination
+between, at any speed and alritudc.        often a nightmat~. Fot· example, one       and timing to keep the destroyer,
+and fly it ~long any path.                 winrer, when heav)' snows dosed all        submarine, and false aircraft all in
+
+
+                                                                                                                             55
+ Stealth
+
+
+
+
+ltne berwccn the Havana radar Rnd          i( he could broadc~s·r a quick, shorr     would be the firsf aircraft to meet
+Key We~t.                                  me~sage, in rhe open, to the wbma-        these goah.
+                                           rin~ to submerge and ger our cf the
+We hoped th•r the So~iw would              bar. The captain passed the word to
+mck and report the intru.:ling air·        transmit the mcs~ag~. An <:>g<:r >Ca-
+craft ~nd then turn on rhcir SA-2          man responded by h1uing the
+rarget uacking radar 111 preparatiOn       inttrcom hutron nnd •houccd down          Even bdore we h•d llni3hcd our
+for firing their missiles-and would        to the radio operator below deck.         projects, it had become obvious rh<~t,
+rep.m seeing che C)thcr stmnge tar·        "Dive! Dive." And th~n ~dded in           if the OXCART could not fly
+gee~, or ~phu~s, •~ well. The smallest     mpomc to a question from the radio        sc~ahhily, it could in the meantime
+of the m~rallic spheres reported seen      operator, "No, not us. Tell rhe ~ub­      fly safely, relying on irs superior
+by the SA-2 r;~dar operators would         marine t~l do ic."                        perform.anct' to oudly the SA-2
+corre$pond to t·he si~e, or small esc                                                missiles. Bur we would need a 3tJblo
+radar cross ~<::tion, aircraft that                                                  of effective electronic
+could be detected and tracked.                                                       counrerme;uurc.s 3ysrcms in the
+                                           lmporunt Achievements                     future. Our small group had already
+W t gor the ~nswers we went after,                                                   $pun off two other groups: one: to
+ bur ir was not without some excite·        By now, we fdt we knew at least as       t~ke on the job of developing
+ rnent-and entertainment. Cuban             much about the Sovi~rs' radar air        electronic j;unmcn and warnin~
+ lighter planes had fired on a Liberian     defenses~~ they did. We al~o knew        receivers for the OXCART and the
+freighter rhe day before, although the     that their radars were excellent, state   U-2s that were 3till flying, albeit over
+ship's Libcrian'flug. which is easily      of the art, and that their operators      China rather rhan the Soviet Union;
+miscakcn for the Americ:~n flag, W<ls      wer~ equally proficient. We also          and a •econd ~roup to continue:
+quite Yisible. Thi~ led us to expect        knew which of their radars had low       investigations into revolutionary
+thnt the Cubans and Soviets would           power, mninrenancc problems, or          techniques ro reduce further the
+not hesitate to attack a US-flagged        were orherwisc not functioning up to      OXCART's radar cross section to ~tn
+ve~el. In the middle of the opera-          par-and where the lJ$ Air Fon:C"         a<:cepcable level.
+tion, Cub:m lighter planes began           might safely penetrate in wartime.
+circling over the spot whne the sub·       We had finished our special mis.~ion      The second group came up with
+marine had surf~ced, and another           in support of the OXCART stealth          some: novel schemes, such as rhe
+fighter plane gave chase to our ghost.     program and gave our collected clara,     moun tin~ of spec:ial elcetn>n gun6 on
+\Y/e had no trouble in manipulating        now called Quality ELl NT, to the         rhe OXCART to generate a radar-
+rhe PALLADJUM sysrem controls ro           OS! analym. The analysts then fin-        absorbing electron cloud in front of
+keep our ghost aircl'aft always just       ished their vulnerability analy~is job    the aircraft. The new electronic jam·
+ahead of the: pursuing Cuban planes.       by concluding that the OXCART             mer group in tUrn bc:5an to wk A
+Wh~n the Cuban pilot radioed back          would indeed be d~recred and              new, more responsive generlltion of
+to his conrrollers that he had rhe         cracked by the Soviet~, which br          E.LINT collec:tora to obuin even
+intruding aircraft in sight and was        then was no surprise to any of us ..      more derailed informacion abour the
+about to make a firing pass ro shoor       The OS! analysts pur ir rome differ-      Soviet radar signal•. One of the U-;!
+ir down, we: nil had the ume idea at       ently, saying that we had just proved     missile warning receivers they <level·
+the nmc instant, The technkian             the Eunh was round and that, as           oped was even modified and ins~led.
+moved his finger to the switch, I nod-     soon a~ rh!! OXCART came over the         in an Air Force fighter plt~ne and
+ded ves, and he switched off rhc           horizon, the Soviet ~ir dcfcmc rndar~     bccume the hui1 of a lilttr syncm
+PALLADIUM system.                          would immediately s~~ auJ u ..d, ;,,      ~ ...lied WILD WEASEL, used ro
+                                           At the same time, we h~d aho cst"b·       locatt' and d•~troy SA-2 SAM si"' in
+We were now concerned that the             lished realisric ste:Uth radar cross      North Viernam. WILD WEASEL
+submarine might have lingered on           section goals that, if met by the nt:"t   became the 5t~ff of sruf norie~: tnd
+the surface after releasing hi~ balloon·   generation of ~tealth aircraft, would     leg~nds about che derring·do of the
+borne radar targer~ ~nd might be           allow the ait'cratr to tly w11h Impu-     pilots who hunted down th~ ~A-2
+unawart of the fighters circling ov~r­     nity right through the Soviet radar       sires. launched their radar·kilhng
+hcad. I ~sked rbe destroyer's c:lptain     benms. The F·ll7 3ttalth fighter          miuil"" in ~lore, and dodged fht
+
+56
+                                                                                                                          srealt/'1
+
+
+
+
+ 1111~~il~s fired at them during rh~
+                                                              ''
+                                                  I feJt Jike one of the
+                                             a.naly.st.! I had criticized for
+                                                always coming up with
+                                                                                        come from the Whire House, and
+ encounters.                                  only a best guess-and it                  rh•tt Secrerary of Defense McN~mara
+                                                was not a comfortable                   and ochers were thert, along with
+  Word quickly spread about our                                                         Director of Centralintdligence John
+  group's newfound knowlcdg~ on
+                                                           feeling.                     McCone. I surmised that McCone
+ Sayic!r ~nd Chint'~e radJI'S, 2nd Clllls                                               was the likdy source of the: request,
+
+
+
+                                                              ''
+ came in from around the world seek·                                                    because h~ knew about PALLA-
+ ing more information about cerratn                                                     DIUM lnd our spoofing expertise.
+ operationnl features of ~pecific
+ radars. R~quest~ even ~nme in from           hav~ been spoofed electronically?" A
+subm:trine skippers wnnring to know           f.1sc read of the message gave (t.'w      HENHOUSE
+ how ~~ertain Chinese surface search         clue.~. and I asked tf there was any
+ radan could detect a target ns small         more informacion available or
+ as thdr periscope~, which com pro·          expected. I came up with a lise of          The special OXCART colle~cion
+ mi~ed their posidon to enemy patrol         things I needed to know ro give a           projects had tO\ken on a life of 1hcir
+ bom. We assured them that the               confident ~nswer, such ns visibiliry in    own. Our focus soon shifted to a
+ r;ld;m could nor pmsibly set their          the gulf at rhe time of the incident,      broader range of other so·ca.ll~d
+smJII periscopes. bur that they were         any repons of li~:htning or                 intractabl~ techni<:al problems. We
+ likely seeing the .~ubmarin~'s ECM          rhunJerstorrm in th~ area, the speeJ       wenr after the signals others ncedcd,
+!SIGINT) m~st. The rMst wa~ also             of the torpedo boats seen as moving        wherever and however possible.
+ruised above and behind the peri-            radically wwnrd rh• M2ddox. and            Abouc chis rime, satellite photosra-
+scope; it was nbout the siu of a             rhe presl'nce of oth~t ships or aircraft   phy had disclosed a huge new radar
+totem pole, and it made an idea! car·        in the area. My boss wenr away with        deep in the Soviet hinterland, the
+get as the motion of the waves v:uied       ·the que~rions, but he rerurncd to sav      HEN HOUSE. The analyses "esti·
+the mnsr's length, effectively optimi1-      that norhing dse would be             ·    mated" that it was a phased-array
+ing ir for detection by the radar.           forthcoming and that I was to do the       radar with some sort of space surveil-
+After lowering the ECM mast, the             b~st I could with the information I        lance capability. By now, early
+submarines were no longer detected.          had-and soon.                              ELINT sarellitcs wcr~ in orbit, and
+                                                                                        the radar'~ frequency wu~ known ;a
+                                            After a fl'etfu! hour, I concluded the:     be in the VHF band. Asecond HEN
+Gulf of Tonkin Incident                     targets were most probably real, that       HOUSE was alJO undcr c:onsrruction
+                                            th~ Maddox had not been spoofed. I          in the northea.~rern Soviet Union, a
+ In early August 1964, our ~mall            would have been much more:                  couple of hundred miles inland from
+off.ce received ~n exuaordinary. :tnd       confident, however; if I could hav~         Riga but still well beyond any
+prophetic, que!)' My boss handed            had an~wcrs to my questions. l felt         ELI NT receiver> lin~ of 5ight.
+ me a copy of l message from the            like one of the analyst~ I had
+ridar operator on the US descroyer          criticized for ;~lways coming up wirh       }udging from the size of the radar
+Moddox, which was operacin& in th<:         only a. best guess-:~nd it was nor a        and its l'robable high power, I felt
+Gulf of Tonkin, off rhc coast of            comfortable feeling. (I lmr tried           we should be able to pick up its
+North Vietnam. The message                  unsuccessfully for over a year to           signal, even when it was not pointed
+descnbed how the Maddox, and                obtain answers co my original               our way, out co several hundred
+anorh•r dauroyer, the Turner Joy            questions and to lc2rn more ahout           miles; the signal would be scattered
+had been attacked for the s"ond             the situation in the Gulf of Tonkin         forward and over the horizon via a
+time hy North Vietnamese torpedo            th:~c dny.)                                 phenomenon known as tropospheric·
+hoacs-nnd that chc attacking boat~                                                      scatter of radio waves. Studying a
+were seen only on the ships' radar           Tht Washinfton Posr headlines the          mup, l found an island in the Baltic
+and heard by the $hips' sonar               next morning carried President              Se~ chat looked ro be at abour the
+operators. That morning. I was              Johnson'~ authori~ation to the start        right distance from the: HEN
+asked, "The people ~<P~tairs want to        in rhc bombing of North Viet11arn in        H 0 USE to install n trop<lo'pheric-
+know if those torpedo boats w~rt­           retaliation for the attacks. I learned      scatter receiver thar could intercept
+re~J. or could the Maddox·, rndur           later thut the original qu~ry had           and continuously monitor the radar.
+
+                                                                                                                             57
+ Stealth
+
+
+
+
+ l)JI<:e (.<)n,rruction was compl~ted
+                                                                 ''
+                                                     Secretary of State
+                                                      Kissinger, uting
+                                                 intelligence derived from
+                                                                                           ballisti<: missiles, and rhat we should
+ and ir wcnr on the air,                         the MELODY intercepts,                    uy to find • way to calch them at ic
+                                                     looked his Soviet                     Much 10 the chagrin of rhe analysts,
+ Aft~r ~,,tensive negotiations ~eeking                                                     MELODY Answered rhe questions
+ approv:~l for ;~cccss to rhe 15l:md, clu.ll
+                                                counterpart in the eye and                 within a few weeks. MEJ.ODY had
+antwn;ls were insrallcd, ahour 50                 read him the dates and                   been qu~ekly modified by adding a
+wnvd~,ngrhs ~p2rt, to reduce the                                                           special EL!NT reeelver tuned w the
+expected atmospheric f~ding and the
+                                                times they had cheated on                  SA-S's ground-based carget•tracking
+rece,ver was put on auromatic pikH,                     the treaty.                        radar frequency-which was known
+or unattended oper•rion, and then                                                          by then. We relied on a r;~d;~r located
+
+
+
+                                                                ''
+we waited. The BRIAR PATCH                                                                 in another country for tipoff of
+rropmcatter sysrem finally picked up                                                       Soviet IRBM launches. The SA-5
+the very first HEN HOUSE                                                                   target traeking signals were:
+transmission and every subsequent                                                          bisratically intercepted from the Sary
+transmission,                                  no ..... being consolidoted under NSA       Shagan missile test site, 1,000 miles
+                                               uuspices, NSA ;mJ the Air Force             away, as the Soviets repeatedly rested
+                                               carried on and expanded our special         the SA-5 in the forbidden ABM role.
+Wt learned rhar the radar tracked
+                                               collection programs.
+1.)$ s~tellites from the first orhit, and
+thiH the Soviets had an incrediblv                                                         During one of the ensuing Genev;r.
+effee~ive espionage network in piace                                                       negotiating sessions, Secretary of
+to tip off the HEN HOUSE when,,                Cuur;ht Ch~ating                            Stare Kissinger, using inrdligencc
+US inrc!ligcnce satellite was about tn                                                     derived from the MELODY inter·
+be launched. When there was n                  One' of M F. I,ODY's more signlficlnr       cepts, looked his Soviet c:ounrup~rt
+lengthy hold l1f an impending launch           su<:cesses would come <lbaut much           in rhe eye and read him the dates
+from Vilndenberg Air Fore~ Base in             lat~r. during negotiations with {he         and times the Soviets had cheated on
+California, rhe HEN HOUSE would                Soviets on the 1972 ABM creacy-             rhe treaty. The cheating immediately
+switch off and come back on rhe a!r            which included an obligafion nor to         ceased, ilnd the Sovien bc5"" .. mole·
+th~ insr01nt the satdlite lifted off           giv~ non-ABM systems, ~uch as rhe           hunr for the spy in their midsr chat
+From V:ondcnberg. The HeN                      SA·:I antiaircr~ft missiles, capabllltle~   most surc:ly h<~d tipped u~ off.
+HOUSE would thus have a tr:~ck on              ro counter strategic ballistic
+the satellite on ir~ first paS$ overhead.      missiles-and nor ro rcsr rhtm in 111
+                                               ABM mode, As a prelude to anNIE             Counting Troops
+We also learned that the HEN                   on the wbjccr, intelligence anaJy~cs
+HOUSE rr~cked aircraft jmr as v.•ell           were debating whether rhe SA·5              During the Vietnam war, CIA's spe·
+and as often QS satellitc.l. This idea of      could he upgrndcd to become 1n              cia! task force on South Vlcmarn wlt•
+monitoring a tlldar's op~radons full-          ABM and whether the Soviets might           engaged in a heated debate wirh the
+time was an~ogous to th~ concept of            try to rcsr it covertly 111 ~n ABM          Army and the Secretuy of Defense'~
+traffic analysis in COMINT In the              mode.                                       office over just how many North
+HEN HOUSE case, the radar's pre-                                                           Vietnamese soldiers were infiltrating
+cis~ frequency indicated its pointing          AfTer n"carly ~ year of trying to ''ome     into Sourh Vietnam. The CIA esd·
+nngle. which w<~s then corrdar~d               up wirh an agreed-on estimate of            mates were much larger than those
+wirh the m~>$1 likely targets bdng             SA-S capabilities :~ml Sovier               of the Department of Defense. A
+rrn~~ked.                                      intentions. some an;~lysrs believed         quick study revealed rhat tho:: Air
+                                               that the Sovieu should never be             Force had emplaced acoustic sensors
+OXCART flight operations our of                ~xpected ro cheat on such an                along the Ho Chi Minh Trail
+Okin.1wa were c:v~ntuallv haired and           impmrant treaty. l sugge~tcd that we        (Project IGLOO WHITE) In an
+the fleet of 13 airplanes 'permanently         as~ume that the Soviets, ba.~ed on          attempt to detect and counr infilrr•·
+gs·ounded while their sister aircraft,         thejr histoJY, should be expc:ctt'd to      tors. Both the Air For~ and Navy
+the SR-71 Bl2ckbird. took to the ait.          cheat on the rreacy by tcuing their         had SIGlNT planes, a C·l30 and a
+With the nation's SIGINT acdvitics             SA-5 against one of their own               C-121. orbiting off the Viem;uncse
+                                                                                   Stnlth
+
+
+
+
+cm1Sl co intcr<:ept and count the num·    received the n~ws oi :~ mo1 c •ccurace
+ber of small radios cmied by rhc          count.
+infihrating groups, alw<ys ti;twling:
+in ilxed numb~rs, on rhcir trek south
+on rhe rraiL An esrim•rc wus
+obtamed by multiplying th~ radios         Trailbluing
+b)' the number of men per group.
+The problem wns tlw the orbiting          During the years char our small
+SIGINT airplan~s could not fly high       group of engineers was in c:xi$tence,
+wough to intercept all the radios an      we would ol:cas!on•lly disl:uss just
+rhe long trail.                           how far we could gl> in rerms of
+                                          probing, spoolinc, and injecting false
+Our suggested solution wns to ger an      rarget~ und information 111to an
+airplane, in chis cau the.' U-2, char     enemy's electronic nerwork to learn
+could fly high enough to inrerccpt :1!1
+                                          covertly more about hi~ hidden capa·
+the 1·adics simulraneously for an cccu-
+                                          bilities and intentions. We also
+rote count. The Air Force soon
+                                          brninstormed about what responses
+fl,ill1d a special COMINT rec;eivcr in
+its inventory und had the operation       nnd ob,ervable' w~ mi!:ht look for
+und~rw•v in abour a month. Each           when radiation securiry, energy
+l!-2 cauid swv alofr l2 hours, and        encryption. and deccpthm were u•ed.
+f\VO cou!J pr~vidc 24-hour covcrn~e.      The process had no name at that
+The infiltration rat~ turned out to he    time:. bur, in retrospect, we were
+nwre like ~ flood. I was rdieved ro       unwitting participants in rhe origins
+move on to another assignment             of whar is now known as infonna-
+before the Defense Departmc:n t           tion warfue
+
+
+
+
+                                                                                       59
+

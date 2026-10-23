@@ -1,0 +1,398 @@
+{
+ "open": {
+  "dur": 6.458270833333334,
+  "text": "In January nineteen sixty-four, the U.S. Navy intercepted a secret Soviet radar, by listening to the Moon.",
+  "heard": "In January 1964, the U .S. Navy intercepted a secret Soviet radar by listening to the moon.",
+  "words": [
+   [
+    0.0,
+    0.18,
+    "In"
+   ],
+   [
+    0.18,
+    0.5,
+    "January"
+   ],
+   [
+    0.5,
+    1.52,
+    "1964,"
+   ],
+   [
+    2.08,
+    2.12,
+    "the"
+   ],
+   [
+    2.12,
+    2.3,
+    "U"
+   ],
+   [
+    2.3,
+    2.56,
+    ".S."
+   ],
+   [
+    2.76,
+    2.88,
+    "Navy"
+   ],
+   [
+    2.88,
+    3.5,
+    "intercepted"
+   ],
+   [
+    3.5,
+    3.72,
+    "a"
+   ],
+   [
+    3.72,
+    4.1,
+    "secret"
+   ],
+   [
+    4.1,
+    4.52,
+    "Soviet"
+   ],
+   [
+    4.52,
+    5.0,
+    "radar"
+   ],
+   [
+    5.0,
+    5.54,
+    "by"
+   ],
+   [
+    5.54,
+    5.82,
+    "listening"
+   ],
+   [
+    5.82,
+    6.04,
+    "to"
+   ],
+   [
+    6.04,
+    6.14,
+    "the"
+   ],
+   [
+    6.14,
+    6.3,
+    "moon."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "In",
+    "spoken": "In",
+    "t0": 0.0,
+    "t1": 0.18
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "January 1964,",
+    "spoken": "January nineteen sixty-four,",
+    "t0": 0.18,
+    "t1": 2.08
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 2.08,
+    "t1": 2.12
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "U.S.",
+    "spoken": "U.S.",
+    "t0": 2.44,
+    "t1": 2.76
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Navy",
+    "spoken": "Navy",
+    "t0": 2.76,
+    "t1": 2.88
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "intercepted",
+    "spoken": "intercepted",
+    "t0": 2.88,
+    "t1": 3.5
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.5,
+    "t1": 3.72
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "secret",
+    "spoken": "secret",
+    "t0": 3.72,
+    "t1": 4.1
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 4.1,
+    "t1": 4.52
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "radar\u2014",
+    "spoken": "radar\u2014",
+    "t0": 4.52,
+    "t1": 5.0
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "by",
+    "spoken": "by",
+    "t0": 5.0,
+    "t1": 5.54
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "listening",
+    "spoken": "listening",
+    "t0": 5.54,
+    "t1": 5.82
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "to",
+    "spoken": "to",
+    "t0": 5.82,
+    "t1": 6.04
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "the Moon.",
+    "spoken": "the Moon.",
+    "t0": 6.04,
+    "t1": 6.3
+   }
+  ],
+  "match": "14/17"
+ },
+ "u2": {
+  "dur": 4.899333333333334,
+  "text": "A U two had photographed its giant antenna at Sari Shagan, a Soviet missile range.",
+  "heard": "U -2 had photographed its giant antenna at Tsar -e -Shagan, a Soviet missile range.",
+  "words": [
+   [
+    0.0,
+    0.28,
+    "U"
+   ],
+   [
+    0.28,
+    0.56,
+    "-2"
+   ],
+   [
+    0.56,
+    0.78,
+    "had"
+   ],
+   [
+    0.78,
+    1.22,
+    "photographed"
+   ],
+   [
+    1.22,
+    1.5,
+    "its"
+   ],
+   [
+    1.5,
+    1.82,
+    "giant"
+   ],
+   [
+    1.82,
+    2.24,
+    "antenna"
+   ],
+   [
+    2.24,
+    2.54,
+    "at"
+   ],
+   [
+    2.54,
+    2.76,
+    "Tsar"
+   ],
+   [
+    2.76,
+    2.9,
+    "-e"
+   ],
+   [
+    2.9,
+    3.24,
+    "-Shagan,"
+   ],
+   [
+    3.62,
+    3.82,
+    "a"
+   ],
+   [
+    3.82,
+    4.14,
+    "Soviet"
+   ],
+   [
+    4.14,
+    4.42,
+    "missile"
+   ],
+   [
+    4.42,
+    4.78,
+    "range."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "A",
+    "spoken": "A",
+    "t0": 0.0,
+    "t1": 0.0
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "U-2",
+    "spoken": "U two",
+    "t0": 0.0,
+    "t1": 0.56
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "had",
+    "spoken": "had",
+    "t0": 0.56,
+    "t1": 0.78
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "photographed",
+    "spoken": "photographed",
+    "t0": 0.78,
+    "t1": 1.22
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "its",
+    "spoken": "its",
+    "t0": 1.22,
+    "t1": 1.5
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "giant",
+    "spoken": "giant",
+    "t0": 1.5,
+    "t1": 1.82
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "antenna",
+    "spoken": "antenna",
+    "t0": 1.82,
+    "t1": 2.24
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "at",
+    "spoken": "at",
+    "t0": 2.24,
+    "t1": 2.54
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Sary Shagan,",
+    "spoken": "Sari Shagan,",
+    "t0": 2.7199999999999998,
+    "t1": 3.24
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.62,
+    "t1": 3.82
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 3.82,
+    "t1": 4.14
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "missile",
+    "spoken": "missile",
+    "t0": 4.14,
+    "t1": 4.42
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "range.",
+    "spoken": "range.",
+    "t0": 4.42,
+    "t1": 4.78
+   }
+  ],
+  "match": "12/15"
+ }
+}
