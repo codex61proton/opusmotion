@@ -1,0 +1,64 @@
+r
+
+The Space Race
+
+f
+
+This kind of analysis can eventually give a rather clear pic-
+
+•
+
+ture of mission perfonnance and the technical features of the
+missile hardware used to achieve it. One striking achieve.
+ment of such detailed post-tlight analysis, the reconstruction
+f
+of Soviet payload capability, is described in an appendix to
+il
+this paper as a good illustration of the techniques used.
+l
+An important facet of the post-flight reconstruction is trai
+jectory analysis. If one can establish launch time to the near!
+est minute by identifying fixed events reflected in the telemr~~·-.Qne can. tell-a. great deal about;;tlie~mlsSion-~objecUve·ana~-7 '~"'t'~·.'·•
+,; ''if.lf;;~'" ];/t~ ;-, '~4f,~<tli~£f&imlq\i~- bebig 'ilsed' ~io~' 'iiliilf~itil'tf 'IDterpian~ta.cy··~sions. For example, the launch time of Lunfk: I (Mechta) on
+l
+2 January 1959 indicates that this "solar satellite" was very
+·,:·_probably an unsuccessful lunar, ._hard Impact attempt which
+···through a guidance fault went into its fall-safe orbit about
+the sun. One can also tell from launch date and time whether
+a minimum-energy trajectory was used in order to maximize
+the payload or one favoring better guidance was selected at a
+sacrifice of payload.•
+It is also important to analyze data from the space payloads themselves. Usually this means telemetry data, which
+must be correlated with announced Soviet scientific experiments and our own impressions of how particular experiments
+ought to be reflected on one of the many unidentified telemetry channels. On the filghts of Major Gagarin ,and Major
+Titov, by exception, we had a source of data in television pictures, which left little doubt about the success of their missions; but it would have been good to know also just how·the
+recoveries from orbit were managed.
+The broadest continuing objective in post-flight analysis,
+however, is to understand the Soviet space program as a
+whole-past, present, and future. The program in this larger
+sense is seen as a complete schedule for achievement and acclaim, covering the selection of objectives, the development
+of techniques, and the exploitation of successes. Because a
+vigorous Soviet logic almost certainly interrelates these dif-
+
+,..
+
+i
+
+.· . .,. .
+t
+
+s These deductions really require knowledge of the launching azimuth
+
+as well as the launch time, but the azimuth ls almost Invariably
+supplled by radar returns, beacon tracking data from radio astronomy Installations, or Soviet all11ouncements.
+~EiRET
+
+~·
+
+... :.
+
+5
+
+::.'-'".. '.'"
+
+
