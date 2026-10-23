@@ -1,0 +1,209 @@
+{
+ "open": {
+  "dur": 6.458270833333334,
+  "text": "In January nineteen sixty-four, the U.S. Navy intercepted a secret Soviet radar, by listening to the Moon.",
+  "heard": "In January 1964, the U .S. Navy intercepted a secret Soviet radar by listening to the moon.",
+  "words": [
+   [
+    0.0,
+    0.18,
+    "In"
+   ],
+   [
+    0.18,
+    0.5,
+    "January"
+   ],
+   [
+    0.5,
+    1.52,
+    "1964,"
+   ],
+   [
+    2.08,
+    2.12,
+    "the"
+   ],
+   [
+    2.12,
+    2.3,
+    "U"
+   ],
+   [
+    2.3,
+    2.56,
+    ".S."
+   ],
+   [
+    2.76,
+    2.88,
+    "Navy"
+   ],
+   [
+    2.88,
+    3.5,
+    "intercepted"
+   ],
+   [
+    3.5,
+    3.72,
+    "a"
+   ],
+   [
+    3.72,
+    4.1,
+    "secret"
+   ],
+   [
+    4.1,
+    4.52,
+    "Soviet"
+   ],
+   [
+    4.52,
+    5.0,
+    "radar"
+   ],
+   [
+    5.0,
+    5.54,
+    "by"
+   ],
+   [
+    5.54,
+    5.82,
+    "listening"
+   ],
+   [
+    5.82,
+    6.04,
+    "to"
+   ],
+   [
+    6.04,
+    6.14,
+    "the"
+   ],
+   [
+    6.14,
+    6.3,
+    "moon."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "In",
+    "spoken": "In",
+    "t0": 0.0,
+    "t1": 0.18
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "January 1964,",
+    "spoken": "January nineteen sixty-four,",
+    "t0": 0.18,
+    "t1": 2.08
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 2.08,
+    "t1": 2.12
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "U.S.",
+    "spoken": "U.S.",
+    "t0": 2.44,
+    "t1": 2.76
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Navy",
+    "spoken": "Navy",
+    "t0": 2.76,
+    "t1": 2.88
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "intercepted",
+    "spoken": "intercepted",
+    "t0": 2.88,
+    "t1": 3.5
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.5,
+    "t1": 3.72
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "secret",
+    "spoken": "secret",
+    "t0": 3.72,
+    "t1": 4.1
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 4.1,
+    "t1": 4.52
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "radar\u2014",
+    "spoken": "radar\u2014",
+    "t0": 4.52,
+    "t1": 5.0
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "by",
+    "spoken": "by",
+    "t0": 5.0,
+    "t1": 5.54
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "listening",
+    "spoken": "listening",
+    "t0": 5.54,
+    "t1": 5.82
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "to",
+    "spoken": "to",
+    "t0": 5.82,
+    "t1": 6.04
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "the Moon.",
+    "spoken": "the Moon.",
+    "t0": 6.04,
+    "t1": 6.3
+   }
+  ],
+  "match": "14/17"
+ }
+}
