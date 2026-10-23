@@ -1,0 +1,11 @@
+Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html  (NASA NSSDC Moon Fact Sheet)
+Retrieved 2026-10-23 via WebFetch (direct curl from the sandbox timed out). Values as returned by the fetch tool:
+Semimajor axis (10^6 km) | 0.3844
+Perigee (10^6 km)* | 0.3633
+Apogee (10^6 km)* | 0.4055
+Volumetric mean radius (km) | 1737.4 | Earth 6371.0 | ratio 0.2727
+Mean orbital velocity (km/s) | 1.022
+Revolution period (days) | 27.3217 (sidereal)
+Geometric albedo | 0.12
+Radar cross-section: not listed on that page.
+Also seen in search result snippet (https://solarsystem.nasa.gov/moons/earths-moon/by-the-numbers/): AVERAGE ORBIT DISTANCE 384,400 km (238,855 miles).
