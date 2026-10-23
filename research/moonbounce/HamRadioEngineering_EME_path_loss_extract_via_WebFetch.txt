@@ -1,0 +1,7 @@
+Source: https://hamradio.engineering/eme-path-loss-free-space-loss-passive-reflector-loss/  (John Berry, Ham Radio Engineering, 2023-07-23; updated 2025-02-19)
+Retrieved 2026-10-23 via WebFetch. Lines as returned:
+"Empirically, we know that the round trip path loss is about 252dBi at 144MHz, 261dBi at 432MHz, and 271dBi at 1296MHz."
+"The RCS (sigma) is in units of dBsm (decibels relative to one square meter). For the Moon it is about 118dBsm."
+"Reflection coefficient rho is the same rho used in the billboard approach, typically assumed to be 0.07 or 12dB."
+"The two free space components vary as the distance: 398,000km at apogee, 350,000km at perigee (surface to surface)."
+Reliability: amateur-radio engineering blog; used only as a cross-check of the computed Moon radar cross-section (~6e11 m^2 = ~118 dBsm) and ~252 dB EME path loss at 144 MHz.
