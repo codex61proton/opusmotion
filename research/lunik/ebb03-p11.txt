@@ -1,0 +1,58 @@
+..
+
+r
+t
+;
+
+'
+'
+
+The Space Rcu:e
+
+eecRL'r
+
+propagation conditions made possible a weak Intercept which,
+With extraordinary effort, yielded telemetry records running
+from before launch to well after burnout. This intercept,
+since the total number of digital clicks on the "speedometer,"
+each representing one unit of acceleration, could be equated
+With the burnout speed required for the free-flight trajectory
+to the Kamchatka peninsula, established the all-important velocity meter calibration. That was the first lucky break, but
+it was still n~t enough, for one had 110,. r
+.Ie idea of the
+
+·~t~~·l··:.,t~~,~ii·~~~~~a~,~~,~~I:!~~~btatn~ b;~~~~-~:>
+>
+
+ond lucky break. Covertly, we were able to acquire detailed
+data about the upper-stage rocket vehicle shown In Figure 1,
+the Luntk stage whlCb;:mates directly· tO;'thit:SOviet ICBM.
+Although these data were incomplete, especially with respect
+to the motor, one could make a good estimate of the vehicle's
+perfonnance capability by calculating its dry weight against
+the quantity of normal propellants its tanks could hold. The
+result checked rather well with the Soviet payload announcements for Lunik I. The stage weighed about 2,600 pounds dry,
+and it looked as though it would weigh 18,000 pounds With
+the propellant tanks filled and the payload on board.
+Performance Reconstructed
+
+.}n September apd agahi in.~O<?.~ber._-,~f. 19~9 the Soviets
+launched successful lunar probes. Telemetry was received
+from the powered flight phase of the upper stage, and it was
+possible to identify this vehicle With the one reconstructed ~
+from covert data. More importantly, new long-range radar
+sets tracked the ICBM tanks which had been used to boost it.
+These traveled some 3,800 nautical miles on both occastons and
+hit the water not far from the radar itself.
+Here was the missing piece to the puzzle. Had the Lunlk
+stage not ignited, it too would have gone 3,800 miles with the
+empty ICBM. Since the Lun1k weight had been fixed at some
+18,000 pounds fully loaded, one could state with high confidence that the ICBM had a capability of throwing 18,000
+pounds a distance of 3,800 miles. From these figures we could
+compute thrust and weight schedules for the basic booster.
+Having previously determined the calibration of the velocity
+meter, we could reliably convert this performance demonstraSEER if
+
+9
+
+
