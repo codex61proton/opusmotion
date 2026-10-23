@@ -1,0 +1,465 @@
+Soldiers, Spies and the Moon: Secret U.S. and Soviet Plans from the 1950s and 1960s
+home
+|
+about
+|
+documents
+|
+news
+|
+publications
+|
+FOIA
+|
+research
+|
+internships
+|
+search
+|
+donate
+|
+mailing
+list
+Figure 1-23, "View from Flight Simulator" from
+Document 1
+.
+Soldiers, Spies and the Moon: Secret U.S. and Soviet Plans from the 1950s and 1960s
+Declassified Documents Reflect the Covert Side of Lunar Programs
+Posting Marks 45
+th
+Anniversary of First Human on the Moon
+National Security Archive Electronic Briefing Book No. 479
+Posted July 20, 2014
+Edited by Jeffrey T. Richelson
+For more information contact:
+202/994-7000 or
+nsarchiv@gwu.edu
+Related Links
+The Dirty Secrets Behind the Race to Put a Man on the Moon
+By Kurt Eichenwald,
+Newsweek
+, September 17, 2014
+The Wizards of Langley:
+Inside the CIA's Directorate
+of Science and Technology
+By Jeffrey T. Richelson
+U.S. Military Uses of Space, 1945-1991
+Edited by Jeffrey T. Richelson
+Sign Up for NSARCHIVE
+Email Alerts!
+Click here to receive email alerts on all the latest releases from the National Security Archive
+Earth rising behind the moon. (Photo courtesy of NASA, Lewis Research Center)
+Washington, DC, July 20, 2014
+– Forty-five years ago, astronaut Neil Armstrong took his "one small step" for mankind, becoming the first person to set foot on the moon. The program that
+resulted in that historic event — managed by the National Aeronautics and Space Administration (NASA) — had been a very public one ever since its
+announcement by President John F. Kennedy in 1961. Even the Soviet government had publicized aspects of its own effort.
+But there were also highly secret elements to the U.S. and Soviet schemes, which are the subject of today's National Security Archive posting of previously
+classified records. The documents focus on three topics — early U.S. military plans, including the possibility of conducting nuclear tests in space, the
+use of the moon to reflect signals for military or intelligence purposes, and U.S. intelligence analyses and estimates of Soviet missions and their
+intentions to land a man on the lunar surface.
+The posting includes:
+Army and Air Force studies from 1959 - 1961 on the creation of a military lunar base, with possible uses as a surveillance platform (for targets on
+earth and space) and the Lunar Based Earth Bombardment System (
+Document 1a
+,
+Document 1b
+,
+Document 3
+,
+Document 4
+).
+A study on the detonation of a nuclear device on or in the vicinity of the moon (
+Document 2
+).
+The use of the lunar surface to relay signals from Washington to Hawaii and from U.S. spy ships (
+Document 15
+).
+Collection of Soviet radar signals after they bounced off the moon — a technique known as Moon Bounce ELINT (
+Document 11
+,
+Document 14
+).
+The U.S. theft and return of a Soviet space capsule during an exhibition tour (
+Document 13
+).
+A 1965 estimate of Soviet intentions with regard to a manned moon landing (
+Document 5
+).
+Several analyses of Soviet Luna missions, including Luna 9 — the first mission to result in a soft landing on the moon (
+Document 6
+,
+Document 7
+,
+Document 8
+,
+Document 10
+,
+Document 16
+).
+* * * *
+Soldiers, Spies, and the Moon
+By Jeffrey T. Richelson
+On July 20, 1969, Neil Armstrong became the first person to set foot on the moon, an event watched by a worldwide audience of approximately 600 million
+people. Armstrong's "one small step" was the result of a prolonged and intense campaign initiated when President John F. Kennedy told Congress on May 25,
+1961, that "this nation should commit itself to achieving the goal, before the decade is out, of landing a man on the moon and returning him safely to the
+earth."
+1
+Apollo 11 commander Neil Armstrong left a small, gold replica of an olive branch on the moon in 1969. "The gesture represented a wish for peace for all mankind," according to NASA. (Photo courtesy of NASA)
+The prolonged and public U.S. effort that resulted in Armstrong's arrival on the lunar surface took place along with a competing Soviet program that
+involved spacecraft in lunar orbit as well as unmanned landings. While the U.S. had attained a number of important firsts with regard to the secret efforts
+to employ space for military, particularly intelligence, purposes, the Soviets had beat the United States in the more visible achievements of placing a
+spacecraft in orbit (Sputnik) and a man in space (Yuri Gagarin on April 12, 1961). For much of the U.S. effort there was the concern that the Soviet
+astronauts would also arrive on the moon first.
+While the U.S. civilian program to reach the moon, and some details of the Soviet one, were public, there were other aspects of the race to the moon that
+were more secretive. They included the details of earlier proposals for military activities on or near the moon, the ability to use "moonbounce" for
+intelligence or communications purposes, and the U.S. intelligence community's attempt to collect and analyze information about the Soviet lunar program.
+Lunar Bases and Detonations
+Before the mission of landing a man on the moon was definitively assigned to the civilian National Aeronautics and Space Administration, both the Army and
+the Air Force lobbied to establish outposts on the moon. A two-volume Army study (
+Document 1a
+,
+Document 1b
+),
+Project Horizon
+, argued
+that there was a need for a military moon base that would be used to develop techniques for surveillance of both earth and space, communications relay, and
+operations on the lunar surface. The study examined not only the technical aspects — the necessary space transportation system, its launch, construction of
+the base, and communications — but political, management, policy and legal implications.
+One Air Force study (
+Document 3
+), produced by the service's Ballistic Missile Division in April 1960, had alternative titles — one classified (
+Military Lunar Base Program
+) and one unclassified
+(S.R. 183 Lunar Observatory Study
+). It laid out a six-phase effort, beginning in
+November 1964 and concluding with a lunar base becoming operational in June 1969. Among the options being considered, according to the study, was a Lunar
+Based Earth Bombardment System. The second Air Force study (
+Document 4
+), published in May 1961, was the Air Force Systems Command's
+Lunar Expedition Plan — LUNEX
+. A key reason for such an expedition was to demonstrate that the United States could successfully compete with the
+Soviets in the technology sphere.
+A different potential military use of the moon was found in a study (
+Document 3
+) produced by Leonard Reiffel of the Armour Research Institute at the
+Illinois Institute of Technology in 1959. Its title,
+A Study of Lunar Research Flights
+,
+did not reveal the proposed purpose of those
+flights — to deliver a nuclear device to the surface or to the vicinity of the moon, where it would be detonated. Also involved in the study effort was the
+yet-to-become-famous astronomer Carl Sagan. Many years later, Reiffell said that the "foremost intent [of such a detonation] was to impress the world with
+the prowess of the United States" and that the Air Force ended the project when its leadership decided the risks exceeded the potential benefits.
+2
+Moonbounce
+Footprint left on the moon by an Apollo 11 astronaut. (Photo courtesy of NASA Langley Research Center)
+While NASA's lunar program helped preclude — undoubtedly along with international political considerations — any military service ambitions to establish an
+outpost on the moon, the military and the Intelligence Community found at least two ways, after 1961, to make use of the moon without leaving Earth. Both
+approaches involved signals bounced off the moon, a possibility that had been confirmed by experiment as early as 1946.
+In one case, the U.S. was purposefully bouncing signals off the Moon as a means of relaying intelligence information. Carried on-board U.S. Navy signals
+intelligence ships, such as the U.S.S.
+Liberty
+, was a system designated TRSSCOMM — Technical Research Ship Special Communications — a successor to
+the Communications Moon Relay (CMR) system established in 1956 to relay teletype and facsimile messages between Washington, D.C. and Hawaii (
+Document 15
+). As James Bamford reported, TRSSCOM consisted of a "sixteen-foot, dish-shaped antenna mounted on a movable platform and capable of
+bouncing a 10,000-watt microwave signal off a particular spot on the moon and down either to the receiving station at Cheltenham, Maryland or to one of the
+other Navy SIGINT ships." He also noted that, while the system had the advantage of allowing large volumes of information to be transmitted without giving
+away the location of the ship carrying out the transmissions, it seldom worked properly.
+3
+In the second case, as explained in two articles (
+Document 11
+,
+Document 14
+) in the CIA's
+Studies in Intelligence
+journal, the United
+States Intelligence Community was intercepting signals from Soviet anti-ballistic and air defense radar systems after they had exited the Earth's
+atmosphere and bounced off the moon. The CIA employed a 150-foot dish antenna at Stanford University in Palo Alto, California to monitor Soviet radar
+signals reflected off the moon, while the National Security Agency used the Arecibo Ionospheric Observatory in Puerto Rico to intercept signals that had
+originally been transmitted from a Soviet Arctic Coast radar. The Air Force also had its own moonbounce project — designated FLOWER GARDEN — which relied
+on several antennas, including the 250-foot antenna at Jodrell Bank Radio Observatory in England. Other moonbounce antennas were located at Sugar Grove,
+West Virginia, and the Naval Research Laboratory's Chesapeake Bay Annex. The latter made the first intercept of a signal from the Soviet Hen House radar.
+4
+Monitoring the Soviet Lunar Program
+While NASA pursued its lunar program, the U.S. Intelligence Community closely monitored the entire Soviet space program, including its lunar component. The
+declassified documents in this posting concern a number of aspects of that effort — collection through a variety of means, different levels of analysis,
+and analysis of specific missions.
+Two very different collection activities are the subjects of two
+Studies in Intelligence
+articles. One, published in 1964 (
+Document 6
+),
+examined the interception of Soviet space pictures that had been transmitted from their assorted space programs — including Sputnik, Cosmos, and Lunik — to
+stations in the Soviet Union. A second, published three years later (
+Document 13
+), involved a more unconventional approach - the temporary theft of
+a Lunik spacecraft that was part of an exhibition of Soviet industrial and economic achievements in an unspecified country.
+Early in the U.S. lunar program, in April 1963, the CIA's Office of National Estimates, the forerunner of today's National Intelligence Council, explored
+the subject of Soviet intentions concerning a manned lunar landing (
+Document 5
+). It reviewed relevant developments in the Soviet program as well as
+tried to assess the extent of the Soviet commitment to beating the U.S. to the moon.
+One particular mission — the Luna 9 mission of February 1964 — produced a number of different classified publications. Two of those (
+Document 7
+,
+Document 8
+) followed closely after the mission and were intended to provide reasonably current intelligence. One (
+Document 7
+) was an
+assessment of the entire mission, while the other (
+Document 8
+) was more narrowly focused — a preliminary technical analysis of Luna 9 photography
+performed by the National Photographic Interpretation Center (NPIC) at the request of the CIA's Foreign Missile and Space Analysis Center (FMSAC). (A
+similar study (
+Document 12
+) with regard to Luna 13 photography was also produced by NPIC at FMSAC's request).
+5
+Two articles published in CIA and NSA journals represented retrospective accounts concerning the Luna 9 collection and analysis effort. One (
+Document 16
+) recounted in the NSA's
+Crytpologic Almanac
+the author's participation in intercepting and processing Luna 9 imagery. Another	(
+Document 10
+) contains a broader account of the U.S collection and analysis effort concerning Luna 9 and the years preceding it.
+Overview
+Much of the U.S. lunar program that followed President Kennedy's decision to assign NASA the responsibility to send men to the moon was conducted openly —	but there are other aspects of U.S. plans with regard to the moon are revealed, at least in part, by declassified documents.
+The Soviet lunar program was only one part of the Soviet space program, which involved launch facilities and vehicles, production facilities,
+earth-orbiting military and civilian spacecraft, and interplanetary probes to Mars and Venus.
+6
+While Soviet military satellites were the most important targets due to their potential threat to U.S. national security, the Cold War competition between
+the United States and Soviet Union meant that space exploration efforts, even if devoid of military activities, were significant elements of the propaganda
+war — which made them important targets for the U.S. Intelligence Community, a story which is also partially told by declassified documents.
+THE DOCUMENTS
+Document 1a
+:
+United States Army,
+Project Horizon, Volume I: Summary and Supporting
+Considerations
+, March 20, 1959.
+Classification Not Available.
+Source:
+www.history.army.mil
+Document 1b
+:
+United States Army,
+Project Horizon, Volume II: Technical Considerations and Plans
+, March 20, 1959. Classification Not Available.
+Source:
+www.history.army.mil
+This two-volume study was based on the Army's premise that "there is a requirement for a manned military outpost on the moon" and that outpost was required
+to develop techniques in moon-based surveillance of the earth and space, in communications relay, and in operations on the lunar surface. Volume I consists
+of four chapters (introduction, technical considerations and plans, management and planning considerations, non-technical supporting considerations) and
+three appendices (U.S. space policy, legal and political implications, and technical services support capabilities). The second volume, fully focusing on
+technical considerations, examines the possible outpost, the space transportation system required, communications, the launch site, program logistics,
+research and development, and program cost and schedule.
+Document 2
+:
+L. Reiffel, Armour Research Foundation, Illinois Institute of Technology,
+A Study of Lunar Research Flights, Volume I
+(Kirtland Air Force Base, New Mexico: Air Force Special Weapons Center, June 19, 1959). Classification Not Available.
+Source:
+www.dtic.mil
+This volume focuses on the possibility of a nuclear detonation on or near the moon's surface. The introduction notes the possibility that both scientific
+and military purposes would be advanced — including information on the space environment as well as the capability of nuclear weapons for space warfare.
+The chapters of volume I focus on optical studies concerning the nuclear device's trip to the moon, the blast, and the thermal conductivity of the lunar
+surface; seismic observations on the Moon; the lunar radiation environment; the Moon's magnetic field; and other topics. Two, probably
+classified/sensitive, chapters are contained in Volume II.
+Document 3
+:
+Air Force Ballistic Missile Division,
+Military Lunar Base Program (C) or S.R.
+183 Lunar Observatory Study (U), Volume I: Study Summary and Program Plan
+, April 1960.
+(Extract)
+Source: Air Force Freedom of Information Act Release
+This volume summarizes a study whose objective was to "determine an economical and sound approach for establishing a manned intelligence observatory on the
+moon" — with technical requirements being the subject of Volume II. It delineates a six-phase effort beginning with lunar probes in late 1964 and
+progressing through lunar orbits, a soft lunar landing, lunar landing and return, manned vehicle development, and concluding with an operational lunar base
+in June 1969. It also states that decisions concerning the types of strategic systems to be placed on the moon (including a Lunar Based Earth Bombardment
+System) could be safely deferred for three to four years.
+Document 4
+:
+Air Force Systems Command,
+Lunar Expedition Plan -
+LUNEX
+, May 1961. Secret.
+Source: Air Force Freedom of Information Act Release
+This document identifies the purpose of a Lunar Expedition as being manned exploration of the moon with first landing and return in late 1967. It asserts
+that "this one achievement if accomplished before the USSR, will serve to demonstrate conclusively that this nation possesses the capability to win future
+competition in technology." Its main sections provide a program description, and discuss master schedules, development and production, budget matters,
+program management, materiel support, engineering, personnel and training, and intelligence matters.
+Document 5
+:
+Office of National Estimates, Central Intelligence Agency, Memorandum for the Director, Subject: Soviet Intentions Concerning a Manned Lunar Landing,
+April 25, 1963, Top Secret/
+DINAR [DELETED] RUFF
+.
+Source: CIA Records Search Tool (CREST), National Archives and Records Administration, College, Park, Maryland.
+The summary to this estimate notes the uncertainty about Soviet intentions with regard to a moon landing: while repeating the Office of National Estimate's
+previous view that the odds were better than even that the Soviets would seek to beat the U.S. to moon, it also states that it was possible "Soviet lunar
+objectives are less ambitious." The authors examine the resumption of Soviet unmanned lunar launchings, Soviet statements concerning a manned lunar
+landing, an analysis of Soviet ground facilities, and offer conclusions.
+Document 6
+:
+Henry G. Plaster, "Snooping on Space Pictures,"
+Studies in Intelligence
+, Fall 1964, pp. 31-39. Secret.
+Source:
+www.foia.cia.gov
+One component of the U.S. Intelligence Community's effort in gathering intelligence on the Soviet space program was intercepting the signals, including
+video, from Soviet spacecraft. This article reports on the efforts and results with regard to a variety of categories of Soviet spacecraft operations -
+Sputnik, Cosmos, and Lunik. Included is a discussion of the efforts with regard to Lunik III's video of the lunar surface.
+Document 7
+: Office of Scientific Intelligence, Directorate of Science and Technology, "Preliminary Analysis of Luna 9,"
+Scientific Intelligence Digest
+,
+March 1966. Top Secret.
+Source: CIA CREST
+This heavily redacted article, which appeared in a journal of the CIA's Directorate of Science and Technology, focuses on the Soviet Luna 9 mission — which
+concluded with the first soft landing on the moon and the transmission of images of the lunar surface. Portions of the article cover the configuration of
+the Luna 9 spacecraft, its missions, and the implications of radiation measurements on the Moon for human safety.
+Document 8
+:
+National Photographic Interpretation Center, NPIC/R-5017/66,
+Preliminary Analysis of Luna-9 Photography
+, June 1966. Secret.
+Source: CIA CREST
+In response to a request from the CIA's Foreign Missile and Space Analysis Center, the agency's National Photographic Interpretation Center produced a
+preliminary analysis of the photography transmitted by the Soviet Luna 9 spacecraft. The analysis focused on the spacecraft's photographic system, the
+spacecraft, and identifying new information on the lunar surface.
+Document 9
+:
+Carl Berger, USAF Historical Liaison Division Office,
+The Air Force in Space, Fiscal Year 1961
+, April 1966 (Extract). Secret.
+Source: Air Force Freedom of Information Act Release
+This extract titled "Man on the Moon - A National Objective" notes that the Air Force was concerned over "the apparent inadequacy of our current National
+Space Program" and reports that the "Air Force said that long-time studies showed convincingly that an orderly and phased lunar expedition culminating in a
+1967 landing and return was perfectly feasible."
+Document 10
+:
+James Burke, "Seven Years to Luna 9,"
+Studies in Intelligence
+, 10 (Summer 1966), pp. 1-24. Secret.
+Source:
+http://isulibrary.isunet.edu
+This article also concerns the 1966 Luna 9 mission, examined more narrowly in earlier reports (
+Document 7
+,
+Document 8
+). Its purpose is "to tell the story of how intelligence kept track of that effort through the collection and analysis
+of telemetric and other information." The author covers a number of events and activities leading up to the mission and the U.S. collection effort — the early lunar program, Soviet launch vehicles, collection and prediction through 1961, US. deep-space collection, Soviet planetary shots in 1962, and
+Soviet space launches in 1964 and 1965 — and then the Luna 9 mission itself.
+Document 11
+:
+Frank Eliot, "Moon Bounce ELINT,"
+Studies in Intelligence
+11, 2 (Spring 1967): 59-65.
+Secret.
+Source:
+www.foia.cia.gov
+While the moon figured in purely hypothetical plans to collect intelligence from the lunar surface, it was employed, in a different way, in an actual
+effort to gather intelligence on Soviet anti-aircraft and anti-ballistic missile radars. That technique, recounted in this article, was based on the 1946
+detection of a man-made signal reflected off the moon.
+Document 12
+:
+National Photographic Interpretation Center, NPIC/R-5015/67,
+Analysis of Luna-13 Photography
+, July 1967. Secret.
+Source: CIA CREST
+As with
+Document 8
+, this NPIC report was a response to a request from the Foreign Missile and Space Analysis Center for an analysis of the video
+signals transmitted by a Soviet lunar spacecraft — focusing on the photographic system, the spacecraft, and the lunar surface.
+Document 13
+:
+Sydney Wesley Finer, "The Kidnaping of the Lunik,"
+Studies in Intelligence
+, 11, 3 (Winter 1967), pp. 33-39. Secret.
+Source:
+http://media.nara.gov
+While a common source of intelligence on Soviet space, including lunar, efforts was collected through satellite photography and electronic intercepts, a
+more unusual and less frequent source is described in this article. It describes how the CIA "borrowed," examined, and returned a Soviet Lunik spacecraft
+that was part of an exhibition touring several countries to promote Soviet industrial and economic achievements.
+Document 14
+:
+N.C. Gerson, "SIGINT in Space,"
+Studies in Intelligence
+, 28, 2 (Summer 1984). Secret.
+Source: Author's collection
+Among the topics discussed in this article is the author's work on the "moonbounce" phenomenon and the possibility of establishing an intercept site on the
+moon.
+Document 15
+:
+Applied Research Laboratory, Pennsylvania State University,
+From the Sea to the Stars: A Chronicle of the U.S. Navy's Space and Space-related Activities, 1944-2009
+, 2010. Unclassified. (Extract)
+Source:
+www.history.navy.mil/space/FromTheSeaToTheStars-2010ed.pdf
+These pages from an official history discuss two attempts to use the moon as a communication relay — the establishment of a Communications Moon Relay (CMR)
+system in 1956 for transmission of teletype and facsimile messages between Washington, D.C. and Hawaii, and the Technical Research-Ship Special
+Communications (TRSSCOM) for "spy ship" communications.
+Document 16
+:
+John O'Hara, "Luna 9, the First Soft Landing on the Moon,"
+Cryptologic Almanac
+, January - March 2003. Unclassified/For Official Use Only.
+Source:
+www.nsa.gov
+This article, from a National Security Agency journal, focuses on NSA's role, and particularly that of the author, in intercepting and processing the
+images from the Luna 9 spacecraft — and in delivering them to the president's desk that afternoon.
+Notes
+[1]
+William E. Burrows,
+This New Ocean: The Story of the First Space Age
+(New York: Random House, 1998), p. 330.
+[2]
+William J. Broad, "U.S. Planned Nuclear Blast on the Moon, Physicist Says,"
+New York Times
+, May 16, 2000, p. A15; Keay Davidson,
+Carl Sagan: A Life
+(New York: Wiley, 1999), pp. 94-95.
+[3]
+James Bamford,
+The Puzzle Palace: A Report on NSA, America's Most Secret Agency
+(Boston: Houghton, Mifflin Company, 1982), p. 219.
+[4]
+Jeffrey T. Richelson,
+The Wizards of Langley: Inside the CIA's Directorate of Science and Technology
+(Boulder, Co.: Westview Press, 2001), pp. 89-90.
+[5]
+On the Luna program see, William E. Burrows,
+Exploring Space: Voyages in the Solar System and Beyond
+(New York: Random House, 1990), pp. 160-163.
+[6]
+A future
+National Security Archive Electronic Briefing Book will cover U.S. Intelligence efforts focusing on the other elements of the Soviet space program.
+home
+|
+about
+|
+documents
+|
+news
+|
+publications
+|
+FOIA
+|
+research
+|
+internships
+|
+search
+|
+donate
+|
+mailing
+list
+Contents
+of this website Copyright 1995-2017 National Security Archive. All
+rights reserved.
+Terms
+and conditions
+for use of materials found on this website.
