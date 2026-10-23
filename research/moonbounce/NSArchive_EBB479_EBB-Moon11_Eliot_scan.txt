@@ -1,0 +1,269 @@
+                                                                ~R~
+                                                     ~ Feu igcc '81'5~
+
+
+    The monitoring of Soviet radars by
+    way of the lunar surface.
+
+
+
+
+                       MOON BOUNCE EUNT
+                                 Frank Eliot
+
+      The capability of enemy anti-aircraft and anti-ballistic-missile sys-
+    tems, naturally a matter of intense Interest to us, depends in part on
+    the capability of a number of sub-systems. one of the most important
+    of which is the radars used for target acquisition and tracking. We
+    need to know the parameters of these radars as accurately as possible
+    in order to plan penetration strategy and design the most effective
+    equipment for electronic countermeasures. A considerable amount
+    of such information on a radar·s capability can be derived from
+     observations of the signals it transmits. This is the classical Elint
+    problem, to deduce the configuration and characteristics of an unknown
+    system from the measured characteristics. of its signals.
+       Except for a very few specialized over-the-horizon devices. however,
+    all radars operate on wave lengths which are too short to be reflected
+    back to earth by the ionosphere but pass through and are generally
+    lost in outer space. Under ordinary conditions. therefore, we are
+    unable to observe them from ground collection sites when they are
+    more than a few hundred miles inside the denied area of the Soviet ·
+    Union.
+       So how to make such Elint observations? Manned overflights of
+    the Soviet Union are no longer permitted. Even if they were, the
+    complicated equipment needed to measure the details of radar signals
+    could not easily be carried in an airplane. I£ the characteristics of a
+    particular emitter or class of emitters are known and we want only to
+    find out whether such an emitter is in operation nearby. then the
+    collection equipment can generally be fitted into a quite small, un-
+    attended package. But if the basic signal parameters are not known.
+    or i£ precision measurements are needed. then it beoomes very difficult
+    to design small, automatic intercept equipment.
+     New Reflector
+       The possibility of solving this intercept problem with an entirely
+     new technique emerged in 1946. when scientists detected for the £rn
+
+'                                                                        59
+L
+                                                          Moon Bounce
+
+
+
+
+time a man-made signal reflected from the moon. The next few years
+saw many experiments (generally known as Moon Bounce tests)
+proving that radar signals so reflected could be reliably detected.
+The early experiments were monostatic; ie., the transmitter and
+receiver were at the same location. Then bistatic experiments were
+performed, showing that transmitter and receiver could be separated
+by hundreds of miles on the earth's surface, the only requirement
+being that the moon be simultaneously in view of both. It now
+became clear that there was a good possibility of intercepting signals
+£rom radar transmitters located deep within the Soviet Union.
+   The dominant characteristic· of signals reflected from the moon is
+ extreme weakness. A typical signal received via Moon Bounce is
+ more than a million billion times weaker than if it were received
+ in an airplane ten miles from the transmitter. Very large receiving
+ antennas are necessary to capture _enough energy from this weak
+ signal to hear it and distinguish it from other signals. Most of the
+ very large steerable antennas in the Western world have been put to
+ work on Moon Bounce intercepts. These include the ones at the
+ Grand Bahama tracking station, the 150-foot dishes at the Naval
+ Research Laboratory's· Ches&peake Bay Annex and at Stanford Uni-
+ versity, and the large dish at Sugar Grove, West Virginia. The 600-
+ foot dish that was planned for the Navy's Sugar Grove facility but
+ never built would have been so used extensively. A 150-foot dish
+ is about the minimum size usable on radars of normal power, so very
+ few are available for our purpose.
+    The radar-reflective characteristics of the moon have been studied
+  extensively over the past decade or so in the attempt to gather infor-
+  mation on the lunar surface. (Radar was a principal source for such
+  infonnation until the recent spacecraft orbitings and landings.) When
+  the moon was 6rst proposed as a passive reflector, scientists predicted
+  that it would 1.ook.. like a rough sphere at radio frequencies, that is,
+  one that would scatter a good deal of energy in random directions
+. instead o£ reflecting it at the angle it struck each point on the sphere.
+  If so, a short burst of radio energy from the earth would be reflected
+  back to earth first from the point on the sphere nearest the earth.
+  then from a widening ring around this point, and finally from the rim.
+  The elapsed time between the moment when the reflection from the
+  near point returned to the earth and that when the reflection from the
+  rim returned would be about .0116 second. Since radar pulses are
+   on the order of .00001 second long, a rough moon would cause intol-
+
+
+ 60
+Moon Bounce
+
+
+
+
+erable smearing of the pulses; every reflected pulse would be about
+.0116 second long, regardless of its initial length when transmitted,
+and very little information about the transmitter could be derived
+from the signal.
+  Fortunately for us, the moon appears only slightly rough to radio
+waves; most of the reflected energy comes back from an area at the
+near point just a few miles in diameter. The bulk of the energy striking
+farther around on the side is reflcct-'!d out into space and never returns
+to earth. The moon reflection we get appears to come from a few
+htrge humps. not a uni£onnly rough surface. Depending upon their
+relative positions, these individual facets may give reflections that
+add or subtract from one another, creating a larger signal back on
+earth or making it even disappear. The effect is shown in Figure 1.
+Each oscillograph trace represents one pulse of a consecutive series
+received after a round trip to the moon. The variations in their
+amplitude (strength) and length (duration) are evident. Although
+thus distorted in the course o£ being reflected, the signal still contains
+much useful information.
+Time and Geometry
+  Two conditions must be satisfied before we can receive an enemy's
+radar signals via MOQO Bounce. First, the signals must strike the
+moon, at least momentarily. Second, the moon must be simultaneously
+visible at our receiving site. Since these conditions are so dependent
+on the position of the moon, they create very serious limitations.
+  Long-range search radars {early warning or anti-ballistic-missile)
+generally sweep over a sector of azimuth keeping very close to the
+horizon. Consequently, to give us a successful intercept. the moon
+must be passing through the radar's search sector, be within a few
+degrees of the radar's horizon, and be visible to us. How often all
+these conditions are simultaneously met is a complicated function of
+many variables. Take for example the research radar we call "Hen
+House'" at the Sary Shagan missile test range in the south-central
+part of the Soviet Union. U this radar were operating continuously
+and covering a 300-degree azimuth, we could observe its signal via
+Moon Bounce for about 38 hours a month in Palo Alto, California,
+or for somewhat longer than that at the Navy's Chesapeake Bay facility.
+That is the total of periods in which we would see fla.5hes of signal
+when the rotating beam struck the moon each time around. If the
+
+                                                                       61
+:JiiEREr                                                         Moon Bounce
+
+
+
+
+FICURE 1. Oscillograph traces of three CQDSICCUtive pulses spaced 20 seo:>nds apart.
+Each transmitted pulse was 800 microseconds long. The top trace shows con-
+siderable lengthening of the trailing edge. The middle one shows degradation of
+the rise time. The bottom trace most closely resembles the shape of the original
+                                 ~tted pulse.
+
+
+
+
+ 62                                                                       £Iii~
+Moon Bounce
+
+
+
+
+radar were looking only westward from Sary Shagan, the intercept
+time at Palo Alto would be reduced to about 20 hours. Actually, it
+sweeps an azimuth sector of only 31.9 degrees, limiting our possible
+intercept time there to 18 hours.
+   In practice, we unfortunately have somewhat less time than that
+to look at this radar; it may not be operating during those brief periods
+when we look for it. Being a research device, it can be expected to
+be •down" a large portion of the time. The Soviets might even avoid
+letting its beam bit the moon, in order to prevent our intercept o£
+the signals. Research radars are the most important to intercept,
+since they give hints about what may be operational in the futur~.
+  At £lrst it might be thought that California would be the worst
+posSI'ble location from which to intercept the nearly antipodal Sary
+Shagan. But using a re-ceiving site closer to Sary Shagan like the
+Navy's on Chesapeake Bay, which bas the effect o£ making the moon
+visible to both places when higher in the sky, doesn't yield much more
+intercept time because the radar beam sweeps so close to the horizon,
+with very little energy transmitted above 20 degrees or so. And what
+advantage the eastern location has in intercept time is offset by the
+advantage of the Palo Alto location in being able to see eastward-
+looking Soviet radars which are nearly hidden from the eastern
+United States.
+
+llen House Obseroation
+   During its last Soviet operations in 1960, the U-2 photographic
+collection system had noted a very large antenna structure near the
+Sary Shagan missile test range. We believed that it was the antenna
+of a new radar system, but since the location was deep within a denied
+area we ''Jere not able to detect signals from it. Its signals were first
+heard by Western observers in 1962, not via Moon Bounce but by
+reflection from the ionized cloud o£ a Soviet atomic test explosion.
+Since analysis of this brief, crude intercept showed that the Soviets
+had a new radar system of advanced capability, the intelligence com-
+munity immediately attempted to intercept the signal by other means.
+   The first searching via Moon Bounce was done by the Navy using
+its 150-foot dish on the Chesapeake. The faint signal could not be
+found, however, until some specific information on its frequency
+reached us from other sources. Navy made the first successful intercept
+
+
+                                                                       63
+                                                              Moon Bounce
+
+
+
+
+in January 1964 and in subsequent monitoring defined roughly the
+parameters for the Hen House frequency and scan.
+  Stanford's 150-foot dish at Palo Alto, because of its potential with
+respect to eastward-looking Soviet radars, was chosen for CIA's Moon
+Bounce collection project. Quite sophisticated collection equipment,
+including two unique receivers, was built especially for this purpose
+and installed there. In August 1965 the Palo Alto project made its
+£rst intercept of the Hen House i:aG.li', which remains its most
+important target
+  CIA has undeJ:taken a continuing analysis effort to define 'carefully
+the exact parameters of the Hen House system. using data ~m the
+Department of Defense intercepts and more reoently from Palo Alto.
+Three major discoveries have been made about the signaL First,
+using special receiving equipment, it was determined that the signal
+
+
+
+
+      FICURE 2. The 150-foot re<:eiving antenna at Palo Alto, California.
+
+
+64                                                                    ~@fU!!¥'
+Moon Bounce
+
+
+
+has a "spread-spectrumw mode. This means that the spectrum (fre-
+quency spread) of the signal can be intentionally broadened to in-
+crease either the radar's range or its range-rate resolution. that is its
+accuracy in reading its target's speed.
+    The second discovery was that the Hen House uses a rather advanced
+ scanning system. We e1:pected to see a regular scanning. or ·search"
+ mode, and a tracking mode, where the beam follows a target. Both
+ of these have been observed. In the latter, the Soviets, apparently
+ just for practice, have set the radar to track the moon for as much as
+ half an hour. This makes the intercept job much easier, as we then see
+,the signal continuously rather than in short bursts as the beam swings
+ by the moon. But in 'addition to the standard scanning and tracking
+ modes we have observed the system in a combination mode wherein
+ it is basically s~g but will dwell for a short time on any target
+ it sees. Apparently it is set to look at a target juSt long enough to
+ identify it and measure its parameters before moving on. We imagine
+ the radar can keep track of several targets at once. Since the scan
+ and dwell times are quite short, it must operate under computer
+ control
+  The most recent significant observation is that the transmitter's peak
+power is about 25 megawatts. This, if correct, makes it one of the
+highest-powered radars in the world.
+   All of these observations lead us to believe that the Hen House
+is a new, sophisticated ABM radar. Knowledge of Soviet ABM
+capability has become of increasingly critical importance to the United ·
+States. By accurately defining the param~ters of the new radar,
+we can now start the design of countermeasures and tactics to reduce
+its effectiveness.
+   The Moon Bounce effort is. one of those intelligence collection
+ techniques which seemed at first •far out" but has in the event more
+ than paid for itself.
+
+
+
+
+                                                                       65
+
