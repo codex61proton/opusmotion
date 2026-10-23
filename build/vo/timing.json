@@ -1,0 +1,2456 @@
+{
+ "open": {
+  "dur": 6.458270833333334,
+  "text": "In January nineteen sixty-four, the U.S. Navy intercepted a secret Soviet radar, by listening to the Moon.",
+  "heard": "In January 1964, the U .S. Navy intercepted a secret Soviet radar by listening to the moon.",
+  "words": [
+   [
+    0.0,
+    0.18,
+    "In"
+   ],
+   [
+    0.18,
+    0.5,
+    "January"
+   ],
+   [
+    0.5,
+    1.52,
+    "1964,"
+   ],
+   [
+    2.08,
+    2.12,
+    "the"
+   ],
+   [
+    2.12,
+    2.3,
+    "U"
+   ],
+   [
+    2.3,
+    2.56,
+    ".S."
+   ],
+   [
+    2.76,
+    2.88,
+    "Navy"
+   ],
+   [
+    2.88,
+    3.5,
+    "intercepted"
+   ],
+   [
+    3.5,
+    3.72,
+    "a"
+   ],
+   [
+    3.72,
+    4.1,
+    "secret"
+   ],
+   [
+    4.1,
+    4.52,
+    "Soviet"
+   ],
+   [
+    4.52,
+    5.0,
+    "radar"
+   ],
+   [
+    5.0,
+    5.54,
+    "by"
+   ],
+   [
+    5.54,
+    5.82,
+    "listening"
+   ],
+   [
+    5.82,
+    6.04,
+    "to"
+   ],
+   [
+    6.04,
+    6.14,
+    "the"
+   ],
+   [
+    6.14,
+    6.3,
+    "moon."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "In",
+    "spoken": "In",
+    "t0": 0.0,
+    "t1": 0.18
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "January 1964,",
+    "spoken": "January nineteen sixty-four,",
+    "t0": 0.18,
+    "t1": 2.08
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 2.08,
+    "t1": 2.12
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "U.S.",
+    "spoken": "U.S.",
+    "t0": 2.44,
+    "t1": 2.76
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Navy",
+    "spoken": "Navy",
+    "t0": 2.76,
+    "t1": 2.88
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "intercepted",
+    "spoken": "intercepted",
+    "t0": 2.88,
+    "t1": 3.5
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.5,
+    "t1": 3.72
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "secret",
+    "spoken": "secret",
+    "t0": 3.72,
+    "t1": 4.1
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 4.1,
+    "t1": 4.52
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "radar\u2014",
+    "spoken": "radar\u2014",
+    "t0": 4.52,
+    "t1": 5.0
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "by",
+    "spoken": "by",
+    "t0": 5.0,
+    "t1": 5.54
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "listening",
+    "spoken": "listening",
+    "t0": 5.54,
+    "t1": 5.82
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "to",
+    "spoken": "to",
+    "t0": 5.82,
+    "t1": 6.04
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "the Moon.",
+    "spoken": "the Moon.",
+    "t0": 6.04,
+    "t1": 6.3
+   }
+  ],
+  "match": "14/17"
+ },
+ "u2": {
+  "dur": 4.899333333333334,
+  "text": "A U two had photographed its giant antenna at Sari Shagan, a Soviet missile range.",
+  "heard": "U -2 had photographed its giant antenna at Tsar -e -Shagan, a Soviet missile range.",
+  "words": [
+   [
+    0.0,
+    0.28,
+    "U"
+   ],
+   [
+    0.28,
+    0.56,
+    "-2"
+   ],
+   [
+    0.56,
+    0.78,
+    "had"
+   ],
+   [
+    0.78,
+    1.22,
+    "photographed"
+   ],
+   [
+    1.22,
+    1.5,
+    "its"
+   ],
+   [
+    1.5,
+    1.82,
+    "giant"
+   ],
+   [
+    1.82,
+    2.24,
+    "antenna"
+   ],
+   [
+    2.24,
+    2.54,
+    "at"
+   ],
+   [
+    2.54,
+    2.76,
+    "Tsar"
+   ],
+   [
+    2.76,
+    2.9,
+    "-e"
+   ],
+   [
+    2.9,
+    3.24,
+    "-Shagan,"
+   ],
+   [
+    3.62,
+    3.82,
+    "a"
+   ],
+   [
+    3.82,
+    4.14,
+    "Soviet"
+   ],
+   [
+    4.14,
+    4.42,
+    "missile"
+   ],
+   [
+    4.42,
+    4.78,
+    "range."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "A",
+    "spoken": "A",
+    "t0": 0.0,
+    "t1": 0.0
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "U-2",
+    "spoken": "U two",
+    "t0": 0.0,
+    "t1": 0.56
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "had",
+    "spoken": "had",
+    "t0": 0.56,
+    "t1": 0.78
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "photographed",
+    "spoken": "photographed",
+    "t0": 0.78,
+    "t1": 1.22
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "its",
+    "spoken": "its",
+    "t0": 1.22,
+    "t1": 1.5
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "giant",
+    "spoken": "giant",
+    "t0": 1.5,
+    "t1": 1.82
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "antenna",
+    "spoken": "antenna",
+    "t0": 1.82,
+    "t1": 2.24
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "at",
+    "spoken": "at",
+    "t0": 2.24,
+    "t1": 2.54
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Sary Shagan,",
+    "spoken": "Sari Shagan,",
+    "t0": 2.7199999999999998,
+    "t1": 3.24
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.62,
+    "t1": 3.82
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 3.82,
+    "t1": 4.14
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "missile",
+    "spoken": "missile",
+    "t0": 4.14,
+    "t1": 4.42
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "range.",
+    "spoken": "range.",
+    "t0": 4.42,
+    "t1": 4.78
+   }
+  ],
+  "match": "12/15"
+ },
+ "horizon": {
+  "dur": 7.122208333333333,
+  "text": "But radar waves travel in straight lines. From deep inside the U.S.S.R., they skim past the horizon into space.",
+  "heard": "But radar waves travel in straight lines. From deep inside the U .S .S .R., they skim past the horizon into space.",
+  "words": [
+   [
+    0.0,
+    0.12,
+    "But"
+   ],
+   [
+    0.12,
+    0.46,
+    "radar"
+   ],
+   [
+    0.46,
+    0.86,
+    "waves"
+   ],
+   [
+    0.86,
+    1.2,
+    "travel"
+   ],
+   [
+    1.2,
+    1.42,
+    "in"
+   ],
+   [
+    1.42,
+    1.64,
+    "straight"
+   ],
+   [
+    1.64,
+    2.08,
+    "lines."
+   ],
+   [
+    2.46,
+    2.6,
+    "From"
+   ],
+   [
+    2.6,
+    2.86,
+    "deep"
+   ],
+   [
+    2.86,
+    3.3,
+    "inside"
+   ],
+   [
+    3.3,
+    3.46,
+    "the"
+   ],
+   [
+    3.46,
+    3.64,
+    "U"
+   ],
+   [
+    3.64,
+    4.0,
+    ".S"
+   ],
+   [
+    4.0,
+    4.32,
+    ".S"
+   ],
+   [
+    4.32,
+    5.12,
+    ".R.,"
+   ],
+   [
+    5.12,
+    5.24,
+    "they"
+   ],
+   [
+    5.24,
+    5.5,
+    "skim"
+   ],
+   [
+    5.5,
+    5.8,
+    "past"
+   ],
+   [
+    5.8,
+    5.96,
+    "the"
+   ],
+   [
+    5.96,
+    6.32,
+    "horizon"
+   ],
+   [
+    6.32,
+    6.6,
+    "into"
+   ],
+   [
+    6.6,
+    6.9,
+    "space."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "But",
+    "spoken": "But",
+    "t0": 0.0,
+    "t1": 0.12
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "radar",
+    "spoken": "radar",
+    "t0": 0.12,
+    "t1": 0.46
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "waves",
+    "spoken": "waves",
+    "t0": 0.46,
+    "t1": 0.86
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "travel",
+    "spoken": "travel",
+    "t0": 0.86,
+    "t1": 1.2
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "in",
+    "spoken": "in",
+    "t0": 1.2,
+    "t1": 1.42
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "straight",
+    "spoken": "straight",
+    "t0": 1.42,
+    "t1": 1.64
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "lines.",
+    "spoken": "lines.",
+    "t0": 1.64,
+    "t1": 2.08
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "From",
+    "spoken": "From",
+    "t0": 2.46,
+    "t1": 2.6
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "deep",
+    "spoken": "deep",
+    "t0": 2.6,
+    "t1": 2.86
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "inside",
+    "spoken": "inside",
+    "t0": 2.86,
+    "t1": 3.3
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "the",
+    "spoken": "the",
+    "t0": 3.3,
+    "t1": 3.46
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "USSR,",
+    "spoken": "U.S.S.R.,",
+    "t0": 4.29,
+    "t1": 5.12
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "they",
+    "spoken": "they",
+    "t0": 5.12,
+    "t1": 5.24
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "skim",
+    "spoken": "skim",
+    "t0": 5.24,
+    "t1": 5.5
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "past",
+    "spoken": "past",
+    "t0": 5.5,
+    "t1": 5.8
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 5.8,
+    "t1": 5.96
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "horizon",
+    "spoken": "horizon",
+    "t0": 5.96,
+    "t1": 6.32
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "into",
+    "spoken": "into",
+    "t0": 6.32,
+    "t1": 6.6
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "space.",
+    "spoken": "space.",
+    "t0": 6.6,
+    "t1": 6.9
+   }
+  ],
+  "match": "18/19"
+ },
+ "nuke": {
+  "dur": 7.092625,
+  "text": "In nineteen sixty-two, it was heard briefly, off the ionized cloud of a Soviet nuclear test. They needed a steadier mirror.",
+  "heard": "In 1962, it was heard briefly off the ionized cloud of a Soviet nuclear test. They needed a steadier mirror.",
+  "words": [
+   [
+    0.0,
+    0.14,
+    "In"
+   ],
+   [
+    0.14,
+    0.76,
+    "1962,"
+   ],
+   [
+    1.4,
+    1.42,
+    "it"
+   ],
+   [
+    1.42,
+    1.5,
+    "was"
+   ],
+   [
+    1.5,
+    1.78,
+    "heard"
+   ],
+   [
+    1.78,
+    2.2,
+    "briefly"
+   ],
+   [
+    2.2,
+    2.74,
+    "off"
+   ],
+   [
+    2.74,
+    2.9,
+    "the"
+   ],
+   [
+    2.9,
+    3.46,
+    "ionized"
+   ],
+   [
+    3.46,
+    3.8,
+    "cloud"
+   ],
+   [
+    3.8,
+    4.04,
+    "of"
+   ],
+   [
+    4.04,
+    4.18,
+    "a"
+   ],
+   [
+    4.18,
+    4.58,
+    "Soviet"
+   ],
+   [
+    4.58,
+    4.94,
+    "nuclear"
+   ],
+   [
+    4.94,
+    5.4,
+    "test."
+   ],
+   [
+    5.86,
+    5.98,
+    "They"
+   ],
+   [
+    5.98,
+    6.18,
+    "needed"
+   ],
+   [
+    6.18,
+    6.36,
+    "a"
+   ],
+   [
+    6.36,
+    6.7,
+    "steadier"
+   ],
+   [
+    6.7,
+    6.9,
+    "mirror."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "In",
+    "spoken": "In",
+    "t0": 0.0,
+    "t1": 0.14
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "1962,",
+    "spoken": "nineteen sixty-two,",
+    "t0": 0.5599999999999999,
+    "t1": 1.4
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "it",
+    "spoken": "it",
+    "t0": 1.4,
+    "t1": 1.42
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "was",
+    "spoken": "was",
+    "t0": 1.42,
+    "t1": 1.5
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "heard",
+    "spoken": "heard",
+    "t0": 1.5,
+    "t1": 1.78
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "briefly,",
+    "spoken": "briefly,",
+    "t0": 1.78,
+    "t1": 2.2
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "off",
+    "spoken": "off",
+    "t0": 2.2,
+    "t1": 2.74
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 2.74,
+    "t1": 2.9
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "ionized",
+    "spoken": "ionized",
+    "t0": 2.9,
+    "t1": 3.46
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "cloud",
+    "spoken": "cloud",
+    "t0": 3.46,
+    "t1": 3.8
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "of",
+    "spoken": "of",
+    "t0": 3.8,
+    "t1": 4.04
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 4.04,
+    "t1": 4.18
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "Soviet nuclear test.",
+    "spoken": "Soviet nuclear test.",
+    "t0": 4.18,
+    "t1": 5.4
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "They",
+    "spoken": "They",
+    "t0": 5.86,
+    "t1": 5.98
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "needed",
+    "spoken": "needed",
+    "t0": 5.98,
+    "t1": 6.18
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 6.18,
+    "t1": 6.36
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "steadier",
+    "spoken": "steadier",
+    "t0": 6.36,
+    "t1": 6.7
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "mirror.",
+    "spoken": "mirror.",
+    "t0": 6.7,
+    "t1": 6.9
+   }
+  ],
+  "match": "19/21"
+ },
+ "moon": {
+  "dur": 0.54825,
+  "text": "The Moon.",
+  "heard": "The Moon",
+  "words": [
+   [
+    0.0,
+    0.12,
+    "The"
+   ],
+   [
+    0.12,
+    0.28,
+    "Moon"
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "The Moon.",
+    "spoken": "The Moon.",
+    "t0": 0.0,
+    "t1": 0.28
+   }
+  ],
+  "match": "2/2"
+ },
+ "geometry": {
+  "dur": 5.896583333333333,
+  "text": "When it sat low on the radar's horizon, and above America too, a sliver of each pulse bounced back down.",
+  "heard": "When it sat low on the radar's horizon, and above America, too, a sliver of each pulse bounced back down.",
+  "words": [
+   [
+    0.0,
+    0.12,
+    "When"
+   ],
+   [
+    0.12,
+    0.18,
+    "it"
+   ],
+   [
+    0.18,
+    0.4,
+    "sat"
+   ],
+   [
+    0.4,
+    0.72,
+    "low"
+   ],
+   [
+    0.72,
+    0.96,
+    "on"
+   ],
+   [
+    0.96,
+    1.06,
+    "the"
+   ],
+   [
+    1.06,
+    1.54,
+    "radar's"
+   ],
+   [
+    1.54,
+    1.98,
+    "horizon,"
+   ],
+   [
+    2.38,
+    2.52,
+    "and"
+   ],
+   [
+    2.52,
+    2.72,
+    "above"
+   ],
+   [
+    2.72,
+    3.04,
+    "America,"
+   ],
+   [
+    3.34,
+    3.44,
+    "too,"
+   ],
+   [
+    3.84,
+    3.86,
+    "a"
+   ],
+   [
+    3.86,
+    4.22,
+    "sliver"
+   ],
+   [
+    4.22,
+    4.4,
+    "of"
+   ],
+   [
+    4.4,
+    4.56,
+    "each"
+   ],
+   [
+    4.56,
+    4.9,
+    "pulse"
+   ],
+   [
+    4.9,
+    5.18,
+    "bounced"
+   ],
+   [
+    5.18,
+    5.48,
+    "back"
+   ],
+   [
+    5.48,
+    5.76,
+    "down."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "When",
+    "spoken": "When",
+    "t0": 0.0,
+    "t1": 0.12
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "it",
+    "spoken": "it",
+    "t0": 0.12,
+    "t1": 0.18
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "sat",
+    "spoken": "sat",
+    "t0": 0.18,
+    "t1": 0.4
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "low",
+    "spoken": "low",
+    "t0": 0.4,
+    "t1": 0.72
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "on",
+    "spoken": "on",
+    "t0": 0.72,
+    "t1": 0.96
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 0.96,
+    "t1": 1.06
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "radar's",
+    "spoken": "radar's",
+    "t0": 1.06,
+    "t1": 1.54
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "horizon,",
+    "spoken": "horizon,",
+    "t0": 1.54,
+    "t1": 1.98
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "and",
+    "spoken": "and",
+    "t0": 2.38,
+    "t1": 2.52
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "above",
+    "spoken": "above",
+    "t0": 2.52,
+    "t1": 2.72
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "America",
+    "spoken": "America",
+    "t0": 2.72,
+    "t1": 3.04
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "too,",
+    "spoken": "too,",
+    "t0": 3.34,
+    "t1": 3.44
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 3.84,
+    "t1": 3.86
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "sliver",
+    "spoken": "sliver",
+    "t0": 3.86,
+    "t1": 4.22
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "of",
+    "spoken": "of",
+    "t0": 4.22,
+    "t1": 4.4
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "each",
+    "spoken": "each",
+    "t0": 4.4,
+    "t1": 4.56
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "pulse",
+    "spoken": "pulse",
+    "t0": 4.56,
+    "t1": 4.9
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "bounced",
+    "spoken": "bounced",
+    "t0": 4.9,
+    "t1": 5.18
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "back",
+    "spoken": "back",
+    "t0": 5.18,
+    "t1": 5.48
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "down.",
+    "spoken": "down.",
+    "t0": 5.48,
+    "t1": 5.76
+   }
+  ],
+  "match": "20/20"
+ },
+ "faint": {
+  "dur": 7.208958333333333,
+  "text": "The echo was over a million billion times weaker than ten miles from the radar. Only hundred-and-fifty-foot dishes could hear it.",
+  "heard": "The Echo was over a million billion times weaker than 10 miles from the radar. Only 150 -foot dishes could hear it.",
+  "words": [
+   [
+    0.0,
+    0.12,
+    "The"
+   ],
+   [
+    0.12,
+    0.38,
+    "Echo"
+   ],
+   [
+    0.38,
+    0.64,
+    "was"
+   ],
+   [
+    0.64,
+    0.86,
+    "over"
+   ],
+   [
+    0.86,
+    1.02,
+    "a"
+   ],
+   [
+    1.02,
+    1.38,
+    "million"
+   ],
+   [
+    1.38,
+    1.8,
+    "billion"
+   ],
+   [
+    1.8,
+    2.26,
+    "times"
+   ],
+   [
+    2.26,
+    2.64,
+    "weaker"
+   ],
+   [
+    2.64,
+    3.06,
+    "than"
+   ],
+   [
+    3.06,
+    3.32,
+    "10"
+   ],
+   [
+    3.32,
+    3.6,
+    "miles"
+   ],
+   [
+    3.6,
+    3.86,
+    "from"
+   ],
+   [
+    3.86,
+    3.98,
+    "the"
+   ],
+   [
+    3.98,
+    4.28,
+    "radar."
+   ],
+   [
+    4.94,
+    5.16,
+    "Only"
+   ],
+   [
+    5.16,
+    5.88,
+    "150"
+   ],
+   [
+    5.88,
+    6.26,
+    "-foot"
+   ],
+   [
+    6.26,
+    6.58,
+    "dishes"
+   ],
+   [
+    6.58,
+    6.8,
+    "could"
+   ],
+   [
+    6.8,
+    6.98,
+    "hear"
+   ],
+   [
+    6.98,
+    7.14,
+    "it."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "The",
+    "spoken": "The",
+    "t0": 0.0,
+    "t1": 0.12
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "echo",
+    "spoken": "echo",
+    "t0": 0.12,
+    "t1": 0.38
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "was",
+    "spoken": "was",
+    "t0": 0.38,
+    "t1": 0.64
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "over",
+    "spoken": "over",
+    "t0": 0.64,
+    "t1": 0.86
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 0.86,
+    "t1": 1.02
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "million billion",
+    "spoken": "million billion",
+    "t0": 1.02,
+    "t1": 1.8
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "times",
+    "spoken": "times",
+    "t0": 1.8,
+    "t1": 2.26
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "weaker",
+    "spoken": "weaker",
+    "t0": 2.26,
+    "t1": 2.64
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "than",
+    "spoken": "than",
+    "t0": 2.64,
+    "t1": 3.06
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "ten",
+    "spoken": "ten",
+    "t0": 3.19,
+    "t1": 3.32
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "miles",
+    "spoken": "miles",
+    "t0": 3.32,
+    "t1": 3.6
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "from",
+    "spoken": "from",
+    "t0": 3.6,
+    "t1": 3.86
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 3.86,
+    "t1": 3.98
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "radar.",
+    "spoken": "radar.",
+    "t0": 3.98,
+    "t1": 4.28
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "Only",
+    "spoken": "Only",
+    "t0": 4.94,
+    "t1": 5.16
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "150-foot",
+    "spoken": "hundred-and-fifty-foot",
+    "t0": 5.71,
+    "t1": 6.26
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "dishes",
+    "spoken": "dishes",
+    "t0": 6.26,
+    "t1": 6.58
+   },
+   {
+    "card": 2,
+    "line": 2,
+    "text": "could",
+    "spoken": "could",
+    "t0": 6.58,
+    "t1": 6.8
+   },
+   {
+    "card": 2,
+    "line": 2,
+    "text": "hear",
+    "spoken": "hear",
+    "t0": 6.8,
+    "t1": 6.98
+   },
+   {
+    "card": 2,
+    "line": 2,
+    "text": "it.",
+    "spoken": "it.",
+    "t0": 6.98,
+    "t1": 7.14
+   }
+  ],
+  "match": "19/21"
+ },
+ "sites": {
+  "dur": 8.7358125,
+  "text": "The Navy's dish on Chesapeake Bay got it first; the CIA's, at Stanford, in nineteen sixty-five. Geometry allowed about eighteen hours a month.",
+  "heard": "The Navy's dish on Chesapeake Bay got it first, the CIA's, at Stanford, in 1965. Geometry allowed about 18 hours a month.",
+  "words": [
+   [
+    0.0,
+    0.1,
+    "The"
+   ],
+   [
+    0.1,
+    0.52,
+    "Navy's"
+   ],
+   [
+    0.52,
+    0.7,
+    "dish"
+   ],
+   [
+    0.7,
+    0.9,
+    "on"
+   ],
+   [
+    0.9,
+    1.34,
+    "Chesapeake"
+   ],
+   [
+    1.34,
+    1.64,
+    "Bay"
+   ],
+   [
+    1.64,
+    1.88,
+    "got"
+   ],
+   [
+    1.88,
+    2.04,
+    "it"
+   ],
+   [
+    2.04,
+    2.34,
+    "first,"
+   ],
+   [
+    2.82,
+    2.9,
+    "the"
+   ],
+   [
+    2.9,
+    3.7,
+    "CIA's,"
+   ],
+   [
+    3.84,
+    3.96,
+    "at"
+   ],
+   [
+    3.96,
+    4.36,
+    "Stanford,"
+   ],
+   [
+    4.68,
+    4.84,
+    "in"
+   ],
+   [
+    4.84,
+    5.68,
+    "1965."
+   ],
+   [
+    6.6,
+    6.92,
+    "Geometry"
+   ],
+   [
+    6.92,
+    7.38,
+    "allowed"
+   ],
+   [
+    7.38,
+    7.64,
+    "about"
+   ],
+   [
+    7.64,
+    8.04,
+    "18"
+   ],
+   [
+    8.04,
+    8.32,
+    "hours"
+   ],
+   [
+    8.32,
+    8.52,
+    "a"
+   ],
+   [
+    8.52,
+    8.66,
+    "month."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "The",
+    "spoken": "The",
+    "t0": 0.0,
+    "t1": 0.1
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "Navy's",
+    "spoken": "Navy's",
+    "t0": 0.1,
+    "t1": 0.52
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "dish",
+    "spoken": "dish",
+    "t0": 0.52,
+    "t1": 0.7
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "on",
+    "spoken": "on",
+    "t0": 0.7,
+    "t1": 0.9
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Chesapeake",
+    "spoken": "Chesapeake",
+    "t0": 0.9,
+    "t1": 1.34
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Bay",
+    "spoken": "Bay",
+    "t0": 1.34,
+    "t1": 1.64
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "got",
+    "spoken": "got",
+    "t0": 1.64,
+    "t1": 1.88
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "it",
+    "spoken": "it",
+    "t0": 1.88,
+    "t1": 2.04
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "first;",
+    "spoken": "first;",
+    "t0": 2.04,
+    "t1": 2.34
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "the",
+    "spoken": "the",
+    "t0": 2.82,
+    "t1": 2.9
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "CIA's,",
+    "spoken": "CIA's,",
+    "t0": 2.9,
+    "t1": 3.7
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "at",
+    "spoken": "at",
+    "t0": 3.84,
+    "t1": 3.96
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "Stanford,",
+    "spoken": "Stanford,",
+    "t0": 3.96,
+    "t1": 4.36
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "in",
+    "spoken": "in",
+    "t0": 4.68,
+    "t1": 4.84
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "1965.",
+    "spoken": "nineteen sixty-five.",
+    "t0": 5.426666666666667,
+    "t1": 6.6
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "Geometry",
+    "spoken": "Geometry",
+    "t0": 6.6,
+    "t1": 6.92
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "allowed",
+    "spoken": "allowed",
+    "t0": 6.92,
+    "t1": 7.38
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "about",
+    "spoken": "about",
+    "t0": 7.38,
+    "t1": 7.64
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "18 hours",
+    "spoken": "eighteen hours",
+    "t0": 7.84,
+    "t1": 8.32
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 8.32,
+    "t1": 8.52
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "month.",
+    "spoken": "month.",
+    "t0": 8.52,
+    "t1": 8.66
+   }
+  ],
+  "match": "20/23"
+ },
+ "found": {
+  "dur": 7.765145833333333,
+  "text": "It was enough: computer-controlled scanning, a spread-spectrum mode, about twenty-five megawatts of peak power. A new anti-missile radar.",
+  "heard": "It was enough, computer -controlled scanning, a spread spectrum mode, about 25 megawatts of peak power, a new anti -missile radar.",
+  "words": [
+   [
+    0.0,
+    0.1,
+    "It"
+   ],
+   [
+    0.1,
+    0.2,
+    "was"
+   ],
+   [
+    0.2,
+    0.52,
+    "enough,"
+   ],
+   [
+    0.98,
+    1.22,
+    "computer"
+   ],
+   [
+    1.22,
+    1.64,
+    "-controlled"
+   ],
+   [
+    1.64,
+    2.12,
+    "scanning,"
+   ],
+   [
+    2.5,
+    2.56,
+    "a"
+   ],
+   [
+    2.56,
+    2.78,
+    "spread"
+   ],
+   [
+    2.78,
+    3.24,
+    "spectrum"
+   ],
+   [
+    3.24,
+    3.54,
+    "mode,"
+   ],
+   [
+    3.82,
+    3.96,
+    "about"
+   ],
+   [
+    3.96,
+    4.56,
+    "25"
+   ],
+   [
+    4.56,
+    5.04,
+    "megawatts"
+   ],
+   [
+    5.04,
+    5.22,
+    "of"
+   ],
+   [
+    5.22,
+    5.4,
+    "peak"
+   ],
+   [
+    5.4,
+    5.78,
+    "power,"
+   ],
+   [
+    6.26,
+    6.4,
+    "a"
+   ],
+   [
+    6.4,
+    6.6,
+    "new"
+   ],
+   [
+    6.6,
+    6.98,
+    "anti"
+   ],
+   [
+    6.98,
+    7.3,
+    "-missile"
+   ],
+   [
+    7.3,
+    7.58,
+    "radar."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "It",
+    "spoken": "It",
+    "t0": 0.0,
+    "t1": 0.1
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "was",
+    "spoken": "was",
+    "t0": 0.1,
+    "t1": 0.2
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "enough:",
+    "spoken": "enough:",
+    "t0": 0.2,
+    "t1": 0.52
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "computer-controlled",
+    "spoken": "computer-controlled",
+    "t0": 1.08,
+    "t1": 1.64
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "scanning,",
+    "spoken": "scanning,",
+    "t0": 1.64,
+    "t1": 2.12
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 2.5,
+    "t1": 2.56
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "spread-spectrum",
+    "spoken": "spread-spectrum",
+    "t0": 2.9000000000000004,
+    "t1": 3.24
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "mode,",
+    "spoken": "mode,",
+    "t0": 3.24,
+    "t1": 3.54
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "about",
+    "spoken": "about",
+    "t0": 3.82,
+    "t1": 3.96
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "25 megawatts",
+    "spoken": "twenty-five megawatts",
+    "t0": 4.26,
+    "t1": 5.04
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "of",
+    "spoken": "of",
+    "t0": 5.04,
+    "t1": 5.22
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "peak",
+    "spoken": "peak",
+    "t0": 5.22,
+    "t1": 5.4
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "power.",
+    "spoken": "power.",
+    "t0": 5.4,
+    "t1": 5.78
+   },
+   {
+    "card": 3,
+    "line": 0,
+    "text": "A",
+    "spoken": "A",
+    "t0": 6.26,
+    "t1": 6.4
+   },
+   {
+    "card": 3,
+    "line": 0,
+    "text": "new",
+    "spoken": "new",
+    "t0": 6.4,
+    "t1": 6.6
+   },
+   {
+    "card": 3,
+    "line": 0,
+    "text": "anti-missile",
+    "spoken": "anti-missile",
+    "t0": 6.949999999999999,
+    "t1": 7.3
+   },
+   {
+    "card": 3,
+    "line": 0,
+    "text": "radar.",
+    "spoken": "radar.",
+    "t0": 7.3,
+    "t1": 7.58
+   }
+  ],
+  "match": "14/18"
+ },
+ "practice": {
+  "dur": 3.371625,
+  "text": "Soviet operators even locked it onto the Moon, for practice.",
+  "heard": "Soviet operators even locked it onto the moon for practice.",
+  "words": [
+   [
+    0.0,
+    0.4,
+    "Soviet"
+   ],
+   [
+    0.4,
+    0.94,
+    "operators"
+   ],
+   [
+    0.94,
+    1.3,
+    "even"
+   ],
+   [
+    1.3,
+    1.62,
+    "locked"
+   ],
+   [
+    1.62,
+    1.76,
+    "it"
+   ],
+   [
+    1.76,
+    1.86,
+    "onto"
+   ],
+   [
+    1.86,
+    2.06,
+    "the"
+   ],
+   [
+    2.06,
+    2.3,
+    "moon"
+   ],
+   [
+    2.3,
+    2.76,
+    "for"
+   ],
+   [
+    2.76,
+    3.14,
+    "practice."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 0.0,
+    "t1": 0.4
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "operators",
+    "spoken": "operators",
+    "t0": 0.4,
+    "t1": 0.94
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "even",
+    "spoken": "even",
+    "t0": 0.94,
+    "t1": 1.3
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "locked",
+    "spoken": "locked",
+    "t0": 1.3,
+    "t1": 1.62
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "it",
+    "spoken": "it",
+    "t0": 1.62,
+    "t1": 1.76
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "onto",
+    "spoken": "onto",
+    "t0": 1.76,
+    "t1": 1.86
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "the",
+    "spoken": "the",
+    "t0": 1.86,
+    "t1": 2.06
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Moon\u2014",
+    "spoken": "Moon\u2014",
+    "t0": 2.06,
+    "t1": 2.3
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "for",
+    "spoken": "for",
+    "t0": 2.3,
+    "t1": 2.76
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "practice.",
+    "spoken": "practice.",
+    "t0": 2.76,
+    "t1": 3.14
+   }
+  ],
+  "match": "10/10"
+ },
+ "exhibit": {
+  "dur": 6.785875,
+  "text": "Years earlier, a touring Soviet exhibition showed off a Loonik: the final stage of a Moon rocket. Surely, a mock-up.",
+  "heard": "Years earlier, a touring Soviet exhibition showed off a lunatic, the final stage of a moon rocket, surely a mock -up.",
+  "words": [
+   [
+    0.0,
+    0.2,
+    "Years"
+   ],
+   [
+    0.2,
+    0.54,
+    "earlier,"
+   ],
+   [
+    0.72,
+    0.78,
+    "a"
+   ],
+   [
+    0.78,
+    1.12,
+    "touring"
+   ],
+   [
+    1.12,
+    1.56,
+    "Soviet"
+   ],
+   [
+    1.56,
+    2.02,
+    "exhibition"
+   ],
+   [
+    2.02,
+    2.4,
+    "showed"
+   ],
+   [
+    2.4,
+    2.58,
+    "off"
+   ],
+   [
+    2.58,
+    2.68,
+    "a"
+   ],
+   [
+    2.68,
+    2.98,
+    "lunatic,"
+   ],
+   [
+    3.3,
+    3.42,
+    "the"
+   ],
+   [
+    3.42,
+    3.76,
+    "final"
+   ],
+   [
+    3.76,
+    4.08,
+    "stage"
+   ],
+   [
+    4.08,
+    4.32,
+    "of"
+   ],
+   [
+    4.32,
+    4.42,
+    "a"
+   ],
+   [
+    4.42,
+    4.6,
+    "moon"
+   ],
+   [
+    4.6,
+    4.98,
+    "rocket,"
+   ],
+   [
+    5.54,
+    5.88,
+    "surely"
+   ],
+   [
+    5.88,
+    6.28,
+    "a"
+   ],
+   [
+    6.28,
+    6.46,
+    "mock"
+   ],
+   [
+    6.46,
+    6.66,
+    "-up."
+   ]
+  ],
+  "tokens": [
+   {
+    "card": 0,
+    "line": 0,
+    "text": "Years",
+    "spoken": "Years",
+    "t0": 0.0,
+    "t1": 0.2
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "earlier,",
+    "spoken": "earlier,",
+    "t0": 0.2,
+    "t1": 0.54
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "a",
+    "spoken": "a",
+    "t0": 0.72,
+    "t1": 0.78
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "touring",
+    "spoken": "touring",
+    "t0": 0.78,
+    "t1": 1.12
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "Soviet",
+    "spoken": "Soviet",
+    "t0": 1.12,
+    "t1": 1.56
+   },
+   {
+    "card": 0,
+    "line": 0,
+    "text": "exhibition",
+    "spoken": "exhibition",
+    "t0": 1.56,
+    "t1": 2.02
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "showed",
+    "spoken": "showed",
+    "t0": 2.02,
+    "t1": 2.4
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "off",
+    "spoken": "off",
+    "t0": 2.4,
+    "t1": 2.58
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 2.58,
+    "t1": 2.68
+   },
+   {
+    "card": 0,
+    "line": 1,
+    "text": "Lunik:",
+    "spoken": "Loonik:",
+    "t0": 2.99,
+    "t1": 3.3
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "the",
+    "spoken": "the",
+    "t0": 3.3,
+    "t1": 3.42
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "final",
+    "spoken": "final",
+    "t0": 3.42,
+    "t1": 3.76
+   },
+   {
+    "card": 1,
+    "line": 0,
+    "text": "stage",
+    "spoken": "stage",
+    "t0": 3.76,
+    "t1": 4.08
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "of",
+    "spoken": "of",
+    "t0": 4.08,
+    "t1": 4.32
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 4.32,
+    "t1": 4.42
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "Moon",
+    "spoken": "Moon",
+    "t0": 4.42,
+    "t1": 4.6
+   },
+   {
+    "card": 1,
+    "line": 1,
+    "text": "rocket.",
+    "spoken": "rocket.",
+    "t0": 4.6,
+    "t1": 4.98
+   },
+   {
+    "card": 2,
+    "line": 0,
+    "text": "Surely,",
+    "spoken": "Surely,",
+    "t0": 5.54,
+    "t1": 5.88
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "a",
+    "spoken": "a",
+    "t0": 5.88,
+    "t1": 6.28
+   },
+   {
+    "card": 2,
+    "line": 1,
+    "text": "mock-up.",
+    "spoken": "mock-up.",
+    "t0": 6.5329375,
+    "t1": 6.785875
+   }
+  ],
+  "match": "18/20"
+ }
+}
