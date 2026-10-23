@@ -1,0 +1,409 @@
+ 
+ Radio Telescope in Arecibo: Few References in Puerto Rico on Background and Classified Research During the First Years of Operations 
+Ir al contenido principal
+ Buscar
+Buscar este blog
+Irving Jimenez Blog
+Organizational Design & Tensor Networks (R-7)
+Compartir
+ Obtener enlace 
+ Facebook 
+ X 
+ Pinterest 
+ Correo electrónico 
+ Otras aplicaciones 
+ Etiquetas
+ Arecibo 
+ Astronomy 
+ Department of Defense 
+ NSA 
+ Radio Telescope 
+ Science 
+agosto 31, 2024
+Radio Telescope in Arecibo: Few References in Puerto Rico on Background and Classified Research During the First Years of Operations
+ Irving A. Jimenez
+ Preface 
+ A frugal perspective on the dynamics and elements from which the "Department of Defense Ionospheric Research Facility" [1] emerged has persisted in Puerto Rico and other locations, knowing only one side of the same coin. Today, the facility is frequently known as the radio telescope or Arecibo Observatory.  
+ Furthermore, the general public knew little or nothing about the classified secret work at the facility, whose expected research results on the potential ionospheric effect on missiles and signals justified the financial resources required for development as part of an intercontinental ballistic missile defense system. Instead, the most well-known aspect of the observatory focused on unclassified operations and the extraordinary scientific achievements made over the years.
+ The author aims to draw attention to a lesser-known aspect of the story. Then, considering it, estimate the radio telescope's future viability. Of course, all statements are open to new evidence or interpretations of the study materials other scholars could offer. 
+ The paper, Arecibo Radio Telescope, is divided into five sections:
+ Few References in Puerto Rico on Background and Classified Investigations During the First Years of Operation. The ionosphere, Cold War, and Department of Defense Strategies to Camouflage Military Programs. Purpose, Approval, Relationship with ARPA, Air Force, and NASA Link with the Department of Defense. Cancellation, Redemption, and Transfer to NSF. Possibilities. 
+ Motivation 
+ For nine (9) months, this researcher worked looking into the history of the Arecibo Observatory. Exploring various databases, the author came across declassified information and testimonies of past directors of the "Advanced Research Projects Agency" (from now on ARPA, for its acronym in English), including Dr. William E. Gordon, the first director, and designer of the "Arecibo Ionosphere Observatory" (from now on AIO). The original name for the observatory was "Department of Defense Ionospheric Research Facility." 
+ The search did not arise by chance. Instead, it was the product of the author's motivation to know and understand how the observatory emerged and the work carried out during its first years of operation. Dr. John D. Sterman taught us in his "System Dynamics" lectures at the Massachusetts Institute of Technology (MIT) that "history and contexts matter to assess the structure of any system." However, because the literature available to the author, particularly in Puerto Rico, only superficially addressed these issues, the author's desire to learn more about AIO's history remained latent.
+ The primary motivation stems from "obtaining awareness" - at a young age - of the existence of the radio telescope:
+ Family members such as the Juarbe, Jiménez, and Malaret lived, and some still reside near the observatory. These told stories about events about vegetation, caves, rivers, and construction, as well as "strange" sounds once the observatory was in operation, stimulating the author's curiosity, imagination, and interest in that facility. Of course, the multiple visits to the place were not absent. Anecdotes from relatives and neighbors yielded no information about the context or cause behind the construction of the observatory and its location on our island. The literature in Puerto Rico and other organizations familiarized this researcher with the groundbreaking scientific investigations conducted, but there were significant gaps in the background and causes. After a few years, conversations (between 1982 and 1984) with engineer R.R., who worked for an extended period in agencies related to defense, intelligence, and space, and who also worked in Puerto Rico during his early years after graduating from Colegio de Mayagüez in the field of electrical engineering. Given the "confidentiality" of the issues we discussed, I prefer not to identify the private company for which he provided services. 
+ At that time, the engineer shared, among other things, some of the capabilities of military and intelligence sensors and the reasons for keeping said technology camouflaged. For example, in the mid-1960s, technology was already available to photograph a car's license plate from a satellite and issue a violation ticket to the driver for exceeding the established speed limits. The notification would go directly to the address tied to the vehicle's registration. Furthermore, he described the technique that allowed an ordinary television receiver as a transmitter and, with the technology available to intelligence agencies, to capture a conversation taking place at a certain distance from the equipment. Finally, he talked to this author about underwater operations to listen to communications in foreign countries and how his observations from his own experience made him understand that the technology available to the general population was 20-30 years behind. He also indicated that computer networks would eventually become a risk to national and individual security; if it were up to him, he would blow them up.
+ Note that the engineer referred to technology already available six (6) decades ago.
+ Years later, researching declassified documents, this author found projects similar to those mentioned by Ing. R.R. For example, the secret operations called "Ivy Bells," carried out by the Navy; Central Intelligence Agency, and the National Security Agency (from now on CIA and NSA, respectively) [2]. This researcher also found data on the RC-135 aircraft model that began operations in the early 1960s, with the primary function of collecting information through electromagnetic radiation, including communications.
+ "Unfortunately," university studies, professional jobs, and daily life events relegated this author's interest in researching AIO's backdrop. Other activities that the author understood to be more pressing in their respective times took precedence. However, the news of the collapse of parts of the radar system's structures reawakened a nostalgic desire to learn more about that history.
+ This author remembered the conversations with Engineer R.R. about classified matters for some reason or by chance. Hence, it was not unheard of to discover in the documents examined stealth missions in Arecibo. In the search, this writer mainly concentrated on the data and information that refer to the years ~1955 to 1967, the antecedent period, conceptualization, construction, and start of operations of AIO.
+ When exploring the public information in Puerto Rico and Cornell University, among others, the author noticed that it makes few mentions of the history of the observatory, the chain of events, and the dynamics from which AIO emerges. Instead, the data is limited to astronomy, radio astronomy, engineering, planetary sciences, and important discoveries such as the first planet orbiting another star and the "pulsars." In addition, they give brief descriptions of Gordon's work and the steps he took to build the radio telescope. Still, they leave out other actors like Henry Booker, Ben Nichols, William McGuire, Ward Low, Arnold Shostak, Kenneth Bowles, and Thomas "Tommy" Gold. According to Gordon, Gold, an astronomy professor at Cornell, was the first to recognize the new AIO system's ability to function as the most sensitive instrument in the relatively new fields of radio astronomy [3]. These scientists, as well as others and other organizations such as the Lincoln Laboratory at MIT, were decisive in achieving the building and obtaining the documented results of the radar.
+ Two (2) instances: 
+ The Governor of Puerto Rico's Executive Order 2020-097, issued on December 28, 2020, solely mentions that the observatory was built with funds from ARPA, the "U.S. Department of Defense," through a contract with the Air Force Cambridge Research Laboratory. Notice that it does not expose the context, causes, or process that led to that decision. Cornell University reports: "The Arecibo Observatory was built in 1963 by the United States Air Force under the initiative of Professor William Gordon of the Department of Electrical Engineering and his colleagues at Cornell." Intended for radar studies of the Earth's ionosphere, but it quickly became clear that the telescope would be a vital new tool for the then-relatively new fields of radio and radar astronomy. In addition to its astronomical observations, […] it is used for atmospheric and ionospheric studies. It has been managed by Cornell since its inception, first for the Air Force and, after 1970, for the National Science Foundation" [4]. 
+ Possible Causes of the Scarce Information 
+ The limited public information on the background details – the initial conditions that culminated in the installation in Arecibo – led this writer to question whether it happened by design or was the product of the dichotomy of cultures between the military organizations and the so-called "hard sciences."
+ Searching for an answer, the author remembered the studies of the anthropologist Bronislaw Malinowski. It can be inferred from those studies that all tribes (by analogy: military and scientific) have myths and codes that jealously guard against outside scrutiny. The author avoids including at this point the typical internal "battles" that occur in both groups ("internal politics"). Malinowski describes tribes as groups of people who "jointly exercise one type of culture" and who "transmit this culture in the same language, according to similar educational principles, and thus are the unit through which the culture lives and with which the culture dies" [5].
+ Malinowski's description made the author think that the lack of information could emerge from the dichotomy of cultures. First is the military, hiding capabilities and avoiding disclosing possible technologies that the adversary could copy. Second, scientists avoid ties with warlike objectives that do not advance scientific knowledge for the benefit of humanity.
+ In contrast, a scientific culture that is not military-motivated is generally open and subject to peer review. This cultural trait prompted the author to investigate how classified programs, projects, or investigations work. Unfortunately, these activities reaffirm the culture of hiding (the "need to know" concept that will be explained later) some work carried out by agencies or services attached to the Pentagon, including some contracted services. In other words, who knows or should know what?
+ Without sufficient security authorization ("clearance"), it is reasonable to suspect that scientists working in Arecibo were uninformed of the military's usage or intent for the studies conducted there. Specifically, before the National Science Foundation (from now on, NSF) took control of the radar via transference. Consequently, the history of the observatory related to classified works was not known by the workforce and those who documented its achievements through time. That is why the classified portion of the story is practically not known.
+ Other Publications 
+ Beyond our insularism, other publications present details about the background. Among which are: "A Short History of Geophysical Radar at Arecibo;" [6] "The National Astronomy and Ionosphere Center's (NAIC) Arecibo Observatory in Puerto Rico;" [7] "Genesis of the 1000-foot Arecibo Dish;" [8] "To See the Unseen;" [9] "Arecibo Ionospheric Observatory records, 1958-2010, Collection Number: 53-7-3581 (Division of Rare and Manuscript Collections, Cornell University Library)." However, in this writer's opinion, they lack specificity about the functions that the observatory provided to the military and intelligence services, as evidenced by declassified documents and testimonies of official actors of the time.
+ A Lengthy Research History 
+ Regardless of the classified works mentioned before, it is a known fact that AIO has a rich history of research; some are declassified, and others still maintain such status and predate achievements widely documented by publications known to the general public.
+ Possible example: Today, the military openly states that in air-to-air or airborne ballistic missile interception systems, atmospheric turbulence affects the beam spread of directed energy (laser) based technologies and becomes a "problem" that they have to be considered when calculating the probability of success, explains Craig Robin, director of directed energy in the office of Rapid Capabilities and Critical Technologies of the Navy [10]. Initial studies on these atmospheric phenomena were likely part of Arecibo's then-classified legacy, as will be seen later in the other parts of the paper.
+ Procedure and Documentation 
+ Even though this researcher used the publications mentioned earlier and others as secondary references, the author preferred to use primary sources when available. Such as declassified documents, published interviews with ARPA directors and other federal government officials, and official publications of the military and state branches of intelligence. The "National Security Archive, Georgetown University" provided the sources for declassified documents.
+ This author dedicated the Christmas 2020-2021 and "free" time between January and October to exploring and outlining the required missing context. Because of time constraints and limited resources, the author recognizes that the vast information space requires further exploration. To accomplish this goal, the author focused the paper primarily on the years 1955-1967. Events that occurred during those years, according to the documents examined, created the conditions for Arecibo's development and the following classified activities carried out during the first years of its operation.
+ The observations and inferences in the paper depict the assumptions, possible explanations, and conclusions that emerge from the reviewed literature. At the end of the series of writings (I-V), this author briefly summarizes current events that, in my opinion, will impact future decisions on whether or not to rebuild the observatory or develop a different project. Finally, this author acknowledges the limited understanding of radars and astronomical science, among other things. As a result, technical aspects are addressed as needed, using relevant primary or secondary sources to present a point directly related to the writer's central argument.
+ As we will see all across the paper, not all of the information was or is available today because there are still classified documents on the subject. Therefore, according to this author's understanding, any inference should not be interpreted as an axiom but rather as a previous, tentative explanation of the documented facts or situations.
+ Consider the process described in the Bayes theorem, in which the probability that A occurs is conditional on B, requiring prior knowledge from B. Prior information B in the Arecibo point is the set of elements (context) that gave rise to AIO, as identified with the help of declassified documents and available literature. As a result, A represents the inference made about the classified works and the observations about the radio telescope's possible futures as a function of B, while keeping in mind that the relationship P(A|B) is conditioned and thus dynamic, susceptible to new information from future declassified documents.
+ Note: The author acknowledges that not all of the information was available in its entirety or in parts to those who have written about Arecibo's observatory in Puerto Rico.
+ Argument 
+ AIO's current state of affairs - in terms of its creation, financing, use, and future projection - emerges from the geopolitical, military, and scientific context between 1955 and 1967. This researcher contends that what took place during that period defined the range of possibilities for its development, on which the radio telescope is now heavily reliant for its survival. This, combined with the comparative disadvantage resulting from the evolution in the logistics and technological architecture of other teams located in various geographical areas of the Earth and space that did not exist at the time of AIO's conceptualization and subsequent capacity improvements. [11]
+ This author will add that the observatory, mainly, was not a system motivated and financed as an instrument for the study of the universe only. Neither is factual for the "Drake equation" (which estimates the probability of the number of civilizations with communication capacity in our galaxy). Not "Panspermia" (the exchange of life through meteorites or by comets). Facts that elude - by design, culture, or ignorance - the executive order, other entities, and general publications in P.R.
+ This author will demonstrate: the goal, acceptance, and funding of AIO as one of the technologies to be used within one of the ARPA research projects ("fundamental research: Tradex, Pincushion, DAMP, Arecibo, and "H.F. Ionospheric radars")  was due seeking to potentially counter intercontinental ballistic missiles (The Advanced Research Project Agency 1957–1974. III-56-58). It was also challenging to distinguish decoys from real nuclear warheads or capture radar signals from the Soviet Union in some geographical areas where human life was at risk, such as crewed aerial flights of spy planes or human intelligence (HUMINT).
+ This author advances: as noted by R. Michael Dowe Jr., Raytheon Corporation, one of the Pentagon's main contractors; "The Department of Defense needed a detailed map of the ionosphere over a sunspot cycle to understand the background in the that operated space assets and missiles." He further states: "After AIO completed the mapping of the ionosphere through a sunspot cycle, I worked on its transfer to the National Science Foundation (from now on NSF) through the advisory committee." [12] As we will see later, one (1) year after the start of operations, AIO was also found to be effective in obtaining communications or radar signals from the Soviet Union through the atmosphere and the moon, among other things.
+ Gordon, under Shostak's direction at the Office of Naval Research (from now on ONR), before and during the early stages of AIO's conceptualization, carried out work in that office concerning measurements of solar radio radiation ("Measurement of Solar Radio Radiation").
+ The significance of understanding the antecedents stems from the argument, the complex chain of events, and the "momentum" that gave rise to the need for the observatory, and comparing these elements to current geopolitical, military, economic, and technological factors. [13] & [14] The declassified documents show that during the early years of the Cold War, these factors were decisive for the Pentagon to sponsor Gordon's proposal and build a facility that would be exclusively scientific for public purposes. Part II of the paper presents how the operational model of the Navy radio telescope at "Stump Neck" for the 1950s worked similarly.
+ These same factors, with different military domain scenarios and additional actors, potentially have a high probability of configuring similar conditions in today's state of affairs. The distinction arises in the type of technology to be developed based on the needs of the new competitive fields (y = f(x)). In the short and medium time identified as High and Low Earth Orbits, Cislunar Space, the Moon, and the planet Mars. [15]
+ Additional Components 
+ It is essential to note that the accelerated dynamics in the emergence of new technologies today were evident at the start of the construction in Arecibo. The new types of equipment harbored the potential to perform various functions and additional ones for which the observatory was initially funded. Similarly, these technologies and equipment increased the ability to carry out larger-scale tasks in response to new competitive scenarios in the so-called military domains (reference framework that defines the preparation and strategies of war in a specific context). [16]
+ Has Arecibo reached the point that physicists refer to as "superlinear scaling" and economists and social scientists refer to as "increasing returns to scale" due to other technological innovations? These terms refer to a continuous increase at a non-linear rate greater than one-for-one. This author refers explicitly to the new instruments' relative effectiveness and efficiency compared to AIO. If this is the case, the possibility of restoring the radio telescope is slim; it would require a transformation into a new project.
+ However, based on the literature reviewed, this researcher envisions possibilities for transformation, new missions with their respective technologies aimed at established and emerging private companies, and the federal government's civil, military, and intelligence components (more details in part V of the document). The reasoning is that the observatory emerged from novel niches in the field at the time. Therefore, when organizations assess their output in light of other investments (opportunity costs), these spaces with science aligned to needs have the potential to increase the probability of the value of the proposed equipment and technology.
+ However, given the advent of multiple private companies, individuals, and institutional investors competing for funds from the federal government, the time it takes to propose any new concept for the observatory is critical.
+ The proposal "The Future of the Arecibo Observatory: The Next Generation Arecibo Telescope" illustrates the idea of pursuing a new niche [17].  In addition, the said proposal has visions for dealing with other things that Ed Lu, Executive Director of the Asteroid Institute, reports. For example, according to Nicole Karlis [18], "99% of the asteroids that could harm our planet are currently untracked." This outer space reality could be an opportunity for Arecibo if other technologies do not occupy the area first.
+ Because of changing demands, technological advances are dynamic and accelerated, particularly in defense. Moreover, these advancements are the result of innovations made by rival nations.
+ Consider this: "The Space Force is testing new software that could improve the accuracy of its current system for tracking satellites and dangerous debris in space and enable current tracking in near-real time. Which allows the service to keep better tabs on adversary spacecraft seeking to hide from prying eyes."
+ Advances such as the one pointed out and others that we are not aware of, included in what is known as the "Black Budgets & Funding the Intelligence Program," increase the risk of proposals for Arecibo losing relevance for the military and the intelligence community. Consequently, the later the preparation process is carried out, the lower the probability of approval.
+ Add to that: technologies transferred to NASA or other federal agencies that were initially part of classified programs; therefore, their capabilities were unknown for a time. These advances occur when types of equipment replace them with greater competition. For example, in the fourth part (IV) of the paper, I present the case of the "Hexagon" series of satellites whose technology was transferred to NASA, "probably" once the military adopted others with new and more unprecedented capabilities.
+ On the other hand, the reader will discover that during the conception of the observatory and its first years of operation, it was "controversial" within the organization that provided the funds, ARPA, and the military services of the time. During that time, opposing views emerged within the agency and defense organizations about ARPA's role regarding the nature of the projects to be carried out and the AIO's prospective effectiveness as a missile defense component. One of the biggest debates focused on the priority of the allocation of funds, short-term military application versus long-term basic scientific research. Those debates sparked bitter disagreements that reached the highest levels of the Department of Defense, requesting the cancelation of the Arecibo project.
+ Advancing a portion of other elements of the paper, this author will uncover the dynamics that impeded the cancellation of AIO once construction begins, the reasons for this, and the senior Pentagon officials involved in the decision.
+ Why was the observatory not initially funded by the NSF? Wasn't this the federal agency in charge of non-military science projects? Were other alternatives for AIO placement considered? What was ARPA's motivation for financing the project? What role did the "National Aeronautics and Space Administration" (NASA, for its English acronym) play in the beginning? Was the AIO radar used for national defense or intelligence purposes? Were subterfuges used at AIO to keep work and research hidden? Is it possible to rehabilitate the observatory or develop new capabilities in light of the current situation? 
+ This author will address the questions mentioned above in the second part of the article, "Arecibo Radio Telescope: Ionosphere, Cold War, and Defense Department Strategies to Camouflage Military Programs (II-V)."
+ References 
+ 1. Butrica, A. J. (2015, p. 90). To see the Unseen: A History of Planetary Radar Astronomy. Andesite Press.
+ 2. Blitz, M. (2017, March 30). Secrets haunt the still-classified Operation Ivy Bells; a daring Cold War wiretapping operation conducted 400 feet underwater. Uss Virginia. https://www.ussvirginiabase.org/files/How-Secret-Underwater-Wiretapping-Helped-End-the-Cold-War.pdf.
+ 3. Butrica, A. (2020, December 14). William Gordon. American Institute of Physics. https://www.aip.org/history-programs/niels-bohr-library/oral-histories/22789.
+ 4. Cornell Chronicle. (1997, June 19). Here are some facts (and a little history) about Arecibo. https://news.cornell.edu/stories/1997/06/some-facts-and-little-history-about-arecibo.
+ 5. Malinowski, B. (1941, January 4). An anthropological analysis of war. Https://Www.Journals.Uchicago.Edu/Toc/Ajs/1941/46/4. https://www.journals.uchicago.edu/doi/abs/10.1086/218697.
+ 6. Mathews, J. D. (2013). A short history of geophysical radar at Arecibo Observatory. History of Geo- and Space Sciences, 4(1), 19–33. https://doi.org/10.5194/hgss-4-19-2013.
+ 7. Altschuler, D. (2002, December). The National Astronomy and Ionosphere Center's (NAIC) Arecibo Observatory in Puerto Rico. NASA/ADS. https://ui.adsabs.harvard.edu/abs/2002ASPC.278. . ..1A/abstract.
+ 8. Cohen, M. H. (2009a). The genesis of the 1000-foot Arecibo Dish. Journal of Astronomical History and Heritage, 12(2), 141–152.
+ 9. Butrica, A. J. (2015). To see the Unseen: A History of Planetary Radar Astronomy. Andesite Press.
+ 10. Hitchens, T. (2021, July 23). Directed energy: From Counter-Drone to force fields? Breaking Defense. https://breakingdefense.com/2021/07/directed-energy-from-counter-drone-to-force-fields/.
+ 11. Strout, N. (2021, August 11). L3 Harris leaped from tracking the weather to tracking missiles, cracking a competitive field. C4ISRNet. https://www.c4isrnet.com/battlefield-tech/space/2021/08/10/digital-engineering-shows-promise-of-cheaper-more-flexible-missile-warning-constellations/.
+ 12. Raytheon, & Dowe, R. M. (2014). Early History of Arecibo Observatory. Physics Today, 67(6), 12. https://doi.org/10.1063/pt.3.2401.
+ 13. Bowen, B. E. (2020). War in Space: Strategy, Spacepower, Geopolitics (1st ed.). Edinburgh University Press.
+ 14. Acemoglu, D. (2021, July 23). The dangers of decoupling. Project Syndicate. https://www.project-syndicate.org/commentary/dangers-of-us-china-decoupling-by-daron-acemoglu-2021-07Bowen, B. E. (2020). War in Space: Strategy, Spacepower, Geopolitics (1st ed.). Edinburgh University Press.
+ 15. Colucci, L., Space Force Journal, & Carlson, J. (2021, April). Great power strategic competition on Earth and in space. Space Force Journal. https://thespaceforcejournal.com/issue-2-10-great-powers.
+ 16. Heftye, E. (2017, May 26). Multi-Domain confusion: All domains are not created equal. The Strategy Bridge. https://thestrategybridge.org/the-bridge/2017/5/26/multi-domain-confusion-all-domains-are-not-created-equal#:%7E:text=As%20described%20in%20an%20essay%20by%20Frank%20Hoffman,to%20operate%20or%20maneuver%20in%20their%20dominant%20domain.
+ 17. Roshi, A., & Pinilla, N. (2021, February). NGAT: Landing Page | The Arecibo Observatory. Arecibo Observatory. http://www.naic.edu/ao/ngat.
+ 18. Karlis, N. (2021, August 15). NASA slightly improves the odds that asteroid Bennu hits Earth. Humanity will be ready regardless. Salon. https://www.salon.com/2021/08/15/nasa-slightly-improves-the-odds-that-asteroid-bennu-hits-earth-humanity-will-be-ready-regardless/.
+Compartir
+ Obtener enlace 
+ Facebook 
+ X 
+ Pinterest 
+ Correo electrónico 
+ Otras aplicaciones 
+ Etiquetas: 
+ Arecibo 
+ Astronomy 
+ Department of Defense 
+ NSA 
+ Radio Telescope 
+ Science 
+ Comentarios 
+ Publicar un comentario 
+Entradas populares
+septiembre 17, 2025
+ How the President’s Daily Brief Is Prepared, Who Sees It, and How Governors Receive Related Intelligence 
+Compartir
+ Obtener enlace 
+ Facebook 
+ X 
+ Pinterest 
+ Correo electrónico 
+ Otras aplicaciones 
+Publicar un comentario
+enero 02, 2026
+ The Magi or “Three Kings”: Fact or Fiction in the Traditional Western Narrative? 
+Compartir
+ Obtener enlace 
+ Facebook 
+ X 
+ Pinterest 
+ Correo electrónico 
+ Otras aplicaciones 
+Publicar un comentario
+Con la tecnología de Blogger
+Buscar este blog
+Irving A Jimenez
+ United States 
+In addition to holding management positions at the University of Puerto Rico, including Dean of Administration at the Medical Sciences Campus and Executive Director of the PR Medical Center and the Center for Specialized Management Studies, I have provided consulting and lecturing services to a variety of organizations. My background is further enhanced by studies in Technology, Operations, System Dynamics, and Quantitative Methods of Analysis, completed at MIT and NYU.
+Visitar perfil
+Archivo
+ octubre 6 
+ septiembre 2 
+ mayo 1 
+ abril 2 
+ marzo 1 
+ enero 1 
+ diciembre 4 
+ septiembre 6 
+ agosto 6 
+ julio 4 
+ junio 7 
+ mayo 13 
+ abril 14 
+ marzo 3 
+ febrero 4 
+ enero 1 
+ diciembre 3 
+ noviembre 1 
+ octubre 1 
+ septiembre 2 
+ agosto 4 
+ julio 1 
+ junio 1 
+ mayo 1 
+ enero 2 
+ noviembre 4 
+ agosto 1 
+ diciembre 1 
+ noviembre 2 
+ mayo 2 
+ junio 1 
+ mayo 1 
+ febrero 2 
+ septiembre 2 
+ abril 1 
+ Mostrar más 
+ Mostrar menos 
+Etiquetas
+ Adaptation 1 
+ administracion 1 
+ Administración 1 
+ Administración publica 1 
+ ADN 1 
+ ADN organizacional 1 
+ Aguadilla 1 
+ AI 2 
+ alacrán 1 
+ Antivacunas 1 
+ Apostles Creed 1 
+ Arecibo 5 
+ ARPA 3 
+ artificial systems 1 
+ ASEM 2 
+ asequibilidad 1 
+ Asi 1 
+ Astronomy 1 
+ Attractor 1 
+ Biden 1 
+ Bifurcations 1 
+ biology 1 
+ BioNTech 1 
+ Biotechnology 1 
+ Blind Spots 1 
+ burocracia 1 
+ Cambridge 1 
+ Canada 1 
+ Case Study 1 
+ Ceasefire 1 
+ Cell 1 
+ Centro Medico 1 
+ China 4 
+ Christian Theology 1 
+ Church History 1 
+ cislunar 1 
+ Clandestine Operations 1 
+ Clearances 1 
+ Cold War 1 
+ Commerce 1 
+ Complejidad 2 
+ Complexity 1 
+ comportamiento organizacional 1 
+ computer models 1 
+ coordinated motion 1 
+ COVID 19 2 
+ Cuban Crisis 1 
+ culture 1 
+ Cybersecurity 1 
+ DARPA 5 
+ Dashboard 1 
+ datasets 1 
+ Decano de Medicina 1 
+ DEFENDER 4 
+ Departamento de Energía 1 
+ Departamento de la Defensa 3 
+ Departamento de Salud 2 
+ Department of Defense 2 
+ deudas 1 
+ Diseño Organizacional 1 
+ DoD 2 
+ Dollar 1 
+ Doomsday 1 
+ Dr. Ernesto Vazquez 1 
+ Dr. Irving A. Jimenez 1 
+ Economy 1 
+ Educación 1 
+ Education 1 
+ elementary school students 1 
+ employees 1 
+ environment 1 
+ Escuela de Medicina 1 
+ Escuela de Salud Publica 1 
+ España 1 
+ Espectro Electromagnético 2 
+ Estados Unidos 1 
+ Europa 1 
+ evolution 1 
+ Extraterrestres 1 
+ Faculty 1 
+ faculty analytics 1 
+ Feedback Loop 2 
+ Feynman 1 
+ Fiction 1 
+ Financing 1 
+ Foreign Exchange Market 1 
+ framework 1 
+ Fuerza Espacial 1 
+ Funnels 1 
+ fusión nuclear 1 
+ Gehenna 1 
+ Geopolitics 1 
+ Gerencia 2 
+ gobierno 1 
+ Gobierno de Puerto Rico 1 
+ Graduation 1 
+ group dynamics 1 
+ Guerra Fría 3 
+ Hades 1 
+ Harrowing of Hell 1 
+ health 1 
+ Healthcare 2 
+ Hell 1 
+ High School 1 
+ high school students 1 
+ Holy Saturday 1 
+ Hospital 1 
+ Hospital Administration 1 
+ Hospital Pediatrico 1 
+ Hospital Universitario 1 
+ Indonesia 1 
+ Ing. Ernesto Vazquez 1 
+ Initial Conditions 1 
+ Inmunidad 1 
+ Intelligence 1 
+ Intelligence Agencies 1 
+ intelligence explotion 1 
+ Internet 1 
+ investments firms 1 
+ Ireland 1 
+ Irving Jimenez 1 
+ Japan 2 
+ landscapes 1 
+ Laser 1 
+ Lcdo. Irving A. Jimenez 1 
+ Logistics 2 
+ Machine Learning 1 
+ Management 3 
+ Manufactura 1 
+ Manufacturing 1 
+ Materia Prima Brown University 1 
+ Mathematics 1 
+ Medicos 1 
+ Middle East 1 
+ Military 1 
+ models 2 
+ Moderna 1 
+ Monte Carlo Simulation 1 
+ mRNA 2 
+ Multiscale 1 
+ NASA 2 
+ National Security 1 
+ National Security Agency 1 
+ Need to Know 2 
+ Netherlands 1 
+ NSA 2 
+ Observatorio 4 
+ Organización 1 
+ Organizational Behavior 1 
+ Pfizer 1 
+ Pipeline 1 
+ PISA Tests 1 
+ Planificación 1 
+ Planning 1 
+ Polya 1 
+ Presidente de la Universidad de Puerto Rico 1 
+ Puerto Rico 4 
+ Puerto Rico Nuclear Role 1 
+ Radio Telescope 1 
+ Radiotelescopio 4 
+ Ramey. Air Force 1 
+ RCM 1 
+ Recinto de Ciencias Medicas 1 
+ Rector 1 
+ redesign 1 
+ Reduccionismo 1 
+ religion 1 
+ Reorganización Gobierno Administración 1 
+ Research Papers 1 
+ Robotics 1 
+ Rusia 1 
+ salud 1 
+ satélites 1 
+ School 1 
+ Schools 1 
+ Science 1 
+ Secretario de Salud 1 
+ Secrets 1 
+ Security classification 1 
+ sensing 1 
+ simulation 1 
+ Singapur 1 
+ Sistema 2 
+ sistema Arbona 1 
+ Solar Observatory 1 
+ Stable States 1 
+ Stephen Miran 1 
+ Stock and Flow 1 
+ Strogatz 1 
+ Students 1 
+ Superintelligence 1 
+ supervision 1 
+ supervisor 1 
+ Supply Chain 3 
+ System 1 
+ System Dynamics 1 
+ Systems 1 
+ Systems Dynamic 2 
+ Tariffs 1 
+ Tartarus 1 
+ Teachers 1 
+ teams 1 
+ Theology 1 
+ Threat 1 
+ Trade 1 
+ trials 1 
+ Trump 1 
+ Tunneling 1 
+ UAP 1 
+ Underworld 1 
+ Unión Soviética 3 
+ United States 1 
+ University College Cork 1 
+ University of Groningen 1 
+ Vacunas 3 
+ Vector viral no replicante 1 
+ Vivienda 1 
+ Vulnerabilities 1 
+ White House 1 
+ Mostrar más 
+ Mostrar menos 
+Denunciar abuso
+Facebook Badge
+ Irving Jimenez  |  Create Your Badge 
+ 
