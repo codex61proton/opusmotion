@@ -1,0 +1,489 @@
+ 
+ SpyBalloon 
+ Using film from U.S. spy balloons to take 
+pictures of the Moon 
+ "THERE WILL BE LAUGHTER IF THIS PIECE WORKS 
+...". 
+ Article from the newspaper "St. Petersburg 
+Vedomosti" of April 10, 1993. by 
+ Igor 
+Borisovich Lisochkin . Russian text 
+reference provided by Alexander Dzhuly .  Subsection headers inserted by Sven 
+Grahn 
+ How much I live, how much I write, I do not get tired to 
+marvel at the human wealth of our city. Not just a lot of good and intelligent 
+people. Quite a few and those whose experience, knowledge, experience are simply 
+unique. And among them are those who, considering the "regime" of space and 
+"defense industry," could not say anything for decades, and the most interesting 
+"obvious-improbable" remained a mystery behind seven seals. 
+ A year ago, fate confronted me with one of 
+the founders of space television, laureate of the Lenin and State Prizes Peter 
+Fedorovich BRATSLAVETS ( 
+ 1 ) [see picture on the 
+right]. The conversation was quite broad on the topic, but in it Pyotr 
+Fedorovich unexpectedly endowed me with a story that, after laughing a lot, I 
+defined it as "AMERICAN BALLOONS".On the eve of the present Day of Cosmonautics, 
+I decided to return to this story, and we met at my request again. There were 
+questions, there were answers. In this conversation, the "balloons" that 
+interested me somehow moved aside, because I happened to hear many interesting 
+things : 
+ Getting started in television systems 
+ The 
+regime of strict secrecy that surrounded the space affairs, and in which I had 
+to live most of my life, ultimately, I think, did more harm than good. Remember 
+how the people were shocked by the death of cosmonaut Komarov ... Because it was 
+represented as if all our activities were a chain of continuous victories. But 
+life is life ... 
+ We 
+went out into space first, created something that was never before, and we did 
+not have any directories and intelligence to rely on. There happened on this way 
+joy and triumph, dramas and mistakes, your surprises, absurdities and, if you 
+like, adventures ... Otherwise, it could not be! 
+ I 
+came to the astronautics in a natural way, without expecting it myself. 
+Demobilized after the end of the war, settled in Leningrad and in 1948 began 
+working in the Research Institute of Television. The old inclination to ham 
+radio was   not insignificant. I was 
+a senior technician. At the same time I studied in absentia at the All-Union 
+Electrotechnical Institute of Communications. 
+ I 
+was engaged then by the KVN televison sets. The main part of these TV sets 
+("Kenigson,Varshavsky, Nikolaevsky "), which later became very popular, 
+mass-produced by the Research Institute of Television, the first 20 pieces I in 
+1949 handed over to the commission in Moscow. The following year I graduated 
+from the institute, became an engineer, and a year later, I got a job that can 
+not be forgotten for life. 
+ The 
+system of air defense of Moscow - S-25 was created. We were required to design 
+and manufacture equipment for the transmission of radar information (see image 
+on the right). And, 
+as is often the case in the design business, the situation arose: This 
+has to be done yesterday.  Big 
+verbal battles took place at the level of ministries, technical councils and 
+leadership of institutions. And, whatever one may say, it turned out that with 
+the maximum effort for the implementation of the project would take at least 
+three years. And it was necessary to do everything less than in a year ... In 
+the end, a deputy minister came to our institute and asked us to collect meeting 
+of those doing the actual work ("Without chiefs", at the level of heads of 
+laboratories, not higher). As you can see, this was not quite usual. We 
+gathered. The Deputy Minister honestly explained the situation and asked: "Will 
+you accept this task ...?" We sat, exchanged glances, counted from the end: two 
+months would go to complete the acceptance testing, three - to the equipment 
+test ... How much will remain for each of such stages in the project as design, 
+tuning? It turned out - less than a month. Incredible! But we did 
+it. 
+ How did the developers work then, and in what conditions! 
+The main head of the work on the S-25 was personally Lavrenty Pavlovich Beria. 
+And he used to say:    "Do we need to arrest this 
+designer and this designer? For the good of the cause, of course." 
+ And the faces he named 
+really disappeared from the horizon. Your humble servant "for the good of the 
+cause" also had to be in prison, because he had some kind of carelessness to 
+somehow notice that one of the objects of the S-25 was clearly not in place. 
+Stalin's unexpected death saved me, and everything that followed 
+... Problems of financing did not exist. Since everything 
+was paid "according to performance", and under normal engineering salary in 1600 
+rubles ("old", of course, before Khrushchev's reforms) I received 17 - 20 
+thousand. In other words, if I wanted to, I could buy myself a new car every 
+month. And yet we worked not for fear and not for money. There are more 
+important things ... I remember how I did not leave the institute for a whole 
+week. And even when I was ill - temperature 39 ... My colleagues 
+photgrapherd me while I slept, resting my head on the oscilloscope. This picture 
+appeared in our wall newspaper. We solved a problem that was considered 
+insoluble. And they decided. In December of the same year, our I-400 complex 
+[see picture below on the right of part of the I-400 from a on-line resource: 
+Official Illustrated Guide to Moscow anri-aircraft defense system, 
+1955] was already operating at 116 air defense facilities in 
+Moscow. 
+ Sergei Korolev comes for a visit 
+ However, 
+formally this had nothing to do with cosmonautics. Under the leadership of the 
+chief designer Vitaly Illarionovich Sardyko, I was engaged in a large-scale 
+television screen (3 4 meters), under the supervision of the chief designer 
+Igor Leonidovich Valik - the aerial reconnaissance system "Plutonium." Actually, 
+we had the 20th department at our institute (it was supervised by the just 
+mentioned Vitaly Illarionovich), which little by little studied the problems of 
+television in space. But neither I nor other young designers had any interest in 
+this, because we believed that something really could be realized here only in 
+the 21st century. 
+ Everything 
+radically changed on October 4, 1957. The first satellite, the launch of which 
+shocked the world, "Beep-Beep", coming from space, received a special, 
+professional resonance in our institute. It became clear that the real 
+development of space television would not be required in the 21st century, but 
+immediately. A committee was formed to consider the affairs of the 20 th 
+Division. I was appointed its chairman. But the elementary knowledge of the 
+problem still did not suffice, and I went to Moscow, to Mstislav Vsevolodovich 
+Keldysh, who was then vice-president of the Academy of Sciences and director of 
+the Institute of Applied Mathematics. 
+ After 
+the launch of the second satellite Sergei Pavlovich Korolev came to us in the 
+scientific research institute of television. By the way, I saw him for the first 
+time, as well as the Lenin Prize medal, which he wore. Sergei Pavlovich looked 
+at the complex that was developed by us for aerial reconnaissance, and then 
+quite specifically formulated two tasks: the first one was to develop equipment 
+capable of photographing the reverse, invisible side of the Moon and transmit 
+the image to Earth, the second - to create a system for transferring from the 
+orbit of the television image first animals (dogs), and then a person. 
+ Let 
+me remind you that the rockets were launched only directly from the Earth, there 
+were no launches involving intermediate, i.e. parking, orbits. The method of 
+flight correction, braking systems, too, did not exist yet. Fifteen minutes of 
+operation of the rocket engines had to accurately bring the station to the Moon 
+region, where, under the influence of the gravitational forces of the eternal 
+satellite of the Earth, it would go to the required orbit, then photograph the 
+invisible side of the Moon and upon returning to Earth would transfer the image 
+to the ground station. Specialists of space ballistics calculated that even with 
+the use of a special "perturbation" trajectory, this operation was possible once 
+a year - in early October. This determined the terms of the 
+work. 
+ Design work 
+starts 
+ Again 
+the "day and night" work began. Enthusiasm was boundless. For four months we 
+developed the equipment "Yenisei-1". The main designer was Igor Leonidovich 
+Valik, I was his deputy, leading engineers were Yuri Pavlovich Lagutin and 
+Viktor Fedorovich Kuverov. In general, the people worked a lot, all did not list 
+their real working hours.... 
+ In 
+principle, we, the television crew, were ready by October 1958. But other 
+developers of the most complicated space complex were not ready. Too serious 
+problems faced them. The launch was postponed for a year. We, without wasting 
+time, began to develop more advanced equipment 
+"Yenisei-2". 
+ In 
+parallel, even more promising equipment was the Yenisei-3 based on the use of an 
+electronic tube of the Vidikon type and intermediate magnetic recording. But 
+with it, unfortunately we "did not have time to meet deadline". It later became 
+the prototype for meteorological satellite camera system in the "Meteor" 
+satellites. 
+ Now 
+the compact, elegant onboard photo camera, which we did then, stands among other 
+exhibits in the museum of our institute. And few can imagine what passions 
+seethed in its time around it. Not only designers argued, but also academics. 
+Some said: "It will work!" Others categorically: "It will not work!" Scientific 
+and technical advice was like battles. It came to the point that at meetings at 
+the ministry I was ordered to "keep quiet and not speak." But in the long run, 
+this "will work - will not work" dispute always led to something that 
+worked. 
+ Without 
+getting into technical details (and it is unlikely that they will be understood 
+by anyone other than specialists), I explain that for the cosmos the usual 
+"earthly" modes of transmission turned out to be completely unacceptable. For 
+this, it would be necessary to use gigantic energy sources, which would exceed 
+the weight of the station itself by tens of times. We only had a few kilograms 
+... The "usual" signal received from such a source would be so insignificant 
+that it would completely disappear in terrestrial and cosmic 
+noises. 
+ The 
+solution was to drastically narrow the transmission bandwidth, with a slowdown, 
+of course, of the transmission of the image. The main ideas in this direction in 
+television as early as 1938 were formulated by Semen I. Kataev, who worked at 
+our institute (then called NII-9), with the transfer of images on a short-wave 
+channel. Of course, it does not make sense for ordinary household systems, but 
+for solving all sorts of special problems of image transmission, "slow-scan" 
+television is simply irreplaceable. 
+ And 
+we applied it. In the I-400 system, about which I spoke, the transmission of one 
+frame was carried out in 10 seconds, and in the aerial reconnaisance system 
+   "Plutonium" - in 3 minutes. For the 
+space camera system "Yenisei" two modes were developed - a frame in 10 seconds, 
+and for obtaining a sufficiently high-quality image - for 30 minutes. As you 
+know, it's okay. If humanity for millennia could not look at the reverse side of 
+the moon, then we could wait half an hour. 
+ There 
+was one more major problem ... Photochemical part for us was developed by NIKFI 
+[Cinema and Photo Research Institute, Moscow], and with them we decidedly did 
+not agree. Its employees defended the "two-step" system, we advocated the 
+"one-step system" (created, by the way, by the same NIKFI), in which the 
+development, washing and fixing are simultaneous. Each side had its own 
+arguments, and none was inferior. In the end, Sergei Pavlovich Korolev cut this 
+Gordian knot as follows: "If the TV crew undertakes to make this device - let 
+them do it." NIKFI was indignant and defiantly washed their 
+hands. 
+ Doubts about film 
+type 
+ "Let's 
+get it done ... And I had big doubts about the photographic film that we used - 
+"Type 17" (manufactured by Shostka). For aerial photography it was quite 
+suitable, but for the cosmos a much greater sensitivity was required. I was also 
+afraid that the film would be strongly veiled due to cosmic radiation. What to 
+do? Again bow to NIKFI, with which we were so much in disagreement? Impossible. 
+And time was running out. And then a completely crazy thought occurred to me 
+... 
+ But 
+first I'll digress for a moment and remind you of the real events of those 
+years. With the advent of the era of ballistic missiles, the Americans, for 
+understandable reasons, began a large-scale reconnaissance of the territory of 
+our country. In the 50s, American high-altitude reconnaissance aircraft 
+literally "plowed" our skies. There were also battles in which both American and 
+our pilots were killed. But more often the reconnaissance planes went at such 
+heights that were unavailable for our fighters. All this continued until the 
+time when anti-aircraft complexes were created in our country. Remember the 
+story with Gary Powers? Thus, the time for "being assholes" was 
+over. 
+ Then 
+the American intelligence undertook a new action. As you know, over our country 
+at an altitude of 10,000 meters lies the air current, which moves from west to 
+east. From the territory of Western countries, Americans began to launch 
+balloons at us at this height, equipped with automatic photographic equipment. 
+Theoretically, each of them, after making the survey, could drop the ballast, go 
+up to 20,000 meters and go back on the opposite air stream.  This 
+activity was large, expensive, but, in my opinion, stupid, because it did not 
+give anything to the Americans. Our anti-aircraft gunners shot down these 
+reconnaissance balloons in batches. Samples were transferred to Mozhayka, with 
+whom I maintained close business relations. The photographic equipment used for 
+the balloons was of no interest, but the film, created for shooting from high 
+altitudes, was good: highly sensitive and strongly tanned, with a solution 
+temperature of up to 50 degrees. Just what we need ... And we had it, as they 
+say, buried ... This film I decided to use in the 
+"Yenisei". 
+ Why 
+was the thought "crazy"? Yes, because in space, as in the "defense", at that 
+time nothing foreign was allowed. Literally everything - materials, instruments, 
+technologies - had to be only domestic. It was part of the flesh and blood, in 
+the minds of the developers, becoming their ideology. If I had only hinted to 
+someone about the possibility of using an American film, I would be mistaken for 
+a foolish joker or even for a person who was not completely 
+normal.  Only 
+two people knew about this venture - me and Volodya Kondratyev, who was engaged 
+in the chemical processes of the Yenisei. We cut an American 180-millimeter film 
+to 35 millimeters, then punched it. We wrote "technical conditions of the film 
+type AB-1", which after having been shown to the military 
+representatives was filed in the appropriate folder with the stamp "top secret". 
+Of course, we both stayed silent. What would become of us if this story was 
+revealed, I can not say. In any case, not only in cosmonautics, but in general, 
+I think we would not have worked for a long time ... "    
+ And I flew to the Tyura-Tam launch site (to this day I can 
+not understand why it is called "Baikonur", because Baikonur itself is located 
+about six hundred kilometers from it) with copies of the TV cameras that were 
+charged with a film of the AB-1 type [if directly transcribed from Russian 
+this abbreviation would read 
+ = Sh=Sharik, i.e. ball or sphere, but I use the letter B to 
+match the interpretation balloon for sharik). 
+ The management style of Sergei 
+Korolev 
+ I 
+will not retell the details of the launch of Luna-3. In 1982 Alexey Ivanov's 
+book "For the First Time" was published, in it all events are reflected 
+objectively. I will only reveal a little secret: "Alexey Ivanov" - this is Oleg 
+Genrikhovich Ivanovsky, the leading designer for manned spacecraft, one of the 
+closest associates of Sergei Pavlovich Korolev. My surnames, like many others, 
+you will not find in his narrative. But you will meet "the leader of the group 
+of the TV system crew Petro Fedorovich". This is myself. 
+ I 
+will only say that I was especially impressed, and I will clarify something. 
+Luna-3 was prepared in the same situation familiar to us; "This has to be done 
+yesterday." The time was running out so that the plant's complex tests of AIS 
+(automatic interplanetary station) did not proceed on schedule. Assembling it 
+and testing were conducted directly on the test site. The schedule was severe, 
+planned to the minute and any failure would cause a delay that threatened to 
+postpone the launch by a year. The date could only be one - on October 4. And 
+the "delays", continued, unfortunately enough ... 
+ During 
+the test cycle, after filling the "chemistry" one of the engineers dropped a 
+tiny nut from the tweezers inside the tape drive mechanism. How to get it? After 
+all, you will not turn and shake out ... Korolev turned up: "What are you doing, 
+comrades?" I had to report the incident. I was waiting for an "explosion", but 
+it did not happen. Korolyov grumbled a bit about the "bath-laundry factory" [a 
+nick-name for the Yenisey camera system] and then, after examining the photo 
+camera again, said: "There will be a laughter if this piece 
+works." 
+ And 
+he smiled. Awesome man! Since 1959 I was already a member of the Council of 
+Chief Designers in cosmonautics, I knew everybody, and I can say that there is 
+no figure equal to Korolev. He is a Russian, I am Ukrainian, "Khokhol", but in 
+the past we were both Odessa citizens. This somewhat facilitated our relations, 
+but, of course, there could be no question of any "familiarity". The "chief" was 
+really The Chief. Only he could cover the entire strategy of astronautics, cope 
+with the avalanche of problems. Very attentive to the opinion of designers, 
+developers. He could not stand untruth, lies. Always adhered to the rule: he who 
+made the decision, was responsible. 
+ It 
+would end badly, if someone tried to impress this "great figure" by referring to 
+textbooks. Korolyov would arrange "reprimands" at such subordinates, my God. It 
+could seem not only sharp, but also ruthless. However, all this was combined 
+with his deepest, sincere humanity. Somewhere in the memories of it flashed such 
+an episode. Very angry with one of his co-workers, Korolev said: "I'm firing 
+you!" - "Good," - the co-worker answered and returned to work in his 
+office.  The 
+next day, enraged by some kind of "delay", Korolev came to him with a harsh 
+statement: "I am reprimanding you!" I heard a calm reply: "You have no right." - 
+"How?! - The Chief Designer frowned. "Why?" - "Because you fired me yesterday 
+..." Korolev only smiled confusedly. Very characteristic episode. I think I will 
+not be mistaken if I say that it was Oleg Ivanovsky that was "fired" 
+here. 
+ Last-minute 
+work at the launch 
+site! 
+ But 
+I will return to the launch site, to "Luna-3" ... Because the "delays" 
+continued. During a test the camera "programmer" suddenly worked for seven 
+minutes more than it was supposed to. The camera was removed from the 
+spacecraft, the cause of the malfunction was established immediately: when 
+refilling, one of the nozzles was not returned to its place. Dust was sucked in 
+through the hole, and the fan, which was blowing the film, began to get 
+stuck. 
+ A 
+lot of people with screwdrivers ran into the laboratory. Korolyov appeared: "Who 
+is there? Well, get out of here! ... Pyotr Fedorovich, how much time do you 
+need? "-" Two hours. " - "Good. At the door, place a submachine gun to prevent 
+anyone from interfering. Do not let anyone in. Not even me 
+". 
+ According 
+to the official version it is believed that I "replaced the motor", but this is 
+not so. I 
+replaced THE ENTIRE CAMERA, changing the name plates with the numbers - from 
+test unit to standby unit. And I 
+did not say anything to anyone. A 
+terrible violation. But, 
+as a designer, I knew that "replacing the motor" would lead to a complete 
+breakdown of the test schedule, and then - and the launch. And the 
+camera was the same , I was absolutely sure . The night was spent with 
+trials. In the 
+morning I sit on a stool near the hotel smoking. Suddenly I found 
+out: Sergei Pavlovich had hurriedly returned to Moscow. Academicians 
+from the Institute of Astronomy of the Soviet Academy of Sciences by phone told 
+him that the shutter speeds for shooting (1/200, 1/400, 1/600 and 1/800) were 
+not given out correctly, they should be increased tenfold. Oh my God! I understand: the academicians do not know about the film "type AB", they 
+are judging the situation based on film of the "type 17". In 
+the afternoon, a team of mechanics arrives to reconfigure the exposures. I 
+absolutely forbid their work. I get an order from Korolev to fly to Moscow. I 
+did not comply. At night I climb up to the roof of the assembly building (MIK) 
+and take a picture of the moon, shining in the sky. We show the film - the 
+exposure is correct. This is reported to Korolev, he returns to the launch site 
+the same night. In the morning I meet him. He asks: "What, Pyotr Fedorovich? .." 
+- Then I burst out: "I will not tell you anything! Collect the Council! "They 
+gathered. I throw a pack of prints on the table: "Look ...". 
+ But 
+now, it seems, we have already passed through everything ... The station was 
+assembled, in the assembly building the nuts were screwed on the last lid. And 
+then something worried me. Intuition? The subconscious? I do not know. I went to 
+the shop and asked again to be shown the camera. They began to convince me. We 
+have watched this a hundred times, everything is fine. I insist on seeing for 
+myself. Installers (although they do not want to), loosened the locked nuts and 
+removed the lid. I looked - and it struck me like lightning: on the lenses of 
+the camera - black covers! Have you ever photographed without removing the lens 
+covers? Do I have to say more? 
+ Why 
+did this happen? In astronautics, as in aviation, caps and plugs of red color 
+are used to show that they must be removed before flight. But our caps were 
+black. Well, the installers left them on ... I quickly removed the caps, put 
+them in the inner pocket of my jacket, I said: "Close it." I left the shop and 
+met Ivanovsky. He looked at my face and asked: "What's the matter with you? What 
+happened? "-" Nothing, "I answered. - It's 
+okay." According 
+to the official version it is believed that I "replaced the motor", but this is 
+not so. I 
+replaced THE ENTIRE CAMERA, changing the name plates with the numbers - from 
+"testing" to "standby". And he did 
+not say anything to anyone. A terrible 
+violation. But, 
+as a designer, I knew that "replacing the motor" would lead to a complete 
+breakdown of the test schedule, and then - and start-up . The night was spent with trials. 
+ In the morning I 
+sit on a stool near the hotel, I smoke. Suddenly I find 
+out: Sergei Pavlovich hurried to Moscow. Academicians 
+from the Astrosovet by phone told him that the shutter speeds for shooting 
+(1/200, 1/400, 1/600 and 1/800) were not given out correctly, they should be 
+increased tenfold. Oh my God! I 
+understand: where do academicians know about the film "type AB", they are judged 
+by "type 17". In the afternoon, a team of 
+mechanics arrives to reconfigure the exposures. I absolutely forbid 
+her work. I got an order from Korolev to fly to Moscow. 
+ I did not. At night I climbed up to the roof of the MIK and shot pictures 
+of the moon, shining in the sky. We showed the film - the exposure 
+was correct. This is reported to Korolev, he returned to the launch 
+site the same night. In the morning I met him. He 
+asks: "What, Pyotr Fedorovich? .." - Then I burst out: "I will not tell you 
+anything! Collect the Council! "They gathered. I 
+threw a pack of prints on the table: Look 
+... 
+ Launch and image 
+reception 
+ And 
+then, on the night of 3 to 4 October [Oct 4 at 0043.40 UT, 0343.40 Moscow Time], 
+the launch took place. Right after the launch, a group of scientists and 
+designers, along with Korolev, flew to the Crimea, to the observation station. I 
+remember a funny episode. The station was already built, but they did not have 
+time to cover the territory with a fence. But there was a gate on the road and 
+near it - sentry. I, as a sin, did not have a badge, and the soldier refused to 
+let me through. There was a general laughter: after all, we were near an open 
+field and I could go anywhere. The sentry says: Past the gate does not concern 
+me, but through the gate I will not miss." I had to go "past the 
+gate." 
+ We 
+waited tensely and looked at the clock, counted. When the station had passed the 
+Moon, telemetry was to be transferred to a monitoring station in Kamchatka. It 
+was not. (Later it turned out that one of the mechanisms broke down, and it was 
+not possible to accurately point the antenna). 
+ We 
+did not know anything. What about the spacecraft? Did the system "lunar" 
+orientation work? Did the camera work? We just waited. And in such moments 
+something always happens. The director of the Crimean Observatory Andrei 
+Borisovich Severny came and said: "What are you waiting for? I figured ... We 
+will not get any picture. To protect the film from cosmic radiation requires a 
+half-meter layer of lead. How many do you have? 5 millimeters. What?!. "It just 
+does not suffice ... 
+ Finally, 
+at the right time, telemetry started. And I sighed and involuntarily said: 
+"Wait. In thirty minutes it will happen! "All crowded around the machine, 
+which recorded the image on electrochemical paper. Finally, there were shouts: 
+"There it is"! The first lines were dark, but then the invisible side of the 
+moon with its craters and seas began to open more and more. Embrace and kisses 
+began, and the entire "picture" slowly emerged ... [The telephoto receiver for 
+Luna-3 is on display at the Tsiolkovskiy Museum in Klauga, see image in the 
+right]. 
+ Cosmic television makes its debut 
+ Sergei 
+Pavlovich Korolev was true to himself, very reserved. He came up and asked: 
+"Well, what did you do?" He was handed a wet tape. On the first of the pictures 
+he immediately wrote: "Dear Andrei.B. Severny. The first photo of the reverse 
+side of the Moon, which should not have appeared. Sincerely. S. Korolev." Andrei 
+Borisovich exclaimed: "How glad I am that I was mistaken! Things should always 
+be wrong in this way ... ". And then we celebrated this event gloriously, N.B. 
+in Russian style. I'll never forget how Korolev and Keldysh danced 
+... 
+ For 
+the design work that led to the photographing of the reverse side of the Moon, 
+the Lenin Prize was awarded to eleven people, among them - myself. Pulkovo 
+astronomers "tied" the resulting image to the moon, established the exact 
+coordinates of all objects. Subsequently, with their participation near Moscow, 
+in Podlipki, the first lunar globe was created. I had to take part in the 
+meetings of the commission, which gave the names to new lunar objects. The main 
+proposals were put forward by the Institute of Astronomy of the Soviet Academy 
+of Sciences. There were new ones during the discussion, but I do not remember 
+any disputes. On the map appeared the Soviet mountain range, the Sea of 
+Dreams, the craters Lomonosov, Tsiolkovsky, Giordano Bruno, Maxwell, Pasteur, 
+Hertz and others. 
+ And the fact that we "photographed" the opposite side of the 
+Moon with an American film that was sent to our country with purely spying goals, 
+I told my closest associates only many years later, long after the 
+untimely death of Sergei Pavlovich Korolev. In fifteen years. The abbreviation AB, 
+I think, is not necessary to decipher. Of course, this is the "American Balloons". 
+Odessites never lose their sense of humor. Starting with "Vostok" I acted as the 
+chief designer of space television systems. Of course, I perfectly remember the 
+immortal flight of Yuri Alekseevich Gagarin, and everything that followed. But 
+this is another story and completely different adventures. 
+ When 
+I finished writing this story, I thought about something. Where are those tape 
+recorders that would preserve the stories, voice, intonations of the pioneers of 
+the cosmos! After all, this is an inseparable part of not only ours, but also of 
+human history. Where are the PUBLICATIONS that FIGHT FOR THE HONOR OF RECEIVING 
+MEMORIES OF SUCH PEOPLE, like Piotr Fedorovich Bratslavets? Maybe they will 
+still appear? 
+ ---- 
+ Notes 
+ Peter 
+ Bratslavets was (1925-1999), born in Odessa. Like most members 
+ of his generation, fought in WWII. For participation in hostilities he was 
+ awarded medals "For the Defense of the Caucasus" and "For Victory over 
+ Germany". He was discharged from the Army in 1948. He came to work at the 
+ Leningrad Research Institute-380 (now the Research Institute for TV). He 
+ worked on many space television system but is perhaps most known for leading 
+ the design of the "Yenisei" camera system on 
+ Luna-3. 
+ Back to Space 
+Tracking Notes Back to 
+Luna-3 
+article 
