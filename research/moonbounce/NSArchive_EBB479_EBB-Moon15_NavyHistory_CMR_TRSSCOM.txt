@@ -1,0 +1,210 @@
+    From the Sea to the Stars:
+
+  A Chronicle of the U.S. Navy's
+Space and Space-related Activities,
+           1944-2009
+
+
+
+                        SpoMOted by
+     Deputy Assistant Sacramry of the Navy (C31 and Space)
+                      Dr Gary A. Federici
+
+
+                           Edited by
+               The Applied RueaTCh Labaratoty
+               The Pennsylvania State University
+
+
+
+
+  Revised and updated edition, 2010
+                                           The Navy's Space Program Burgeons (1S~1B81) 23
+
+Communications Moon Relu ICMRl System
+     On the basis of the Initial success of the NRL's Project PAMOR experiments (see
+page 12), the Chief of Naval Operations directed the establishment of the
+Communications Moon Relay (CMR) system in 1956 for transmission of teletype and
+facsimile messages between Washington, DC, and Hawaii. In the Washington, DC,
+area, the transmitter was rocated at the u.s. Naval Radio Station, Annapolis, Maryland,
+while the receiver was located at Cheltenham, Maryland. The Hawaiian facilities were
+located at Opana and Wahiawa on the island of Oahu. The Washington, DC, and
+Hawaii tenninals each used two 84-foot-diameter dish antennaa-one for transmitting
+and the other for receiVIng.
+
+      The inaugural test of CMR was conducted In January 1960 when tho Chief of
+Naval Operations, Admiral Arlelgh Burke, sent a teletype message to the Commander-
+In-Chief, Pacific Fleet (Admiral Herbert G. Hopwood). The teletype message was
+followed by two facsimile images: the first. a photo of a "moon malden," of the centerfold
+variety; the second, a more appropriate public affairs photograph. A U.S. postage stamp
+to commemorate the event was Issued later in that year.
+
+     A CMR receiver and 16-ft steerable parabolic dish antenna were lnstaned in USS
+OxfotTJ (AG159) in 1961. The Naval Research Laboratory demonstrated the first shore-
+to.shlp satellite communications relay on 15 December 1981 , when ceremonial
+messages were sent by the Chief Of Naval Operations (Admiral G. W. Ander'$0n) to
+USS OxfOrd frOm NRL's Stump Neck, Maryland, satellite research facility, The first two-
+way ship-to-shore sateDite communications were conducted when USS O>ttbrd was at
+sea between Buenos AJres and Rio de Janeiro on 30 March 1962.
+
+    The Navy's CMR system carried operational message traftic between Hawaii and
+Washington, DC, for half a decade. The ground stations were manned by Navy
+personnel from four to eight hours dally (that is, from moonrise in Hawaii to moonset in
+Maryland).
+
+       The CMR system offered very reliable communications and was resistant to
+jamming. Curiously, the National Security Agency and the Naval Security Group did not
+allow encrypted message traffic on the CMR link, arguing that anyone could intercept
+the link because 11 all the wortd could hear lf'--despite the fact that enaypted messages
+had been transmitted on the Medium Frequency/High Frequency (MF/HF) broadcasts
+ for years. The principal operational disadvantage of the CMR was simply the availability
+of the moon, which had to be within sight of both of the link terminals. As observed by
+ then-Lieutenant Commander Burton Edelson at the Bureau of Ships, this was only a
+ single-satellite system, and, for reliable 24-hour communications. the Navy would need
+a constellation of multiple (artificial) satellites.
+
+       CMR was the only operational satellite communications relay system in the wortd
+until the Defense Satellite Communications System {DSCS) came on line on 18 June
+1968. (The CMR capability was disestablished In the mld-1960s, and its antennas were
+24 Chapter 1 -The Navy Geta Involved In Space (1944-1981)
+
+used in the Technical Research Ship Special Communications (TRSSCOM) System-
+see page 46.)
+  Origin of the Tqnslt Navigation SVtgm
+      In July 1957, the Applied Physics Laboratory (APL) of Johns Hopkins University,
+like the Naval Research Laboratory, established a space exploration study group to look
+Into ways of applying the Laboratory's technical expertise to the field of apace research.
+Although this ad hoc study group never submitted any formal proposals, It did create an
+area of research Interest and specialized knowledge Within the laboratory so that ''When
+an Idea that was really good came up, they saw it," That one "really good" Idea arose In
+the autumn of 1957, in the wake of the Soviet Union's launch of its Sputnik utelfite on 4
+October.
+
+      The consternation that Sputnik had aroused at APL was tempered by the fascina-
+tion that this Soviet aChievement aroused In many members of the Laboratory who, In
+the words of one senior-level APL official, 11thought It was pretty neat." One of those
+indMduals captivated by the Sputnik episode was Dr. William Guier, who had jOined the
+Laboratory in 1951. Sputn/kwaelaunched on a weekend. ''The next Monday I came In,"
+remembered Guier, "and to my surprise, no one was listening to il They kept saying
+you could get it on twenty megacydes, and I thought someone would be lstenlng, With
+all the receivers all over this place. So in the early afternoon, I decided I'd see if I could
+get that thing." He did.
+
+      Guier had been working recenUy In the Research Center with George
+Weiffenbach, a physicist who had joined APL at about the same time. As part of his
+expertments in microwave spectroscopy, Welffenbach had been using a shortwave
+receiver that could pick up very sensitive radio signals. Around four o'ciQ<:k that
+afternoon, Welffenbach stuck a piece of wire Into the antenna connection on his
+receiver, and he and Guier began listening to the distinctive "beep-beep" signals
+emanating from Sputnik. When Welffenbaeh analyzed the tape recordings with the aid
+of a wave analyzer, the result was "an absolutely gorgeou$ Doppler shift." In other
+words, the satellite's signals sounded higher pitched as Sputnik came closer to
+Washington and lower as it went away, just as a bystander would hear the whistle of a
+freight train change pitch as the train approached and pasaed.
+
+      While waiting for the satellite's next pass over the United States, Guier realized
+that the slope of the Doppler shin could help him ascertain the distance to Sputnik. To
+compute the satellite's path, he and Weiffenbach used the estimated time of $pt.ltnik's
+arrival over Washington, as broadcast by a Moscow short-wave radio station that
+Weiffenbaeh had serendlpttously picked up on his receiver. After listening and recording
+data for several days, the two physicists discovered they could use a mechanical
+calculator to predict the satellite's orbit much more accurately than could the elaborate
+tracking system employed by the Navy's research station In downtown Washington.
+Unfortunately, Sputnik../ stopped sending signals after the first week because Its storage
+batteries were depleted. But Guier took his calculations and began processing them on
+the Laboratory's recently Installed Univac 1103 digital computer.
+r
+    •a Chepter2-SatalflteafarStrategfc Oetenae (1961-1870)
+         Coordination of these joint efforts was aided enormously by the existence of the
+    Technical Committee for Communication SateOites. Thla committee inCluded
+    representation from such organizations as NASA and Lincoln Laboratory, as wen as
+    both administrative a!'d technical representatives of each of the military services.
+    Chairmanship of this group rotated periodically. Monthly meetings were held.
+    Committee membera kept a close eye on commercial research wHh aateDite
+    communications. The Technical Committee proved to be an effective mechanism for
+    promoting progress.
+
+          Because the 1981 Directive on sateOite..systems acquisition waa In effect at this
+    time, the Navy did not directly acquire communications satellites during tills period, but
+    relied instead on the aateAitea built by Lincoln Laboratory, private Industry, and the Air
+    Force. (The aole exception was an experimental Lotti satellite with potential appfationa
+    in anti-submar1ne warfare - details to follow on page 53).
+
+         The Naval Research Laboratory (NRL) conunued its wor1< on satellite
+    communications throughout the 1980s, funded both by BuShipa and by the Office of
+    Naval Research to the tune Of about $300,000 each per year. In 1968, Dr. Alan Bennan,
+    Director of Research at NRL, established the Satellite Research Branch as a separate
+    organization to consolidate this work. The Branch was placed under the direction of J.
+    Plumer Leiphart, whose contributions to apace communications were becoming
+    Increasingly reoognized. The Branch consisted of small but highlY etrectlve task groups.
+    each working, prorr:totln;. and advancing its projects aa rapldty as technical advances
+    and Navy operational Interest In the applications developed. Leiphart and hiS NRL
+    colleagues felt that this approach waa much more productive than the highly organiZed
+    and extensively programmed way in which the Air Force approached the initiation and
+    administration of Ita counterpart development project. The benefits of the NRL sman
+    task-group approach paid off later when TacSat!1 was developed.
+    "Sg §blp" CommunlyUonlfTRSSCOMl
+          In 1964, the U.s. Navy established the wor1d's first operational ship-$hore satellite
+    communlcationa aystem to provide telecommunications support fOr Navy Signals
+    lntellgence (SIGINl) surveillance ships that were deployed In several oceans of the
+    wofid. This communications system was named the "Technical Researeh~hip Special
+    Communications System" (TRSSCOMJ in keeping with the cover story that these ships
+    were for 11technical research" rather than surveillance.
+
+        The TRSSCOM System derived from the Communications Moon Relay (CMR)
+    concept (see page 23). To obtain the equipment needed for TRSSCOM, the Naval
+    Research Laboratory disestablished the CMR link between HawaH and Washington,
+    DC, and the CMR antennas were then installed at Cheltenham. Maryland (for the
+    Second and Sixth Fleets); Wahiawa, Hawaii (Third Fleet); and Okinawa (Seventh Fleet).
+
+        The TRSSCOM system went operational with the USS OxfOrd on 25 February
+    1964. Other "technical research" ships ware added as equipment became available:
+    uss Georgetown,1968; USS Jamestown, 1968; USS Uberty, 1967; USS Belmont,
+                                      Navy's Role In satellite cammunlcatfons during the 19601 47
+
+1968; and USS Valdez, 1969. TRSSCOM provided support to the intelligence collection
+mission of these ships.
+
+     The TRSSCOM installation in USS Liberty was totally disabled during the Israeli
+attack on that ship during the Arab-Israeli War of 1967. (The ''Technical Re&earch11
+shlpa were placed in reserve, and the TRSSCOM system was suspended In the fall or
+1869, bringing to a close the Navy's first operational satellite communications program.)
+ Navv Plans for Utlng DSCS S@elllt!!
+     After the Advent program was canceled In 1962, the Secretary of Defense
+assigned the newly astabUshed Defense Communications Agency to come up with a
+plan for acquiring a U.S. military communications satellite system.
+
+      Congress, In response to the President's *'Policy Statement on Communications
+SateiiHes," passed legislation In 1963 establishing the Comsat Corporation, a
+government-controlled for-profit corporation with a charter and exclusive license to
+pursue commercial satellite communications for the U.S. ConsJderable debate took
+place within DoD as to whether the newly established Cornsat Corporation should
+develop the military satellite communications system. It was finally decided that the Air
+Force, rather than Comsat Corporation, should develop the Defense Satellite
+Communications System (DSCS). The Navy was to be responsible for developing the
+shipboard terminals, Army for its ground terminals, and the Air Force for the airborne
+terminals.
+
+       The stated purpose of the DSCS was to enable military commanders to send
+•logistic· messages. To a certain extent, 1hls was true, but the OSCS system Intended to
+support additional applications that were at least as Important as logistics. First. It would
+be used for command and control of the U.S. strategic forces. Second, It would carry
+intelligence data from the new satellite systems being developed by the National
+Reconnalssanoe omce to the various Intelligence nodes and the National Command
+Authorities. Third, it would connect the National Command Authorities with the theater
+Commanders-in-Chief and Commanders of the general purpose forces. Navy and other
+requirements were added as the development progressed.
+
+    OSCS became a major component ofthe Defense Communications System
+(DCS)-the U.S. military communications for worldwide telecommunications among
+DoD and various government agencies. For many years, the DCS relied primarily on the
+DSCS satellites for overseas communications traffic.
+ The DSCS S•tellltea
+    The DSCS../system was deslgned from the start to be survivable in wartime,
+including nuclear warfare. The orbit was near-synchronous, selected such that each
+satellite In the constellation moved about thirty degrees per day; if one was destroyed,
+another would soon drift Into view. There was no command system In the satellite, so no
+enemy could take control of the system. To provide some jamming resistance, and to
+make sure there would be enough bandwidth, the Super High Frequency (SHF)
+communications band was selected. After U.S. negotiations at the International
+
