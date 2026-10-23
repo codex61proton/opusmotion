@@ -1,0 +1,989 @@
+Luna (rocket) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Launches
+2
+Notes
+3
+References
+Toggle the table of contents
+Luna (rocket)
+13 languages
+বাংলা
+Čeština
+Français
+Galego
+עברית
+Magyar
+Հայերեն
+日本語
+Polski
+Português
+Русский
+Українська
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Model of carrier rocket
+\n  | burntime      = 120 seconds\n  | fuel          = [[LOX]]{{nnbsp}}/{{nnbsp}}[[Kerosene]]\n  }}\n  {{Infobox Rocket/Stage\n  | stageno       = Second\n  | type          = stage\n  | diff          = core\n  | name          = Block A\n  | engines       = 1{{nnbsp}}×{{nnbsp}}[[RD-108]]-8D75-1959\n  | thrust        = {{cvt|936.5|kN}}\n  | SI            = <!-- {{cvt|248|isp}} -->\n  | burntime      = 320 seconds\n  | fuel          = [[LOX]]{{nnbsp}}/{{nnbsp}}[[Kerosene]]\n  }}\n  {{Infobox Rocket/Stage\n  | stageno       = Third\n  | type          = stage\n  | name          = Block E{{efn|This is a transliteration of the sixth letter of the Cyrillic alphabet (E). A [[sense-for-sense translation]] would correspond to the sixth letter of the Latin alphabet, 'Block F'.}} \n  | engines       = 1{{nnbsp}}×{{nnbsp}}[[RD-0105]]\n  | thrust        = {{cvt|49|kN}}\n  | SI            = <!-- {{cvt|326|isp}} -->\n  | burntime      = 316 seconds\n  | fuel          = [[LOX]]{{nnbsp}}/{{nnbsp}}[[Kerosene]]\n  }}"}},"i":0}}]}'>
+Luna (8K727)
+Block E
+upper stage, with Luna payload
+Function
+Small-lift launch vehicle
+Manufacturer
+OKB-1
+Country of origin
+Soviet Union
+Size
+Mass
+277,000
+kg (611,000
+lb)
+Stages
+3
+Capacity
+Payload to
+LEO
+Mass
+4,000
+kg (8,800
+lb)
+Associated rockets
+Family
+R-7
+Launch history
+Status
+Retired
+Launch sites
+Baikonur
+,
+Site 1/5
+Total launches
+9
+Failure
+5
+Partial failure
+1
+First flight
+23 September 1958
+Last flight
+16 April 1960
+Carries passengers or cargo
+Luna probes
+Boosters (First stage) – Block B, V, G & D
+[
+a
+]
+No. boosters
+4
+Powered by
+1
+×
+RD-107
+-8D74-1959
+Maximum thrust
+990
+kN (220,000
+lb
+f
+)
+Total thrust
+3,960
+kN (890,000
+lb
+f
+)
+Burn time
+120 seconds
+Propellant
+LOX
+/
+Kerosene
+Second stage (core) – Block A
+Powered by
+1
+×
+RD-108
+-8D75-1959
+Maximum thrust
+936.5
+kN (210,500
+lb
+f
+)
+Burn time
+320 seconds
+Propellant
+LOX
+/
+Kerosene
+Third stage – Block E
+[
+b
+]
+Powered by
+1
+×
+RD-0105
+Maximum thrust
+49
+kN (11,000
+lb
+f
+)
+Burn time
+316 seconds
+Propellant
+LOX
+/
+Kerosene
+[
+edit on Wikidata
+]
+=</span><span typeof=\"mw:Entity\" id=\"mwEA\">\"</span>background: #9EFF9...Luna (rocket)"}]]}'/>
+The
+Luna 8K72
+vehicles were
+carrier rockets
+used by the
+Soviet Union
+for nine
+space probe
+launch attempts in the
+Luna programme
+between 23 September 1958 and 16 April 1960.
+[
+1
+]
+Like many other Soviet launchers of that era, the Luna 8K72 vehicles were derived from the
+R-7 Semyorka
+design, part of the
+R-7 rocket family
+, which was also the basis for the
+Vostok
+and modern
+Soyuz rockets
+.
+The 8K72 was the first R-7 variant explicitly designed as a carrier rocket and it incorporated a few features that became standard on all later R-7 carrier rockets including thicker tank walls to support the weight of upper stages and the AVD malfunction detection system, which would
+terminate engine thrust
+if the booster's operating parameters (engine performance, electrical power, or flight trajectory) deviated from normal.
+Launches
+[
+edit
+]
+Luna 8K72 was launched nine times from
+Baikonur LC-1/5
+:
+[
+2
+]
+Launch Date
+Serial No.
+LS
+Payload
+Result
+23 September 1958
+B1-3
+Ba LC-1/5
+Luna E-1 No.1
+Failure
+11 October 1958
+B1-4
+Ba LC-1/5
+Luna E-1 No.2
+Failure
+4 December 1958
+B1-5
+Ba LC-1/5
+Luna E-1 No.3
+Failure
+2 January 1959
+B1-6
+Ba LC-1/5
+Luna 1
+Success
+18 June 1959
+I1-7
+Ba LC-1/5
+Luna E-1A No.1
+Failure
+12 September 1959
+I1-7B
+Ba LC-1/5
+Luna 2
+Success
+4 October 1959
+I1-8
+Ba LC-1/5
+Luna 3
+Success
+15 April 1960
+L1-9
+Ba LC-1/5
+Luna E-3 No.1
+Partial Failure
+16 April 1960
+L1-9A
+Ba LC-1/5
+Luna E-3 No.2
+Failure
+The first flight of a Luna 8K72 (September 1958), which was to launch the
+Luna E-1 No.1
+probe, ended 92 seconds after launch when the rocket broke up from longitudinal ("pogo") oscillations, causing the strap-ons to separate from the vehicle, which then crashed downrange.
+[
+3
+]
+The second flight of a Luna 8K72 (October 1958), which was to launch the
+Luna E-1 No.2
+probe, ended 104 seconds after launch when the rocket again disintegrated from vibration.
+The third flight of a Luna 8K72 (December 1958), which was to launch the
+Luna E-1 No.3
+probe, ended 245 seconds after launch when the Blok A core stage shut down from loss of engine lubricant.
+The
+resonant vibration
+problem suffered by the 8K72 booster was the cause of a major argument between the Korolev and Glushko design bureaus. It was believed that the vibrations developed as a consequence of adding the Blok E upper stage to the R-7, shifting its
+center of mass
+.
+The first probe launched by a Luna 8K72 to reach orbit was
+Luna 1
+, launched on 2 January 1959, which was intended as a lunar
+impactor
+mission.
+[
+4
+]
+Luna 1 instead passed within
+5,995 kilometres (3,725
+mi)
+of the Moon's surface 4 January 1959, and then went into orbit around the Sun between the orbits of Earth and Mars.
+[
+5
+]
+The fifth flight of a Luna 8K72 (18 June 1959), which was to launch the
+Luna E-1A No.1
+probe, ended 153 seconds after launch due to a guidance malfunction of the Blok A core stage, leading to engine shutdown.
+[
+6
+]
+Luna 2
+was launched by a Luna 8K72 on 12 September 1959. It was the first spacecraft to impact the lunar surface.
+The final successful launch of a Luna 8K72 took place on 4 October 1959. The
+Luna 3
+spacecraft took the first photographs of the far side of the Moon.
+The eighth flight of a Luna 8K72 (March 1960), which was to launch the
+Luna E-3 No.1
+probe,  ended 435 seconds after launch when the Blok E upper stage developed insufficient thrust, causing the Luna probe to reenter the atmosphere and burn up.
+The ninth flight of a Luna 8K72 (April 1960), which was to launch the
+Luna E-3 No.2
+probe, failed when the Blok G strap-on booster developed only 75% thrust at liftoff, breaking away from the launch vehicle, which then disintegrated, the strap-ons flying in random directions and exploding as they impacted the ground. The Blok A core stage then crashed into a salt lake.
+Notes
+[
+edit
+]
+↑
+This is a transliteration of the second through fifth letters of the Cyrillic alphabet (Б, В, Г, Д). A
+sense-for-sense translation
+would correspond to the second through fifth letters of the Latin alphabet, 'Block B, C, D & E'.
+↑
+This is a transliteration of the sixth letter of the Cyrillic alphabet (E). A
+sense-for-sense translation
+would correspond to the sixth letter of the Latin alphabet, 'Block F'.
+References
+[
+edit
+]
+↑
+"Soyuz - Version: Luna 8K72"
+.
+Encyclopedia Astronautica
+. Archived from
+the original
+on 7 January 2010.
+↑
+"Vostok-L (8K72)"
+.
+Gunter's Space Page
+. Retrieved
+22 October
+2023
+.
+↑
+"Tentatively Identified Missions and Launch Failures"
+. NASA NSSDC. 6 January 2005.
+↑
+"Soyuz - Soyuz Chronology"
+.
+Encyclopedia Astronautica
+. Archived from
+the original
+on 7 January 2010.
+↑
+"Luna 1 - NSSDC ID: 1959-012A"
+. NASA.
+↑
+Reichl, Eugen (2017).
+Moskaus Mondprogramm
+. Paul Pietsch Verlage GmbH & Co (1. Auflage
+ed.). Stuttgart.
+ISBN
+978-3-613-04027-4
+.
+OCLC
+987572365
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+v
+t
+e
+Soviet
+and
+Russian
+launch vehicles
+Active
+Angara
+1.2
+A5
+Soyuz-5
+Soyuz-2
+2.1a
+2.1b
+UR
+Proton-M
+In development
+Amur
+Yenisei
+Retired
+Dnepr
+Energia
+Kosmos
+1
+2I
+3
+3M
+N1
+R-7
+Luna
+Molniya
+M
+L
+Polyot
+Soyuz
+original
+L
+M
+U
+U2
+FG
+2.1v
+Soyuz/Vostok
+Sputnik
+Voskhod
+Vostok
+L
+K
+2
+2M
+R-29
+Shtil'
+Volna
+Start-1
+Tsyklon
+original
+2
+3
+UR
+UR-500
+Proton-K
+Rokot
+Strela
+Zenit
+2
+2M
+3SL
+3SLB
+3F
+Cancelled
+Tsyklon-4
+Proton Light
+Proton Medium
+v
+t
+e
+Orbital launch systems
+List of orbital launch systems
+Comparison of orbital launch systems
+Current
+Angara
+1.2
+A5
+Ariane 6
+Atlas V
+Ceres
+1
+1S
+2
+†
+Chollima-1
+Electron
+Eris
+†
+Falcon 9 Block 5
+Falcon Heavy
+Firefly Alpha
+Gravity-1
+GSLV
+H3
+HANBIT-NANO
+†
+Hyperbola-1
+Jielong
+1
+3
+KAIROS
+†
+Kaituozhe 2
+Kinetica
+1
+2
+Kuaizhou
+1
+1A
+11
+Long March
+2C
+2D
+2F
+3A
+3B/E
+3C
+4B
+4C
+5
+5B
+6
+6A
+6C
+7
+7A
+8
+10B
+11
+11H
+12
+12A
+12B
+LVM3
+Minotaur
+I
+IV
+V
+C
+New Glenn
+Nuri
+OS-M1
+†
+Pallas-1
+Proton-M
+PSLV
+Qaem 100
+Qased
+Shavit 2
+Simorgh
+SLS
+Block 1
+Soyuz-2
+2.1a / STA
+2.1b / STB
+Soyuz-5
+Spectrum
+SSLV
+Tianlong
+2
+3
+†
+Unha
+Vega C
+Vikram-1
+Vulcan Centaur
+Zhuque
+2E
+3
+In development
+Antares 330
+Bloostar
+Blue Whale 1
+Cyclone-4M
+Deca
+Eclipse
+Epsilon S
+Gravity-2
+Hyperbola-2
+Kinetica
+2H
+3
+KSLV-III
+Kuaizhou
+21
+31
+Long March
+9
+10
+10A
+Maia
+Miura 5
+Neutron
+New Line 1
+NGLV
+Nova
+OS-M
+2
+4
+RFA One
+SLS
+Block 1B
+Block 2
+Soyuz-7
+Starship
+Terran R
+Vikram-2
+VLM
+Vega E
+Zero
+Zuljanah
+Retired
+Antares
+110
+120
+130
+†
+230
+230+
+Ariane
+1
+2
+3
+4
+5
+ASLV
+Athena
+I
+II
+Atlas
+B
+D
+E/F
+G
+H
+I
+II
+III
+LV-3B
+SLV-3
+Able
+†
+Agena
+Centaur
+Black Arrow
+Conestoga
+†
+Delta
+A
+B
+C
+D
+E
+G
+J
+L
+M
+N
+0100
+1000
+2000
+3000
+4000
+5000
+II
+III
+IV
+IV Heavy
+Diamant
+Dnepr
+Energia
+Epsilon
+Europa
+I
+†
+II
+†
+Falcon 1
+Falcon 9
+v1.0
+v1.1
+v1.2 "Full Thrust"
+Feng Bao 1
+GSLV
+Mk I
+H-I
+H-II
+H-IIA
+H-IIB
+Juno I
+Juno II
+Kaituozhe-1
+Kosmos
+original
+1
+2/2I
+3
+3M
+Lambda
+4S
+LauncherOne
+Long March
+1
+1D
+†
+2A
+2E
+3
+3B
+4A
+Mu
+4S
+3C
+3H
+3S
+3SII
+V
+N1
+†
+N-I
+N-II
+Naro-1
+Paektusan
+†
+Pegasus
+Standard
+Hybrid
+XL
+Pilot-2
+†
+R-7
+Luna
+Molniya
+M
+L
+Polyot
+Soyuz
+original
+FG
+L
+M
+U
+U2
+2-1v
+Soyuz/Vostok
+Sputnik
+Voskhod
+Vostok
+L
+K
+2
+2M
+R-29
+Shtil'
+Volna
+†
+Rocket 3
+RS1
+†
+Safir
+1
+1A
+1B
+Saturn
+I
+IB
+V
+Scout
+X-1
+Blue Scout II
+†
+X-2
+†
+X-2M
+X-3
+X-3M
+X-4
+X-2B
+†
+B
+A
+B-1
+D-1
+A-1
+E-1
+F-1
+G-1
+Shavit
+original
+1
+SLV
+Space Shuttle
+SPARK
+†
+Sparta
+SS-520
+Start-1
+Terran 1
+†
+Thor
+Able
+Ablestar
+1
+2
+Agena
+A
+B
+D
+Burner
+1
+2
+Delta
+DSV-2U
+Thorad-Agena
+SLV-2G
+SLV-2H
+Titan
+II GLV
+IIIA
+IIIB
+IIIC
+IIID
+IIIE
+34D
+23G
+CT-3
+IV
+Tsyklon
+R-36-O
+original
+2
+3
+Universal Rocket
+UR-500 Proton
+Proton-K
+Rokot
+Strela
+Vanguard
+Vega
+VLS-1
+†
+Zenit
+2
+2M
+2FG
+3SL
+3SLB
+3F
+Zhuque
+1
+†
+2
+Classes
+Sounding rocket
+Small-lift launch vehicle
+Medium-lift launch vehicle
+Heavy-lift launch vehicle
+Super heavy-lift launch vehicle
+This template lists historical, current, and future space rockets that at least once attempted (but not necessarily succeeded in) an orbital launch or that are planned to attempt such a launch in the future
+Symbol
+†
+indicates past or current rockets that attempted orbital launches but never succeeded (never did or has yet to perform a successful orbital launch)
+v
+t
+e
+R-7 rockets
+Missiles
+R-7 Semyorka
+R-7A Semyorka
+Launch systems
+Sputnik
+Polyot
+Voskhod
+Vostok
+Luna
+Vostok-L
+Vostok-K
+Vostok-2
+Vostok-2M
+Molniya
+Molniya
+Molniya-M
+Soyuz
+Soyuz/Vostok
+Soyuz
+Soyuz-L
+Soyuz-M
+Soyuz-U
+U2
+Soyuz-FG
+Soyuz 2
+Soyuz 2.1a / 2.1b
+ST-A / ST-B
+Soyuz 2.1v
+Launch sites
+Baikonur
+Site 1/5
+Site 31/6
+Plesetsk
+Site 41/1
+Site 16/2
+Site 43/3
+Site 43/4
+Vostochny
+Site 1S
+Guiana
+ELS
+Launches
+1957–1959
+1960–1964
+1965–1969
+1970–1974
+1975–1979
+1980–1984
+1985–1989
+1990–1994
+1995–1999
+2000–2004
+2005–2009
+2010–2014
+2015–2019
+2020–2024
+2025–2029
+Engines
+RD-107/108
+RD-0110
+RD-0124
+See also
+Korolyov Cross
+Soyuz at the Guiana Space Centre
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Luna_(rocket)&oldid=1325238655
+"
+Categories
+:
+1958 in spaceflight
+1959 in spaceflight
+Luna programme
+Space launch vehicles of the Soviet Union
+R-7 (rocket family)
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Use dmy dates from December 2025
+Pages using infobox rocket with unknown parameters
+CS1 maint: location missing publisher
+This page was last edited on 1 December 2025, at 23:25
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Luna (rocket)
+13 languages
+Add topic
