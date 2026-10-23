@@ -1,0 +1,116 @@
+ 
+ Milestones:Detection of Radar Signals Reflected from the Moon, 1946 - Engineering and Technology History Wiki 
+ Explore 
+ Browse by Subject 
+ Encyclopedia 
+ Oral Histories 
+ First Hand Histories 
+ Landmarks/Milestones 
+ Archives 
+ Personal Narratives 
+ Museums 
+ Random page 
+ Special pages 
+ Recent changes 
+ New pages 
+ Help 
+ Contents 
+ Contact us 
+ Tools 
+ What links here 
+ Related changes 
+ Special pages 
+ Printable version 
+ Permanent link 
+ Page information 
+ Browse properties 
+ Talk 
+ View source 
+ View history 
+ Refresh 
+ English 
+ Log in 
+ Request account 
+ Milestones : Detection of Radar Signals Reflected from the Moon, 1946 
+ From ETHW 
+ Jump to: navigation , search 
+ Date Dedicated 
+ 2019/05/17 
+ Dedication # 
+ 194 
+ Location 
+ Wall, New Jersey 
+ IEEE Regions 
+ 1 
+ IEEE sections 
+ New Jersey Coast 
+ Achievement date range 
+ 1946 
+ Contents
+ 1 Title 
+ 2 Citation 
+ 3 Street address(es) and GPS coordinates of the Milestone Plaque Sites 
+ 4 Details of the physical location of the plaque 
+ 5 How the plaque site is protected/secured 
+ 6 Historical significance of the work 
+ 7 Features that set this work apart from similar achievements 
+ 8 Significant references 
+ 9 Supporting materials 
+ 10 Map 
+ Title 
+ Detection of Radar Signals Reflected from the Moon, 1946
+ Citation 
+ On 10 January 1946, a team of military and civilian personnel at Camp Evans, Fort Monmouth, New Jersey, USA, reflected the first radar signals off the Moon using a specially modified SCR-270/1 radar. The signals took 2.5 seconds to travel to the Moon and back to the Earth. This achievement, Project Diana , marked the beginning of radar astronomy and space communications.
+ Street address(es) and GPS coordinates of the Milestone Plaque Sites 
+ 40.1848558, -74.0565185, 40.18486, -74.05652
+ Details of the physical location of the plaque 
+ The plaque is to be mounted on a wooden screen in the entrance way inside Building 9162.
+ How the plaque site is protected/secured 
+ The site is surrounded by a 10’ high chain link fence topped with barbed wire, a chain link pad-locked vehicle gate, and is protected by security cameras. Building 9162 is locked and secured.The address of the plaque site is 2300 Marconi Road, Wall New Jersey 07719. The site is available to visitors from 1 PM to 5 PM on Wednesdays and Saturdays. Special group tours can be arranged by calling InfoAge Science History and Learning Center at 732-280-3000.
+ Historical significance of the work 
+ Proof of Concept 
+The effort resolved doubts about whether Electromagnetic Waves suitable for long-range communication and radar could penetrate the Earth’s Ionosphere. It was the first documented experiment in radar astronomy and in actively probing another celestial body, and was the dawn of the space age, with personnel at Site Diana, Camp Evans, Fort Monmouth, New Jersey, USA, demonstrating the ability to communicate with extraterrestrial bodies beyond Earth. Measurements were made of surface roughness and mapping of shadowed regions, and provided the first crude information on the small scale topography of the moon.
+ Unveiling the Project Diana plaque 
+ The Project Diana site. The current dish is a later addition 
+ These results emboldened a series of ideas ranging from worldwide wireless communication, radar astronomy, artificial satellites, and rocket launched probes to the moon and planets.
+ Prior to the success of the experiment, wireless communication was performed using “skywave” communication up to about 400 km, where signals were reflected or refracted off the ionosphere. While this form of communication was not limited by curvature of the earth line-of-sight, it was restricted in frequency range and data rate.
+ Demonstrating that signals could travel from the earth to the moon and back was proof of concept for the idea of what is known as Earth-Moon-Earth (EME), or “moonbounce” communication. Following the success of the project, the US Navy set out to explore the implications and applications of this form of communication - the idea of a reliable, secure EME scheme. The first major milestone to this Passive Moon Relay project happened on July 24, 1954, where voice was successfully transmitted from Stump Neck, Maryland to Washington, DC. Following this success, on November 20, 1955, transmissions were sent to San Diego, California and soon after to Wahiawa, Hawaii. The system in its completed state began seeing use in 1960 and was expanded to accommodate ship-to-shore transmissions. In the later 1960s the system became obsolete due to the advent of artificial satellites in orbit to serve the same purpose.
+ Radar Astronomy
+Before 1946, scientists observed the universe using large passive radio telescopes that caught and recorded radio waves emanating from the universe outside the earth’s atmosphere. This technique of passive reception was part of a field known as radio astronomy. Following the success of Project Diana, scientists had access to what is known as radar astronomy. Unlike radio astronomy, this technique is an active observation by reflecting microwaves off objects and analyzing the reflected signal, in the same manner as Project Diana had done with the moon.
+ Radar astronomy has many advantages over previous forms of observation. The ability to control and measure the source of the transmission allowed scientists to extract information that was difficult to obtain before, such as composition and relativistic data. Since 1946, this technique has been used to gather a wealth of data about the geological and dynamic properties of many of the planets, moons, and asteroids that orbit our sun. Additionally, it has been used to determine the length of the Astronomical Unit (AU) and the scale of the solar system itself.
+ Space Age
+The success of the project became a symbol that led to the beginning of the Space Age for the United States. Days after the success of the project, the New York Times commented that "somehow ... the moon and all the heavenly bodies become more real ... more than a guide to navigators and an inspiration to poets ... tangible objects to which we can reach out." For the first time in its history, the US was able to “touch the stars” so to speak, where it could communicate with objects and potential beings well outside of its grasp up until that point. With this new found reach from a communications perspective, the US sought to extend that to a physical presence. 
+ In the early 1950s, President Dwight Eisenhower was skeptical about the possibility of human spaceflight, although he did see promise in artificial satellites for commercial and military use. The stage was finally set when President John F. Kennedy set a goal of sending men to the moon by 1968.
+ Detect and Control Guided Missiles
+Following the success of the project, the War Department talked about "radio control of missiles orbiting Earth above the stratosphere." Today, Earth satellites and space probes are directed and re-positioned via this “radio control”.
+ Boosted US Morale
+This achievement brought promise of a coming golden age of science and technology arising from the aftermath of World War II. It refocused engineers and scientists to new goals centered on benefiting humanity, and created a need for developing solid state technologies capable of surviving space launch and environments.
+ Features that set this work apart from similar achievements 
+ Although the possibility of reflecting radar signals off the Moon had been discussed in the scientific literature, Nature , There are no prior documented similar achievements. Zoltan Bay and a Hungarian team achieved a similar result on February 6, 1946. Because their receiver did not have the sensitivity required, and their antenna did not have the gain needed to directly detect the reflected signal, they used an accumulating coulometer to acquire a 30 fold increase in the signal to noise ratio, producing a signal, post processing, 4% above the noise floor. Zoltan Bay acknowledged the prior accomplishment of Project Diana and authenticated it’s findings to be, in fact, correctly presented (see, “Reflection of Microwaves from the Moon”, Z. Bay, link.springer.com, article received 18th November 1946).
+ Further Reading 
+Oral history of E. King Stodola (1914-1992), IRE/IEEE fellow and scientific leader of Project Diana. https://www.projectdiana-eme.com/oral-history-transcript.html 
+ Website and blog about to Project Diana: https://www.projectdiana-eme.com/ 
+ https://www.projectdiana-eme.com/to-the-moon-and-back-blog 
+ Significant references 
+ References:
+1) "How Diana Touched the Moon", IEEE Spectrum, May 1980 (copy sent to advocate)
+2) Front Page Lead Article, New York Times, January 25, 1946.
+3) Mofensen, J., “RADAR Echoes From the Moon”, Electronics, Volume 19, April 1946, pp 92 – 98.
+4) Gootee, Tom (April 1946), “RADAR reaches the moon”, Radio News, Ziff-Davis Publishing Co., 35 (4), pp. 25 – 27.
+5) Dewitt, J. H., Jr.: Stodola, E. K. (March 1949), “Detection of Radio Signals Reflected from the Moon”, Proceedings of the IRE, 37 (3) pp. 229 – 242. (copy sent to advocate) 
+6) http://projectdiana-eme.com 
+7) Butrica, Andrew J. (1996). To See the Unseen: A History of Planetary Radar Astronomy. NASA. Archived from the original on 2007-08-23.
+8) Buderi, Robert, “The Invention that Changed the World”, Chapter 13 (The New Astronomers), Pub. Simon and Schuster, Copyright 1996, ISBN: 0-684-81021-2. (copy sent to advocate)
+9) “Message to Moon Proves Atmosphere Penetration”, Electrical Engineering, March, 1946, pp 140-141,
+ Supporting materials 
+ All reference material has been uploaded as well as letters from the Jersey Coast Section Chair, and from the site owner, Wall, NJ. These files are loaded under Kerecman contributions. As of 4/16/2018, this Milestone Submission is ready for consideration by the IEEE History Committee.
+ Map 
+ Loading map... 
+Retrieved from " https://ethw.org/w/index.php?title=Milestones:Detection_of_Radar_Signals_Reflected_from_the_Moon,_1946&oldid=196860 " 
+ Category : Milestones 
+ This page was last edited on 23 February 2023, at 16:19. 
+ About ETHW 
+ Policies and disclaimers 
+ WikiTeq Terms & Privacy 
+ Manage cookie preferences 
+ 
