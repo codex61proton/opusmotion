@@ -1,0 +1,1520 @@
+
+Science, Technology and the CIA
+home
+        | 
+about
+ | 
+documents
+        | 
+news
+ | 
+publications
+        | 
+FOIA
+ | 
+research
+        | 
+internships
+ | 
+search
+        | 
+donate
+        | 
+mailing 
+        list
+Science, Technology and the CIA
+National Security Archive Electronic Briefing Book No. 438
+UPDATED August 5, 2013
+Originally Published – September 10, 2001
+Edited by Jeffrey T. Richelson
+For more information contact:
+        Jeffrey T. Richelson
+ 202/994-7000 or 
+nsarchiv@gwu.edu
+Print
+this page
+RELATED ARCHIVE POSTS
+Eyes on the Bomb
+  March 28, 2006
+The U-2, OXCART, and the SR-71
+October 16, 2002
+The NRO Declassified
+September 27, 2000 
+Washington, D.C., August 5, 2013 – 
+    Today, on the 50
+th
+ anniversary of the establishment of the CIA's Directorate of Science and Technology, the National Security Archive posts an
+    update to its 2001 electronic briefing book on 
+Science, Technology and the CIA
+. The posting adds 20 new items to the 45 documents in the previous
+    version. The new records cover all eras of the CIA's exploitation of science and technology, from its initial involvement during the tenure of Allen Dulles
+    (1953-61) to its post-Cold War activities.
+  Among the new documents included in the posting are:
+Studies in Intelligence 
+    articles by and about Albert Wheelon, the first Deputy Director for Science and Technology
+    A late 1966 Top Secret prospectus, written by Wheelon, suggesting courses of action for the directorate in twelve different areas — from overhead
+    reconnaissance to computers 
+    A memo and inspector general's report on the Foreign Missile and Space Analysis Center
+    A detailed, 300-page-plus history on the directorate, covering the period 1962-1970
+    A history of the HEXAGON (KH-9) reconnaissance satellite program
+    An interview with Dr. Ruth David, the Director for Science and Technology from September 1995 to September 1998
+* * *
+The activities most associated with the Central Intelligence Agency have been espionage, covert action, and intelligence analysis. Those activities have,
+      for decades come to public attention through a variety of events, including revelations of: CIA penetrations of foreign governments, CIA support for
+      assorted paramilitary activities (including, since 9-11, drone strikes against terrorist targets), and debates over the success and failures of the CIA's
+      analytic effort.
+Traditionally, the CIA's role in the application of science and technology to the art of intelligence has been less appreciated. An
+      800-page history of the agency, published in 1986,
+ The Agency: The Rise and Decline of the CIA
+, included only a few references to the CIA's
+      Directorate of Science and Technology. By that time, the exploitation of science and technology had been a significant element of the CIA's activities for
+      three decades. In 1962, it resulted in the creation of the Deputy Directorate of Research, which was succeeded in 1963 by the Deputy Directorate of Science
+      and Technology (renamed the Directorate of Science and Technology in 1965).
+    By September 2001 the directorate had assumed (and ceded) a significant role in the production of science and technical intelligence, including the
+    analysis of foreign missile and space programs. It also designed and operated, in conjunction with its contractors, advanced overhead collection systems —
+    including the U-2 and OXCART spy planes; the CORONA (KH-4), HEXAGON (KH-9), and KENNEN (KH-11) imagery satellites; and the geosynchronous RHYOLITE signals
+    intelligence platform. Its satellites and SIGINT ground stations proved vital to intelligence analysts in assessing the capabilities of foreign weapons
+    systems — particularly Soviet strategic forces during the Cold War. Its Office of Technical Service — the CIA's "Q Branch" — in addition to its day-to-day
+    role in assisting the CIA case officers and their assets, played an important role in helping six members of the U.S. Embassy in Tehran escape from Iran
+    after the embassy had been seized in November 1979. It is also responsible for a number of scientific advances — including a key component of heart
+    pacemaker technology — that are now being used for medical and other purposes.
+1
+    The CIA's S&T efforts were not completely free from folly. MKULTRA drug experiments resulted in the suicide of an Army scientist in 1953, which continued in progressively curtailed form till it was shut down in 1973. Poison pens and
+    exploding seashells were designed in a futile attempt to assassinate Fidel Castro in the early 1960s. In addition, the directorate funded the attempts of alleged psychics to report on
+    activities at Soviet military facilities by "viewing" those activities from California. It also sought to employ cats and birds for intelligence collection
+    — in one case implanting assorted equipment in a cat in order to turn it into a mobile, controllable, bugging device.
+2
+ In the twelve years since the National Security Archive posted an earlier version of this briefing book a variety of additional documents have been
+  obtained relying on the same sources as the original briefing book — Freedom of Information Act requests, research in the National Archives
+  (particularly the CIA's CREST collection), and other records provided by the CIA. Some of those documents - including assorted memos (
+Document 17
+,        
+Document 23
+, 
+Document 38
+) articles in 
+Studies in Intelligence 
+(
+Document 29
+, 
+Document 30
+, 
+Document 31
+), an
+  inspector general report
+  (
+Document 39
+) and directorate histories (
+Document 32
+, 
+Document 42
+) — shed additional light on the directorate's first decade. A
+  history of the HEXAGON program (
+Document 44
+) covers a satellite program that extended from that first decade well into its second.
+  As would be expected, documentation on the post-Cold War history of the directorate is far sparser. However, a number of documents do cast some
+  light on developments over the last 22 years. A CIA-funded study of remote viewing (
+Document 57
+) helped validate the agency's preference for
+  not restarting an effort in that area. A 
+Studies in Intelligence 
+interview (
+Document 58
+), with Dr. Ruth David, deputy director for science
+  and technology from September 1995 to September 1998, provides insights into her views on the importance of information technology and 'agility.'
+    Key organizational changes in the directorate are represented by a number of new documents. A press release (
+Document 61
+) from September 2009
+    announced the creation of the Center for Climate Change and National Security. Disestablished in 2012, its mission had been controversial with some members
+    of Congress. It also proved, despite the wording of the press release, to be an exceptionally secretive effort. Freedom of Information Act requests for studies
+    produced by the center resulted in denials, with not a single sentence from any of the reports being released. The CIA has also claimed, in response to
+    FOIA requests, that it had no memos to or from the center's director concerning its disestablishment, nor did it have an implementation plan for its
+    dissolution and transfer of assets.
+3
+    A 2011 CIA organization chart (
+Document 63
+) indicates the creation of a number of new offices in the post-9/11 era (Global Access, Special
+    Activities, Special Communications, Systems Engineering and Analysis, Technical Readiness) in the directorate — some newly formed, others established from
+    subunits of older offices.
+4
+    A NRO memo (
+Document 64
+) reports that the Office of Development and Engineering — which for a long period of time was the directorate's most
+    important office due to its role in the development and operation of space reconnaissance systems — had been disestablished.
+Many of the following documents were obtained as part of the research for 
+The
+  Wizards of Langley: Inside the CIA's Directorate of Science and Technology
+  through Freedom of Information Act requests, research in the National Archives,
+  or provided by the CIA. They are grouped into four categories:
+Growing Involvement: 1947-1962
+Deputy Directorate for Research: 1962-1963
+S&T and the Cold War: 1963-1991
+After the Cold War: 1991-2001
+Sources and further reading
+THE DOCUMENTS
+Growing Involvement: 1947-1962
+Document 1
+: Memorandum for the Record, Subject: Responsibilities of
+  the Office of Scientific Intelligence, November 29, 1951, 2 pp.
+Source: National Archives, CIA 1998 Release: RG 263, Box 209, Folder 3
+Scientific intelligence production in the CIA began with a
+  Scientific Branch in the Office of Reports and Estimates. On December 31,
+  1948, the branch was merged with the Nuclear Energy Group of the Office
+  of Special Operations to form the Office of Scientific Intelligence (OSI).
+This memorandum reviews the origins of OSI as well as examining some
+  of the difficulties it faced as of late 1951. In its early years OSI faced
+  opposition from outside the CIA with regard to two issues: the extent of
+  its authority over other elements of the intelligence community and its
+  belief that its work should involve the technical analysis of foreign weapons
+  systems such as guided missiles — the latter being a sore point with
+  the military service intelligence organizations. In addition, the operations
+  elements of the CIA did not believe they should take OSI direction with
+  regard to the collection of scientific intelligence.
+Document 2
+: CIA, Memorandum for the Record, Subject: Project ARTICHOKE, January 31, 1975, 5 pp.
+Source: John Marks Donation
+Among the CIA's early scientific interests were "special" interrogation
+  methods, including the use of drugs and chemicals, hypnosis, and isolation.
+  A number of CIA units, including OSI, the Inspection and Security office,
+  and the Technical Services Staff would be involved in investigating such
+  techniques. In 1949-50 experiments were conducted under a program designated
+  BLUEBIRD, which subsequently became known as ARTICHOKE.
+This memo written in 1975, as such CIA activities were about to become
+  the focus of Congressional and public attention, provides a brief history
+  of these efforts through 1960, and includes a short discussion of the death
+  of Frank Olson, who committed suicide after a CIA official secretly administered
+  a dose of LSD to the Army scientist under a program designated MKULTRA.
+Document 3
+: Letter, Edwin Land to Allen Dulles, November 5, 1954 w/att:
+    Memorandum for: Director of Central Intelligence, Subject: A Unique Opportunity
+    for Comprehensive Intelligence, November 5, 1954, 6 pp.
+Source: Dwight D. Eisenhower
+    Library
+In a number of ways, this letter and the attached memorandum
+  represent a key turning point in the history of the CIA. Its author, Edwin
+  Land, Polaroid's chief executive officer, would go on to become a key adviser
+  to the CIA's science and technology effort for over three decades.
+The letter and memorandum, written in Land's capacity as chairman of
+  the intelligence committee (Project 3) of President Dwight Eisenhower's
+  Technological Capabilities Panel, urged a reluctant Allen Dulles, the Director
+  of Central Intelligence, to pursue development of a special high-altitude
+  aircraft to overfly the Soviet Union and obtain detailed photographs of
+  Soviet installations. The ultimate result would be a CIA-Air Force program,
+  first known as AQUATONE, and subsequently as CHALICE and IDEALIST, that
+  resulted in the development (by Lockheed's Skunk Works) and deployment
+  of the U-2 aircraft, which remains in operation today.
+Document
+    4
+: Herbert I. Miller, Memorandum for: Project Director, Subject:
+    Suggestions re the Intelligence Value of AQUATONE, July 17, 1956. Top Secret,
+    3 pp.
+Source: National Archives,
+    CIA 2000 Release
+On July 25, 1955, less than eight months after Lockheed had
+  been given official approval to begin the project, the first U-2 aircraft
+  was delivered to the secret Nevada test site that would become known as
+  Area 51. On July 4, 1956, after overflights over Eastern European countries,
+  the first U-2 targeted on the Soviet Union photographed Leningrad's naval
+  shipyards, as well as several major military airfields. The following day,
+  another mission overflew Moscow as well as a number of airfields in an
+  attempt to determine the threat from Bison heavy bombers. The intelligence
+  from these early U-2 missions would be crucial in eliminating U.S. fears
+  of a "bomber gap."
+Three additional overflights followed, on July 9 and 10. Also, on July
+  10 the Soviets, who proved more capable of detecting the flights than hoped,
+  filed their first protest note concerning the intrusions. As a result,
+  later that day, President Eisenhower ordered a halt to all overflights
+  until further notice. This memo, by CIA official Herbert Miller, summarizes
+  the intelligence value of the AQUATONE flights and argues that the danger
+  to the United States of stopping the flights was greater than that of continuing
+  them.
+Document
+    5
+: CIA, Project CORONA, April 25, 1958, 6 pp.
+Source: NRO CORONA-ARGON-LANYARD
+    Collection:1/A/0001
+On February 7, 1958 James Killian, who had served as chairman
+  of the Technological Capabilities Panel, and Edwin Land met with President
+  Eisenhower to discuss the limited progress the Air Force was making in
+  trying to develop a photographic reconnaissance satellite. The primary
+  objective of the Air Force program, then known as SENTRY and subsequently
+  as SAMOS, was to develop a satellite that would electronically scan the
+  photographs obtained by its camera and transmit the data to a ground station,
+  where it would be reconstructed into a photograph.
+At that meeting Eisenhower confirmed a decision he made the day before — to assign the CIA the responsibility for developing a reconnaissance
+  satellite that could eject its film for recovery on earth. The CIA's Richard
+  Bissell, who, along with Lockheed's Kelly Johnson,  had successfully
+  managed the development of the U-2, was assigned responsibility for developing
+  the film-return satellite. The project would soon be codenamed CORONA.
+  For security reasons little was written down in the early days of the program.
+  This outline statement sets forth the objectives of the CORONA program
+  only a few months after it was established.
+As indicated in the outline, CORONA was intended to be a short-term
+  program, ultimately to be replaced by the Air Force's SAMOS system. However,
+  all the versions of SAMOS would be cancelled before the end of 1962, and
+  CORONA would continue until mid-1972.
+Document
+    6
+: Richard M. Bissell Jr., Deputy Director for Plans, Memorandum,
+    Subject: ELINT Requirements Requiring Sensitive Collection, September 9,
+    1959, 2 pp.
+Source: National Archives,
+    CIA 2000 Release
+The National Security Agency (NSA) was established in 1952,
+  within the Department of Defense, to manage the national signals intelligence
+  effort, including the communications intelligence activities of the military
+  services. In 1958, it was also made responsible for supervising military
+  service electronic intelligence (ELINT) efforts. The NSA, however, proved
+  unable to satisfy the CIA's need for certain types of ELINT — including
+  intercepts of telemetry from Soviet missiles undergoing testing as well
+  as ELINT concerning Soviet radar systems which could detect CIA reconnaissance
+  aircraft.  As a result, the CIA would become heavily involved in electronic
+  intelligence collection — from aircraft, ground stations, ships, and eventually
+  satellites. In 1954, Allen Dulles approved the CIA's first ELINT plan.
+  This 1959 memo represents another step in the CIA's growing responsibility
+  for ELINT collection.
+Document
+    7
+: Office of Scientific Intelligence, The French Nuclear Weapons
+    Program, November 13, 1959, 10 pp.
+Source: Freedom of
+    Information Act Request
+Throughout its existence, OSI's primary concern was the nuclear
+  programs of both allied and adversary nations. Even the nuclear program
+  of a nation such as the Netherlands was the subject of OSI analysis. 
+  The purpose of this report on the French nuclear weapons program was to
+  "assess French capability to produce fissionable material and to develop,
+  test, and produce nuclear weapons; and to estimate the likely timing of
+  the first French nuclear weapons test."  Topics discussed in the report
+  include the availability of uranium, plutonium production and extraction,
+  uranium isotope separation, weapons research and development, and nuclear
+  weapons testing.
+Document
+    8
+: Gene Poteat, "Stealth, Countermeasures, and ELINT, 1960-1975,"
+Studies in Intelligence
+, 48, 1 (1998): 51-59, 9 pp.
+Source: Donation
+The CIA's ELINT program included the collection of precise
+  data concerning radars that would detect U.S. reconnaissance aircraft.
+  One aspect of this "Quality ELINT" program involved flying specially equipped
+  aircraft in the vicinity of the radars — radars located in Eastern Europe,
+  the Soviet Union, Cuba, North Vietnam, and elsewhere. In 1958, the CIA
+  made the first significant attempt to measure the power of a radar for
+  intelligence purposes. The targeted radar was the Bar Lock, which was extensively
+  deployed in East Germany. Equipment capable of measuring the power output
+  of a radar was installed in a C-119 aircraft and a series of flights, ostensible
+  supply missions through the air corridors to Berlin, followed. 
+Another means of evaluating the threat from foreign radars, and of accumulating
+  information that might allow planes to be designed to avoid detection was
+  a highly secret program, which began in the early 1960s and was designated
+  PALLADIUM. The program allowed the CIA to insert "ghost aircraft" with
+  different radar cross sections into Soviet radar returns. NSA's interception
+  and decryption of the communications traffic to and from the radar sites
+  allowed the CIA to determine whether an aircraft with a given radar cross
+  section would be detected by a particular radar (and its operator). 
+This article, originally published in a classified issue of the CIA's
+Studies
+    in Intelligence
+, was written by a key figure in the PALLADIUM program
+  — Gene Poteat, who worked as a missile guidance engineer at Bell Telephone
+  Labs and at Cape Canaveral before joining the CIA. In addition, to describing
+  the origins and developments of the PALLADIUM program, Poteat also describes
+  a program codenamed MELODY, which produced intelligence about Soviet radars
+  by detecting their signals as  reflected off Soviet missiles while
+  they were being tested.
+Document
+    9
+: CIA, Situation Estimate for Project CHALICE  Fiscal
+    Years 1961 and 1962, March 14, 1960. Top Secret, 15 pp.
+Source: National Archives,
+    CIA 2000 Release
+Despite Eisenhower's concerns about the consequences of a loss
+  of a U-2 over the Soviet Union, he did approve further missions after his
+  initial, July 1956, order to stop the overflights. During a 23-day period
+  in August 1957, U-2s conducted Operation SOFT TOUCH — seven overflights
+  of the Soviet Union and two of the People's Republic of China. This activity,
+  particularly with regard to the Soviet Union was atypical. Thus, Francis
+  Gary Powers May 1, 1960 overflight would be 24th and last of Soviet territory.
+  This situation estimate, prepared a little less than two months before
+  the shootdown, was intended to provide "guidance for the planning and conduct
+  of project operations during the FY1961-62 time period." In addition, it
+  provides a concise history of the program and an assessment of the intelligence
+  desired from future U-2 flights.
+Document
+    10
+: CIA, Future of the Agency's U-2 Capability, July 7, 1960.
+    Top Secret, 11 pp.
+Source: Dwight D. Eisenhower
+    Library
+The May 1, 1960 incident resulted in a halt of U-2 overflights
+  of Soviet territory. By that time the agency's U-2 program had conducted
+  overflights of a number of other countries and areas — including the People's
+  Republic of China, Indonesia, and the Middle East.  It had also been
+  used to conduct peripheral reconnaissance missions of the Soviet Union. 
+  However, this July 1960 document considered the question of whether the
+  CIA should maintain a U-2 capability or cede the mission to the Strategic
+  Air Command, which had been employing U-2s for nuclear air sampling and
+  peripheral reconnaissance missions. The study considered a number of issues
+  — including intelligence requirements, U-2 vulnerability, basing needs,
+  and cover arrangements. It proposed that the CIA maintain "a greatly reduced
+  and redeployed U-2 capability." The CIA would, in fact, continue operating
+  U-2s through 1974, conducting peripheral reconnaissance missions as well
+  as flights over the PRC, Cuba, the Middle East, Vietnam and several other
+  Southeast Asian nations.
+Document
+    11
+: Photographic Intelligence Center, CIA, Joint Mission Coverage
+    Index: Mission 9009, 18 August 1960, September 1960, 11 pp.
+Source: Kevin C. Ruffner
+    (ed.), CORONA: America's First Satellite Program (Washington, D.C.: CIA,
+    1995)
+The first attempted launch in the CORONA program took place
+  in February 1959. Launch after launch over the next eighteen months produced
+  nothing but failures. The launch of August 18, 1960 resulted in the first
+  successful orbit of a camera-carrying satellite, the return to earth of
+  the images it obtained while orbiting the earth, and the recovery of the
+  film — snatched out of the air by a specially modified C-119 aircraft. 
+This partially declassified document shows the areas covered by the
+  CORONA satellite as well as providing some information on the targets covered
+  and the intelligence derived from the mission.
+Document
+    12
+: Marion W. Boggs, Memorandum: Subject: Discussion at the
+    474th Meeting of the National Security Council, Thursday, January 12, 1961,
+    January 13, 1961, 5 pp. (pages 2-5, 10 and following omitted)
+Source: Dwight D. Eisenhower
+    Library
+In March 1960, Secretary of Defense Thomas Gates suggested
+  to President Eisenhower that he approve a study of the defense intelligence
+  establishment, which he described as a huge conglomerate spending $1.5
+  - 2 billion a year. In early May, a Joint Study Group was established to
+  review assorted aspects of the U.S. intelligence effort. The group's December
+  report noted agreement throughout most of the Intelligence Community that
+  a central photographic intelligence center should be established. The report
+  recommended that the DCI and Secretary of Defense should determine the
+  details concerning the center's management and that a National Security
+  Council Intelligence Directive (NSCID) be drafted establishing a National
+  Photographic Interpretation Center (NPIC).
+Three meetings of the United States Intelligence Board (USIB) included
+  debates over whether the CIA or Defense Department should run the center,
+  but without a resulting agreement. As a result, the issue was brought up
+  at the January 12, 1961, meeting of the National Security Council. The
+  portion of the memorandum reproduced here provides a summary of the discussion
+  at that meeting, whose participants included Eisenhower, Gates, Dulles,
+  Joint Chiefs of Staff chairman Lyman Lemnitzer, and presidential science
+  adviser George Kistiakowsky.
+Dulles argued vigorously for CIA responsibility, a view supported by
+  science adviser Kistiakowsky. Ultimately, Eisenhower decided that the CIA
+  should convert its Photographic Intelligence Center into NPIC. Six days
+  later, NSCID 8 on "Photographic Interpretation" was issued establishing
+  the new national center. NPIC was part of the Directorate of Intelligence
+  until it was transferred to the DS&T in 1973.
+Document
+    13
+: Letter, Richard M. Bissell Jr. to Allen Dulles, August
+    8, 1961, 7 pp.
+Source: Donation
+In August 1960, the CIA's CORONA program returned the first
+  satellite photographs of the Soviet Union and other areas of interest.
+  Meanwhile, the Air Force continued to work on its SAMOS satellite programs
+  as well as a program, designated GAMBIT, to develop a high-resolution satellite
+  system. Overflights of certain countries, such as China, also involved
+  aircraft and/or drones.
+When Robert McNamara became Secretary of Defense with the advent of
+  the Kennedy administration, he sought to centralize and rationalize a number
+  of defense and intelligence activities — including overflight reconnaissance.
+  Beginning in the spring of 1961 and continuing through the summer, Defense
+  Department and CIA officials discussed establishment of a centralized organization
+  that, while not absorbing the CIA and Air Force overflight programs, would
+  provide a significant degree of coordination. 
+This letter from Bissell to Dulles followed an exchange in which Dulles
+  accused the Deputy Director for Plans of exceeding his authority with regard
+  to negotiations to establish what would become the National Reconnaissance
+  Office (NRO) as well as with regard to planning for the ill-fated Bay of
+  Pigs invasion that cost both Dulles and Bissell their jobs. In his letter,
+  Bissell noted his belief that the agreement Dulles objected to represented
+  a formalization of the de facto relationship that existed between Bissell
+  and Air Force undersecretary Joseph Charyk. It would have made Bissell
+  director of the NRO and Charyk deputy. It would also have assigned the
+  Air Force responsibility for technical program management for satellite
+  development, while the CIA would be responsible for target programming.
+Dulles objected to the agreement for at least one major reason — he
+  did not want to have a CIA official in charge of  Defense Department
+  personnel and activities, and thus subject to blame in the event of some
+  fiasco. In addition, he preferred specifying the arrangements in a letter
+  rather
+  than an interagency agreement.
+Document
+    14
+: Roswell L. Gilpatric, Deputy Secretary of Defense, to Allen
+    W. Dulles, Director of Central Intelligence, Re: Management of the National
+    Reconnaissance Program, September 6, 1961, 4 pp.
+Source: Freedom of
+    Information Act Request
+As a result of Dulles's objections, a redrawn agreement was
+  not concluded until September 5. The next day, this letter from Deputy
+  Secretary of Defense Roswell Gilpatric to Dulles confirmed "our agreement
+  with respect to setting up of the National Reconnaissance Program." The
+  letter specified the creation of an NRP that covered satellite, aircraft
+  and drone overflights for the purposes of photographic intelligence, electronic
+  signal collection, and mapping, charting, and geodesy.  It also established
+  the National Reconnaissance Office as an umbrella organization for the
+  CIA and Air Force efforts. In addition, it established a uniform security
+  control system (which would become known as the BYEMAN Control System),
+  and specified that the NRO would be directly responsive to the intelligence
+  requirements and priorities specified by the United States Intelligence
+  Board.
+Rather than assigning the directorship of the NRO to the CIA's Deputy
+  Director for Plans (DDP), the DDP and the Under Secretary of the Air Force
+  (Joseph Charyk) were made co-directors. In addition, no specific responsibilities
+  were assigned to either the Air Force or the CIA, leaving that to be worked
+  out by Bissell and Charyk or their successors, either on a case-by-case
+  basis or by formal agreement.
+Deputy Directorate for Research:
+    1962-1963
+Document
+15
+: HN 1-9, February 16, 1962, 1 p.
+Source: National Archives,
+CIA 1998 Release
+By late 1961, the CIA's exploitation of science and technology
+  had become a very significant aspect of the agency's activities. James
+  Killian and Edwin Land, who had encouraged Allen Dulles to seek scientific
+  solutions to intelligence problems, thought it was time that the CIA's
+  scientific activities be placed in a separate directorate. As a result
+  of the Bay of Pigs fiasco,  Dulles would leave in late November, and
+  be replaced by John McCone, a former Under Secretary of the Air Force and
+  Atomic Energy Commission chairman. Killian and Land pushed McCone to establish
+  a new scientific directorate — which resulted in this February 16, 1962
+  headquarters notice. 
+The only activities whose transfer to the new directorate — to be known
+  as the Deputy Directorate for Research (DDR) — was guaranteed by this notice
+  were some of those belonging to the Development Projects Division. That
+  division started out as the Development Projects Staff and originally managed
+  a single program — the U-2. By 1962 it was also responsible for the planned
+  U-2 follow-on, OXCART, as well as the CORONA and ARGON satellite programs.
+  Those programs would be managed by the new directorate's Office of Special
+  Activities. Before the end of 1962, two other offices would be established
+  in the DDR — the Office of ELINT and the Office of Research and Development. 
+Heading the new directorate was Dr. Herbert J. Scoville Jr., who had
+  been with the agency since 1955, as head of the Office of Scientific Intelligence,
+  an office that would remain in the Directorate of Intelligence during Scoville's
+  tenure.
+Document
+    16
+: Letter, Richard Bissell to John McCone, February 7, 1962,
+    4 pp.
+Source: Freedom of
+    Information Act Request
+Initially, Richard Bissell, as Deputy Director for Plans, was
+  to leave office about the same time as Allen Dulles, and for the same reason.
+  However, shortly after McCone took office, his wife died and he asked Bissell
+  to remain on for a while. Ultimately, he decided, with the concurrence
+  of John and Robert Kennedy, to offer Bissell the position of Deputy Director
+  for Research (DD/R).
+Bissell who had opposed the creation of such a directorate in an earlier
+  memorandum wrote this letter to correct McCone's impression that Bissell
+  was seriously considering taking the position. In it he explains his reservations
+  about the wisdom of transferring some activities (including the Office
+  of Scientific Intelligence) to the new directorate as well as his personal
+  reasons for not wanting to accept the position. On page 3, Bissell notes
+  that there was a possibility the previous August of his serving with the
+  CIA or Defense Department in the area of advanced reconnaissance — a reference
+  to the plan, vetoed by DCI Allen Dulles, to have Bissell become the first
+  Director of the NRO. (see 
+Document 13
+).
+As a result of Bissell's decision, McCone turned to Herbert Scoville
+  to serve as the first (and, as it would turn out, only) Deputy Director
+  for Research.
+Document 17
+:  Richard M. Bissell, Jr., Memorandum for: Director of Central Intelligence, Subject: Reorganization of Development Projects Division, March 5, 1962. Secret.
+    Source: CIA Records Search Tool (CREST).
+    This memo, from the recently departed Deputy Director (Plans), to DCI John McCone, focuses on possible changes in the Development Projects Division of the
+    DDP given the decision to establish a Deputy Directorate for Research that would be responsible for satellite and aerial overhead reconnaissance projects.
+Document
+    18
+: [Memorandum for] Dr. Scoville, Subject: Mission and Functions
+    of the DD/R, July 5, 1962. Secret w/attachments: Reconsideration of the
+    Mission and Functions of the Deputy Director (Research); Herbert Scoville
+    Jr. Memorandum for: Executive Director, Subject: Organization HN - , July
+    5, 1962, 11 pp.
+Source: National Archives,
+    CIA 2000 Release
+Richard Bissell was not the only CIA official with doubts about
+  the wisdom of establishing the new directorate. Although McCone had told
+  Scoville that his new directorate would include the Office of Scientific
+  Intelligence and the Technical Services Division (TSD),  which supported
+  the Clandestine Service,  neither transfer was made — due to opposition
+  by Ray Cline (the Deputy Director for Intelligence) and Richard Helms (the
+  Deputy Director for Plans).  This memo explores the rationale for
+  establishing the DDR, the benefits and drawbacks of incorporating OSI and
+  TSD into the new directorate, and the reasons for opposition. It suggests
+  that, at least for the present, it might be wise to halt attempts to bring
+  OSI and TSD into the new directorate — and settle for a directorate responsible
+  for overhead reconnaissance, ELINT, and research and development activities.
+Document
+    19
+: Office of Deputy Director (Research), 1962, 9 pp.
+Source: National Archives,
+    CIA 2000 Release
+This document, produced sometime in the later part of 1962,
+  provides a summary of DDR responsibilities at the time. In the reconnaissance
+  area, the directorate was responsible for the OXCART and IDEALIST (U-2)
+  aerial reconnaissance programs, the CORONA and ARGON satellite programs.
+  The memo specifies the type of ELINT activities that the directorate was
+  responsible for, such as the "technical operation and maintenance of CIA
+  deployed non-agent ELINT systems," without mentioning specific systems,
+  locations, or targets. By this time, the directorate's ELINT efforts included
+  a CIA-operated ground station in Iran to monitor Soviet missile telemetry,
+  funding ground and sea-based Norwegian ELINT collection efforts, and 
+  the Quality ELINT program. 
+Whereas the Office of Special Activities and Office of ELINT had been
+  established by transferring CIA components and activities in other directorates
+  to the DDR, the Office of Research and Development was to be established
+  from scratch (it would actually begin work in 1963).  Its primary
+  purpose was to conduct research into further means of exploiting technology
+  for intelligence collection, although it would become involved in a variety
+  of projects, including behavior modification.
+Document
+    20
+: National Photographic Interpretation Center, CIA, Terminal
+    Range Facilities of the Tyura Tam Missile Test Range, USSR, August 1962.
+    Top Secret, 15 pp.
+Source: National Archives,
+    CIA 2000 Release
+This photographic interpretation report on facilities associated
+  with the Tyuratam missile test range — at the time the only test range
+  from which Soviet ICBMs were tested — was based on three sensitive sources
+  of information. One was communications intelligence, indicated by the codeword
+  DINAR. The other two were the results of CIA reconnaissance projects —
+  pre-May 1960 U-2 photography (indicated by the codeword CHESS), and more
+  recent CORONA imagery (indicated by the codeword RUFF). At the time the
+  resolution of the CORONA imagery, obtained by the KH-4 camera system, was
+  in the range of 10-25 feet. As a result, the CORONA imagery did not always
+  add new information beyond that obtained by the U-2.
+Document
+    21
+: Letter, Herbert Scoville Jr. to John A. McCone, April 25,
+    1963, 3 pp.
+Source: Donation
+After a little over a year as Deputy Director for Research,
+  Scoville turned in his resignation. This letter noted that his efforts
+  to establish the directorate had resulted "in a continuous series of frustrations
+  in which, with a few exceptions, the working components have resisted any
+  transfer of their responsibilities." He was referring, of course, the opposition
+  of the intelligence and operations directorates to the DDR taking control
+  of OSI and TSD.
+He also expressed his frustration with regard to a joint CIA-DoD program —  a reference to the CIA's participation in the National Reconnaissance Program
+  and National Reconnaissance Office. During his year in office, Scoville
+  had been at odds with Joseph Charyk, the first director of the NRO, and
+  then Brockway McMillan, Charyk's successor. Much of the cause was different
+  views as to the authority of the NRO and its director and Scoville's position
+  vis-a-vis the NRO director. When Charyk wanted Scoville to assume the position
+  of deputy NRO director in July 1962, Scoville argued (despite his statement
+  in this letter) that he should have the more independent position of CIA
+  representative to the NRO. Rather than serve as director of Program B (the
+  CIA component of the NRO), he delegated the position to his OSA chief,
+  Brig. Gen. Jack Ledford.   The situation deteriorated even further
+  after McMillan replaced Charyk  in March 1963.
+Contributing to Scoville's unhappiness was his feeling that McCone failed
+  to support him, either in internal CIA disputes or those with the NRO. 
+  Scoville touches obliquely on this point with regard to internal CIA matters,
+  noting that while McCone had always indicated his belief in the original
+  concept of the DDR, "no one is willing to face up the problems of implementing
+  it."
+S&T and the Cold War, 1963-1991
+Document
+22
+: HN 1-36, August 5, 1963, 1 p.
+Source: National Archives,
+RG 263, NN3-263-94-010, Box 5, HS/HC 706, Folder 7
+Scoville's resignation left with Deputy Directorate of Research
+  in disarray, and without a leader. DCI John McCone asked Albert "Bud" Wheelon
+  to take Scoville's place — just as he had done in the spring of 1962 when
+  he left TRW to replace Scoville as head of the Office of Scientific Intelligence.
+  The 33-year old Wheelon at first declined, but offered to speak to Scoville
+  about the problems that led to his departure. 
+Within a day after he briefed McCone and Deputy DCI Marshal Carter,
+  a briefing in which he argued that it was vital for the CIA to play a significant
+  role in overhead reconnaissance, he was again offered the position Scoville
+  vacated. With McCone pledging complete support, which included rechristening
+  the directorate the Deputy Directorate of Science and Technology (to emphasize
+  the concept of the unit managing all CIA scientific efforts), transferring
+  OSI to the directorate, and supporting Wheelon's plan to reassert the CIA
+  role in space reconnaissance, Wheelon accepted.
+The change became effective on August 5, 1963 and was announced by this
+  headquarters notice. In 1965, in line with a change in terminology across
+  the CIA, the Deputy Directorate for Science and Technology became the Directorate
+  of Science and Technology.
+Document 23
+: [Deleted], Executive Staff, Memorandum for: Deputy Director (Intelligence), Subject: Report on DDS&T Meeting in the Auditorium on 6 August, August
+        14, 1963.
+    Source: CREST.
+    This memorandum, to Deputy Director (Intelligence) Ray Cline, reports on the meeting held in the CIA auditorium the day after the formal establishment of
+    the Deputy Directorate for Science and Technology. The bulk of the memo focuses on the remarks of Albert Wheelon, the Deputy Director for Science and
+    Technology, with regard to the new directorate's components — including the Office of Scientific Intelligence (transferred to the new directorate from
+    Cline's despite his opposition), the Office of ELINT, and the Office of Special Activities — responsible for overhead collection projects. 
+Document
+    24
+: Letter from General Bernard Schriever, Commander, Air Force
+    Systems Command to General Curtis E. LeMay, Chief of Staff, USAF, December
+    20, 1963. Confidential, 2 pp.
+Source: Curtis E. LeMay
+    Papers, Library of Congress
+Two key organizational changes Wheelon would make after taking
+  over the directorate was removing the responsibility for CIA satellite
+  reconnaissance efforts from the Office of Special Activities and placing
+  it in a Special Projects Staff (which would become the Office of Special
+  Projects in 1965) and establishing the Foreign Missile and Space Analysis
+  Center (FMSAC) on November 7, 1963.
+FMSAC's mission would be the determination of the trajectories, range,
+  number of warheads, and accuracy of ICBMs as well as the monitoring of
+  the precise movements and missions of satellites and space shots. Its output
+  would be based on the technical analysis of the intelligence provided by
+  CIA and other intelligence systems — including those the CIA had established
+  in Iran and Norway (and would later establish in space) to intercept telemetry.
+  The job of providing overviews of space and missile programs, monitoring
+  deployments, and assessing strategies would be carried out by OSI and other
+  elements of the intelligence community. 
+As this letter demonstrates, FMSAC's creation was of great concern to
+  key figures in the Air Force. By 1963, the Air Force Systems Command's
+  Foreign Technology Division had been conducting technical intelligence
+  analysis of foreign missiles and space systems for a number of years. It
+  was not an area in which Air Force leaders wished to see the CIA intrude.
+  The Air Force opposition proved futile, although the DoD did establish
+  its own organization, the Defense Special Missile and Astronautics Center
+  (DEFSMAC), in the spring of 1964, which competed with FMSAC to some extent,
+  to provide current intelligence on missile and space launches.
+Document
+    25
+: Directorate of Science and Technology, Preliminary Report,
+    U-2 Reconnaissance Mission C015C, Flown 8 January 1965, February 8, 1965.
+    Top Secret, 9 pp.
+Source: National Archives,
+    CIA 2000 Release
+In 1961, the CIA had arranged with the Nationalist Chinese
+  government on Taiwan to provide pilots to fly U-2 missions over mainland
+  China. Those missions began in 1962, flying out of Taoyuan. Among the priority
+  targets were known or suspected Chinese nuclear facilities. In 1964 and
+  1965, Nationalist Chinese pilots made several attempts to fly a U-2 equipped
+  with an infrared scanner over nuclear facilities at Baotou and Lanzhou
+  to determine if they were active. The first two missions, conducted in
+  1964, were aborted. However, mission C015C, targeted on Lanzhou was conducted
+  successfully and led to the determination that the facility was operational.
+5
+Document
+    26
+: Paul Worthman, NRO Staff, Memorandum for the Record: Subject:
+    Telephone Conversations with Representatives of the Itek Corporation, February
+    24, 1965. Top Secret, 2 pp.
+Source: Freedom of
+    Information Act Request
+In the time since Herbert Scoville's departure, the relationship
+  between the NRO and CIA had deteriorated even further. In addition to disputes
+  over the authority of the NRO director and management of the CORONA program,
+  the two entities clashed over CIA work on possible new satellite programs
+  — specifically, a wide-area search system and a high-altitude telemetry
+  intercept system. 
+This memo relates the first news that the NRO staff received that the
+  Itek Corporation was withdrawing from any further work for the CIA to develop
+  a search system — at the time codenamed FULCRUM. The incident that resulted
+  in the decision, not mentioned in the letter, involved the claim by a CIA
+  representative that it was Itek's idea, not the CIA's demand, that the
+  future satellite be able to produce high-quality images 60 degrees to each
+  side of the center of the ground track. 
+The announcement was one that the NRO staff, according to an NRO history,
+  found "hilariously enjoyable."
+6
+  Despite the setback, the Directorate of Science and Technology was able
+  to recruit another contractor to  develop the search system, which
+  was first launched in 1971 under the codename HEXAGON. The program, which
+  continued until 1984, produced images covering many thousands of square
+  miles with a resolution of 1-2 feet.
+Document
+    27
+: Marshall S. Carter, Deputy Director of Central Intelligence,
+    Memorandum, Subject: Meeting with Mr. Vance and Dr. McMillan on Thursday,
+    25 March, March 26, 1965. Secret, 4 pp.
+Source: NRO CORONA-ARGON-LANYARD
+    Collection: 1/A/0096
+This memo provides another example of the hostility in the
+  CIA-NRO relationship during this period of time. Among the issues was the
+  NRO's claim that the CIA was not providing sufficient information concerning
+  the performance of the CORONA payloads that the Air Force required to perform
+  its launch (of the satellite) and recovery (of the film capsule) missions.
+This memo, written by Deputy Director of Central Intelligence Marshall
+  S. Carter, summarizes his meetings with Deputy Secretary of Defense Cyrus
+  Vance and NRO director Brockway McMillan to discuss the issue. In his meetings,
+  Carter denied that the CIA was withholding any information that the Air
+  Force required to perform its mission. He also expressed his view that
+  "there was a clear-cut effort to run CIA out of the satellite business"
+  and turn the program over to the Air Force.
+The conversation deteriorated even further when McMillan suggested that
+  Carter and DCI John McCone were prisoners of their staffs. Carter responded
+  that McMillan should be careful about what he said and that he might learn
+  to make use of his staff.
+Document
+    28
+: CIA, Cost Reduction Program FY 1966 - FY 1967, September
+    1, 1965. Top Secret, 4 pp.
+Source: National Archives,
+    RG 263, Entry 36, HRP 89-2/00443, Box 7, File 713
+The following pages from this 1965 CIA document contain references
+  to two of the ELINT efforts being conducted by the Directorate of Science
+  and Technology — electronic monitoring of the Soviet space effort and funding
+  of a ELINT boat operation in the Barents Sea — as well as the deployment
+  of reconnaissance aircraft to the Far East, and the establishment the Office
+  of Special Projects in the DS&T.
+The ELINT boat operation was actually conducted by Norway, with the
+  CIA providing the funds. The reconnaissance aircraft that the CIA was hoping
+  to deploy to the Far East were three OXCART or A-12 planes. Development
+  began in 1958 as the intended follow-on to the U-2. The planes would not
+  actually be deployed until May 1967.
+Creation of the Office of Special Projects built on the Special Projects
+  Staff, established in the fall of 1963 by Albert Wheelon to exclusively
+  handle CIA satellite reconnaissance operations. Its upgrading to office
+  status in the fall of 1965, followed the conclusion of a new agreement
+  between the CIA and DoD concerning the responsibilities of the CIA, the
+  NRO, and the NRO director in the satellite reconnaissance field. That agreement
+  laid the groundwork for the CIA to continue and extend its development
+  of new imagery and signals intelligence satellite systems.
+Document 29
+:
+ Robert J. Kohler, R. James Woolsey, and [Deleted], "Honoring the Founder of CIA's Directorate of Science and Technology,"        
+Studies in Intelligence 
+39, 1 (Spring 1995).
+    Classification Not Available.
+    Source: CIA Freedom of Information Act Release.
+    This 
+Studies in Intelligence 
+article was authored by a former director of the Office of Development and Engineering of the Directorate of Science and
+    Technology, former DCI James Woolsey, and a third author whose identity has been redacted. It contains each author's individual remarks about Wheelon's
+    contribution to CIA science and technology activities — made at the December 13, 1994 ceremony at which Wheelon was given the R.V. Jones award. 
+Document 30
+:
+ Albert D. Wheelon, "And the Truth Shall Keep You Free: Recollections by the First Deputy Director for Science and Technology,        
+Studies in Intelligence
+ 39, 1 (Spring 1995). Secret.
+    Source: CIA Freedom of Information Act Release.
+    This article, by the first director of the Directorate of Science and Technology, reviews the origins of the directorate, and key aspects of his tenure —    including the creation of the Foreign Missile and Space Analysis Center, the operation of overhead reconnaissance systems (including the U-2 and
+    KH-4/CORONA) and research and development work on future systems (the KH-9 and KH-11). 
+Document 31
+:
+        [Deleted], "Charting a Technical Revolution: An Interview with Former DDS&T Albert Wheelon,
+ Studies in Intelligence
+, 45, 2 (Summer 2001).
+        Secret.
+    Source: CIA Freedom of Information Act Release.
+    This article reports on a 1998 interview with Albert Wheelon. It covers his first contact with the CIA, the CIA-TRW connection, his joining
+    the CIA as head of the Office of Scientific Intelligence, his role in the Cuban missile crisis, the development of new overhead reconnaissance systems, his observations
+    on DCI John McCone, cooperation between the government and private sector, and his reflections on the CIA.
+Document 32
+:
+        Central Intelligence Agency, 
+Highlights in the History of the Directorate of Science and Technology
+, circa late 1966. Top Secret.
+    Source: CREST.
+    This short, significantly redacted, history of the Directorate of Science and Technology through late 1966 discusses organization, personnel, and funding of
+    programs, as well as offices and activities — particularly the OXCART and CORONA reconnaissance systems audio surveillance, scientific intelligence and
+    foreign missile and space analysis — plus committees and panels.
+Document 33
+:
+  Albert D. Wheelon, Memorandum for: Director of Central Intelligence, Subject: Prospectus for Science and Technology in CIA, September 1966. Top Secret.
+  Source; CIA Freedom of Information Act Release.
+    Wheelon wrote this document during his last month as Deputy Director for Science and Technology in response to a request from DCI Richard Helms. It
+    focuses on twelve different areas of S&T activity (one of which is deleted from the version released).
+Document
+    34
+: Memorandum for: [deleted], Subject: [deleted] Views on
+    Trained Cats [deleted] for [deleted] Use, March 1967, 2 pp.
+Source: Donation
+In a project known as "Acoustic Kitty" the Directorate of Science
+  and Technology sought to train a surgically altered cat, wired with transmitting
+  and control devices, to become a mobile, eavesdropping platform. In its
+  first test, the cat was run over by a taxi. According to Victor Marchetti:
+they slit the cat open, put batteries in him, wired him
+    up. The tail was used as an antenna. They made a monstrosity. They tested
+    him and tested him. They found he would walk off the job when he got hungry,
+    so they put another wire in to override that. Finally, they're ready. They
+    took it out to a park bench and said "Listen to those two guys. Don't listen
+    to anything else — not the birds, no cat or dog — just those two guys!"
+    ... They put him out of the van, and a taxi comes and runs him over. There
+    they were, sitting in the van with all those dials, and the cat was dead!
+7
+ This heavily redacted memo appears to express the view that cats can be
+  altered and trained to perform certain tasks. At the same time, it notes
+  that "the environment and security factors in using this technique in a
+  real foreign situation force us to conclude that, for our [intelligence]
+  purposes, it would not be practical."
+Document 35
+: National Photographic Interpretation Center, Black Shield
+    Mission X-001, May 31, 1967. Secret, 30 pp.
+Source: National Archives,
+    CIA 2000 Release
+In 1958, the CIA and Lockheed began work on a follow on to
+  the U-2. The result was the A-12 aircraft, also known by the program codename
+  — OXCART. The A-12, a far more complicated plane than the U-2, and which
+  required  much greater support, was capable of flying at Mach 3.1
+  (over 2,100 mph) at altitudes of 100,000 feet.
+By May 1967, the DS&T's Office of Special Activities had been trying
+  for several years  to obtain approval to use the plane on operational
+  missions — an objective made all the more urgent by proposals to terminate
+  the program in favor of  the  A-12  modifications (the SR-71s)
+  operated by the Air Force. Proposed flights over Cuba, dubbed SKYLARK,
+  were not approved. Another proposal to fly the plane toward the Soviet
+  border to photograph and stimulate the Flat Twin radar at Tallinn, while
+  a U-2 collected electronic intelligence about the radar, was also rejected.
+However, concern about whether surface-to-surface missiles, SCUDs, had
+  been deployed to North Vietnam led President Lyndon Johnson, in mid-May
+  1967 to approve the deployment of a contingent of A-12s to Kadena AB in
+  Japan and the commencement of a flight program. The first of those flights,
+  designated BLACK SHIELD, took place on May 31, 1967. It produced imagery
+  of surface-to-air missile sites, air facilities, naval activities and ports,
+  and other military targets, but produced no data indicating the presence
+  of SCUDs.
+Document
+    36
+: [Leslie Dirks], Chief Design and Analysis Division, Memorandum
+    for: Director of Special Projects, Subject: Briefing to General Maxwell
+    Taylor on Photographic Satellite Support to Middle East Crisis, 31 August
+    1967, September 8, 1967,  Top Secret, 2 pp. 
+Source: NRO CORONA-ARGON-LANYARD
+    Collection
+The Six Day War of June 1967 had demonstrated the limitations
+  of U.S. photographic reconnaissance satellite systems — which at the time
+  included the CORONA system with ten-foot resolution and the GAMBIT system
+  with 18-inch resolution. Although both types of satellites were in orbit
+  during the crisis, neither was able to provide sufficiently timely, clear
+  images to aid decision-makers. 
+This briefing by Leslie Dirks, chief of design and analysis in the DS&T's
+  Office of Special Projects, to the chairman of the President's Foreign
+  Intelligence Advisory Board  focused on problems with maintaining
+  a standby capability (since at the time the U.S. did not continually have
+  a reconnaissance satellite in space), and CORONA's limited resolution.
+  The inevitable lag between acquisition of an image and its return to earth
+  and transformation into intelligence was undoubtedly apparent to Taylor.
+The need for a better means of obtaining satellite images in the case
+  of crisis had been apparent to Dirks for many years. It would be another
+  decade before the U.S. would have a satellite system capable of providing
+  real-time imagery — an event that would occur during Dirks' tenure as Deputy
+  Director for Science and Technology.
+Document
+    37
+: Director, Joint Staff, Memorandum for the Chairman, Joint
+    Chiefs of Staff, Subject: Requirement for a Second BLACK SHIELD Mission
+    over North Korea, January 29, 1968. Top Secret, 2 pp.
+Source: Freedom of
+    Information Act Request
+Some BLACK SHIELD missions overflew North Korea. The first
+  North Korean overflight occurred on January 26, 1968, in response to the
+  seizure of the Pueblo three days earlier. In addition, at least two missions
+  obtained imagery of targets in southern China — images obtained as the
+  planes flew over the northern portion of Vietnam. 
+This memo specifies additional information in three categories (jet
+  capable airfields, naval order of battle, and ground force activity) that
+  the Pacific Command and Defense Intelligence Agency wished to see provided
+  by a second mission over North Korea. The Pacific Command, in particular,
+  "urgently requested" that another mission would be flown. That mission
+  was flown on February 9, followed by another on May 8.
+That mission would mark the end of the OXCART program, as a result of
+  the decision by Secretary of Defense Clark Clifford and President Johnson
+  to rely solely on the Air Force SR-71 fleet to provide a Mach 3 overflight
+  capability. As a result, the DS&T's Office of Special Activities was
+  left with only one major program — the U-2. 
+Document 38
+:
+        Carl E. Duckett, Deputy Director for Science and Technology, Central Intelligence Agency, Memorandum for: Deputy to the DCI for National Intelligence
+        Programs Evaluation, Subject: The Foreign Missile and Space Analysis Center, 1968. Secret.
+    Source: CREST.
+    This short memo on FMSAC provides information on its origins and evolution (including its absorbing the Office of Scientific Intelligence's Ballistic and
+    Space Division, and its role in providing intelligence to NASA on Soviet space efforts), its relationship with other intelligence components, production, and
+    future responsibilities.
+Document 39
+:
+    Inspector General, Central Intelligence Agency, 
+Inspector General's Survey of the Foreign Missile and Space Analysis Center
+, December 1968.
+    Secret.
+  Source: CIA Freedom of Information Act Release.
+    The inspector general's report concluded that the "product of FMSAC enjoys a high reputation,"
+morale had gone from "good to excellent," but that staffing was "thin" and management "loose" — although filling the position of FMSAC deputy director would
+    probably "provide a needed corrective." The inspector general also made a number of suggestions with regard to office structure.
+Document 40
+:
+   Central Intelligence Agency, 
+Office of Special Activities, 1954-1968 Chronology
+, n.d. Top Secret. 
+  Source: CIA Freedom of Information Act Release.
+    This chronology covers with the beginning of CIA involvement in overhead reconnaissance activities — the origins of CIA involvement in development of
+    the U-2 — as well as various aspects of U-2 operations, development of the OXCART, and administrative matters concerning the NRO. 
+Document
+    41
+: CIA, Memorandum, Subject: Response to "Lines of Questioning
+    for Mr. Helms," US Senate Committee on Foreign Relations, Staff Memorandum,
+    23 April 1969, May 7, 1969, 14 pp.
+Source: National Archives,
+    CIA 1998 Release, RG 263, Box 182, Folder 7
+In mid-March 1969, President Richard Nixon announced that he
+  was scrapping the Johnson administration's plans to build the Sentinel
+  ABM system, which was designed to defend selected population centers. In
+  its place, the president announced plans for the Safeguard system, which
+  would seek to protect U.S. ICBM forces from being destroyed in a first
+  strike.
+The new administration, and particularly Secretary of Defense Melvin
+  Laird, argued that the Soviets were seeking to attain a first strike capability
+  by placing three independently targetable warheads on the giant SS-9. A
+  projected SS-9 force of 500 missiles would give the Soviets, at least theoretically,
+  the capability to destroy a very high percentage of the U.S. ICBM force.
+Whether the SS-9 was truly MIRVed, how accurate its warheads were, as
+  well as the yield of its warheads were all key factors in determining the
+  actual SS-9 threat — and it was FMSAC's responsibility to provide answers
+  (or approximate answers) to those questions. Its work was reflected in
+  the answers to questions 1, 6, and 9 in the "SS-9" section (pp. 1-3) and
+  in all six answers to the questions in the "Status of MRV and MIRV Programs"
+  section (p.7). Throughout the debate over Safeguard, which resulted in
+  a 51-50 Senate vote (with Vice President Spiro Agnew casting the deciding
+  vote) in favor of deployment, the CIA, in opposition to the Defense Department,
+  maintained that the SS-9 would not be deployed in MIRVed form — an estimate
+  that proved correct.
+Document 42
+: [Deleted], 
+The Directorate for Science and Technology, 1962-1970
+, June 1972. Top Secret.
+    Source: CREST.
+    This detailed (over 300-page) history of the directorate concerns its origins, the Wheelon and Duckett eras, directorate relations with the National
+    Reconnaissance Office and its role in satellite reconnaissance.
+Document
+    43
+: President's Foreign Intelligence Advisory Board, Memorandum
+    for President's File, Subject: President's Foreign Intelligence Advisory
+    Board Meeting with the President, June 4, 1971, June 4, 1971. Top Secret,
+    8 pp.
+Source: National Archives,
+    Nixon Presidential Materials, President's Office Files
+By 1971, Leslie Dirks and others in the Directorate of Science
+  and Technology believed that the means was at hand to develop and deploy
+  a real-time imagery satellite — one that would not record its images on
+  film, to be returned days or weeks after the images had been obtained,
+  but would convert light levels in a scene into numbers that would be relayed
+  back to a ground station where they would be transformed into images. Such
+  a method would allow U.S. photo interpreters to observe what the satellite
+  saw as soon as saw it. 
+The Air Force element of the NRO had a proposal for a less revolutionary
+  system. Called Film-Readout GAMBIT (FROG), this proposal envisioned a modified
+  GAMBIT satellite whose film-based images would be "read-out" when the satellite
+  was over a U.S. ground station — which could be hours or weeks after an
+  image was acquired. 
+At this PFIAB meeting, Edwin Land, still a key adviser to the Intelligence
+  Community, suggested to President Nixon that the CIA's more radical approach
+  promised to produce a "quantum technological advance" in contrast to the
+  Air Force's "cautious" choice, and that such a system could be developed
+  in three years, with presidential support.  Nixon agreed to take a
+  "hard look" at the matter.
+Document 44
+: Frederic C.E. Oder, [Deleted], and Paul E. Worthman, 
+The Hexagon Story
+, 1988. Secret.
+    Source: www.nro.gov.
+    Written for the NRO, this history of the KH-9/HEXAGON program commences with early bureaucratic battles over responsibility for space operations, and
+    discusses the early days of the reconnaissance program, the battle over proposed CORONA follow-ons (FULCRUM and the S-2), the CIA's role in space
+    reconnaissance, and the development and operation of the HEXAGON system. 
+Document
+    45
+: Inspector General, CIA, Inspector General's Survey of the
+    Office of Research and Development, October 1972. Secret, 89 pp.
+Source: National Archives,
+    CIA 1998 Release: RG 263, Box 66, Folder 2
+In July 1972, Robert Chapman, who had served as director of
+  the ORD, was replaced by Sayre Stevens. According to this report, it was
+  a change that was overdue.
+The report noted that "arrangements for overseeing the work of ORD seemed
+  to us to be very loose and unstructured ... many of the tasks that occupy
+  [staff members] are self-generated as a consequence of a personal interest
+  in a particular subject." As a result, "many [technical officers] have
+  been allowed to drift into fields of activity ... which offer little or
+  no prospect of benefitting the Agency."
+The report also noted that ORD project officers were isolated from the
+  rest of the CIA and had little familiarity with the work of the offices
+  whose missions their work was intended to support. Under the new administration
+  ORD would seek to identify specific needs of analysts and operators and
+  develop means of satisfying those needs. Among those efforts was Project
+  UPSTREET, which employed earth resources satellite photography to help
+  analysts improve their estimates of Soviet grain crop yields.
+Document
+    46
+: Memorandum for: Deputy Director for Science and Technology,
+    Subject: TSD Support to Other Agencies, May 8, 1973, 10 pp.
+Source: Freedom of
+    Information Act Request
+In April 1973, Director of Central Intelligence James Schlesinger
+  decreed that the Technical Services Division of the operations directorate
+  would be transferred to the Directorate of Science and Technology, where
+  it would become the Office of Technical Services (OTS). The primary focus
+  of the office was technical support of CIA case officers in the field —
+  including development of exotic weapons and eavesdropping devices and production
+  of forged documents. 
+TSD had become an object of concern in this period because of its technical
+  assistance to the efforts of Howard Hunt and G. Gordon Liddy to burgle
+  the office of Daniel Ellsberg's psychiatrist as well as to dig up derogatory
+  information on Edward Kennedy.
+8
+ As part
+  of an overall examination of the possible CIA activities outside its charter,
+  known as the "Family Jewels," Schlesinger asked agency components to prepare
+  relevant reports.
+This memo focuses on TSD support to other government agencies. Support
+  included provision of forged documentation, although not without approval
+  at non-TSD officers. Entities receiving TSD support of some kind included
+  the Defense Department, Secret Service, FBI, Bureau of Narcotics and Dangerous
+  Drugs, the Immigration and Naturalization Service, the Secret Service,
+  and the Postal Service. 
+Document
+    47
+: Cable, For [Deleted], From Brig. Gen. Bevan [Director,
+    Office of Special Activities], June 26, 1974. Secret, 3 pp.
+Source: National Archives,
+    CIA 2000 Release
+In 1969, NRO director John McLucas raised the possibility of
+  ending the CIA's role in the U-2 program, along with the NRO's role in
+  SR-71 operations — with the responsibilities being turned over to the Strategic
+  Air Command. Over the next several years, President Nixon and the NSC's
+  40 Committee decided that the CIA should continue conducting U-2 overflights.
+  But, in June 1973, DCI James Schlesinger concluded that the CIA's role
+  in the U-2 program could safely be terminated. The 40 Committee decreed
+  that the CIA role should conclude on August 1, 1974. 
+This cable announced that the Republic of China had agreed to the end
+  of the TACKLE program, the component of the IDEALIST (U-2) program (JACKSON
+  was the codename for British participation in the U-2 program) that involved
+  the use of Nationalist Chinese pilots in operations directed against the
+  PRC. With the OXCART program having been terminated in 1968 and the end
+  of CIA involvement in the U-2 program, the Office of Special Activities
+  would be disbanded in early 1975. 
+Document
+    48
+: Daniel Stillman, Los Alamos Scientific Laboratory, An Analysis
+    of a Remote-Viewing Experiment of URDF-3, December 4, 1975. Confidential,
+    34 pp.
+Source: Freedom of 
+    Information Act Request
+During the later part of the tenure of Carl Duckett, who had
+  succeeded Albert Wheelon in 1966 as Deputy Director for Science and Technology,
+  two components of the DS&T — ORD and OTS — funded "remote viewing"
+  experiments conducted by the Stanford Research Institute (SRI). The remote
+  viewers, operating under less than strictly controlled conditions, were
+  asked to determine details about targets of interest in the Soviet Union
+  and other nations.
+This analysis, conducted by a member of the Los Alamos laboratory, focused
+  on one particular experiment, in which the remote-viewer, Pat Price, was
+  asked to provide details on the facility that the CIA designated URDF-3
+  (for Unidentified Research and Development Facility-3). The Air Force referred
+  to the same site as a PNUTS - Possible Nuclear Underground Test Site.
+The evaluator compared the remote viewers reports with what has shown
+  by satellite photography of the site. He noted that in addition to one
+  object, a gantry crane, that was present at the site and "seen" by the
+  remote viewer, there were another nine objects seen by the remote viewer
+  but not actually present. His overall judgement was that "the validity
+  of Price's remote viewing of UDRF-3 appears to be a failure."
+After the fall of the Soviet Union, American scientists would tour the
+  facility and discover that research at URDF-3 was focused on development
+  of a nuclear-powered rocket for space flight.
+9
+Document
+    49
+: E.H. Knoche, Deputy Director of Central Intelligence, Memorandum
+    for the Record, Subject: Meeting with National Security Advisor Brzezinski,
+    December 30, 1976, 3 pp.
+Source: Freedom of
+    Information Act Request
+Edwin Land's advice to President Nixon (see 
+Document
+  43
+) was not initially successfully in obtaining approval to proceed
+  with the CIA's real-time satellite program. But some key scientists, Sidney
+  Drell and Richard Garwin, were able to convince national security advisor
+  Henry Kissinger of the value of the CIA proposal. As a result, Nixon overruled
+  his Secretary of Defense Melvin Laird, who had initially selected the FROG
+  program over the CIA program.
+On December 19, 1976, the first launch in the KENNAN program — as the
+  CIA program to develop a real-time imagery satellite had been designated
+  — took place. It carried the KH-11 optical system. When, Deputy DCI Knoche,
+  John McMahon, the Associate Deputy to the DCI for the Intelligence Community,
+  and others briefed national security advisor-designate Zbigniew Brzezinski
+  on intelligence matters in late December 1976, the first KH-11 was undergoing
+  checkout. As noted in paragraph 3, McMahon described the new system at
+  some length and suggested that it could alter the government's approach
+  to crisis-management. Just over a month later, on January 21, Knoche, showed
+  President Jimmy Carter some of the first images taken by the new satellite
+  — images of his inauguration.
+Document 50
+:
+     Antonio Mendez, "A Classic Case of Deception," 
+Studies in Intelligence
+, Winter 1999/2000. Unclassified.
+    Source: www.cia.gov.
+    This article, by the former head of the DS&T's Office of Technical Service's Graphics and Authentication Division, discusses the role of the division
+    in assisting the CIA's effort to exfiltrate the six American members of the U.S. Embassy who had taken refuge in the homes of the Canadian ambassador and
+    chief immigration officer after the Iranian seizure of the U.S. Embassy in November 1979. This was the episode featured in the film ARGO.
+Document 51
+:
+ Inspector General, Central Intelligence Agency,        
+Inspection Report of Office of Technical Service, Directorate of Science and Technology, Volume I
+, November 1980. Secret.
+    Source: CIA Freedom of Information Act Release.
+    This 1980 inspection report focuses on the component of the directorate whose primary focus has been supporting the clandestine collection operations
+    carried out by the Directorate of Operations (formerly Plans). It notes that this was the fifth in a series of inspections. It provides an overview of the office,
+    includes a heavily-redacted report on the office's structure, and includes a number of general findings. Discussion of more sensitive aspects of the OTS
+    activities is contained in the unreleased volume II. 
+Document
+    52
+: National Security Council, Memorandum for Robert C. McFarlane,
+    From: Oliver L. North, Constantine Menges, Subject: Special Activities
+    in Nicaragua, March 2, 1984. Top Secret, 2 pp.
+Source: Iran-Contra
+    Hearings
+This NSC memo provides the strategic rationale for U.S. mining
+  of Nicaraguan harbors during the Reagan administration. Between January
+  7 and March 30, 1984 a total of 39 mines were planted. By early 1984, ten
+  commercial ships had been damaged by the mines, including a Mexican oil
+  tanker carrying 75,000 barrels of fuel. The mining operation cost the Nicaraguans
+  more than $10 million, with cotton and coffee piling up on the docks, while
+  imports and exports had to be trucked to and from ports in neighboring
+  Central American countries.
+The Office of Technical Service was responsible for establishing the
+  technical requirements for the demolitions. Its Weapons Group produced
+  the mine casings from sewer pipes, while the fuses were apparently provided
+  by the Naval Surface Warfare Center. The mines were designed to disable
+  the ships rather than sink them. 
+Document
+    53
+: Organization chart, mission and functions of the Office
+    of Special Projects, July 21, 1988. Confidential, 2 pp.
+Source: Freedom of
+    Information Act Request
+In 1973, the Office of Special Projects, established in 1965
+  to manage CIA satellite reconnaissance operations became the Office of
+  Development and Engineering (OD&E), with a mission that extended beyond
+  satellite development. In 1987, Deputy Director for Science and Technology
+  Evan Hineman established a new Special Projects Staff, which soon became
+  a new Office for Special Projects. This version of the office was concerned
+  not with satellites, but with emplaced sensors — sensors that could be
+  placed in a fixed location to collect signals intelligence or measurement
+  and signature intelligence (MASINT) about a specific target.  Such
+  sensors had been used to monitor Chinese missile tests, Soviet laser activity,
+  military movements, and foreign nuclear programs. The office was established
+  to bring together scientists from the DS&T's Office of SIGINT Operations,
+  who designed such systems, with operators from the Directorate of Operations,
+  who were responsible for transporting the devices to their clandestine
+  locations and installing them.
+Document
+    54
+: Letter, E.C. Aldridge, Director, National Reconnaissance
+    Office,  to Senator David L. Boren, Chairman, Senate Select Committee
+    on Intelligence, November 21, 1988. Secret, 3 pp.
+Source: National Reconnaissance
+    Office
+By 1988, the basic agreement between the DoD and CIA concerning
+  the operation of the National Reconnaissance Office had been in effect
+  for 23 years. But the end of the Cold War, declining budgets, and the expansion
+  of NRO's customer base — due to the ability of modern systems to provide
+  real-time tactical intelligence as well as their ability to support disaster
+  relief and other domestic requirements — made it apparent that some changes
+  need to be made in N RO operations and structure. 
+In this letter, NRO director Aldridge provides the SSCI chairman Boren
+  with an overview of the changes he was planning to make. Notable is his
+  statement that Programs A, B, and C would continue as "distinct elements"
+  of the NRO. Thus, the CIA's Program B (the Office of Development and Engineering)
+  would continue to be responsible for the development and operation of selected
+  imagery and SIGINT satellite systems.  
+After the Cold War, 1991-2001
+Document
+    55
+: DCI Task Force on the National Reconnaissance Office, Final
+    Report, April 1992. Secret. Section IV, 6 pp.
+Source: Freedom of
+    Information Act Request
+This task force headed by former Lockheed CEO Robert Fuhrman
+  and a number of former and then-current intelligence officials was asked
+  by DCI Robert Gates to examine a number of issues concerning the management
+  and structure of the NRO. Among its recommendations was one that would
+  have a profound impact on the DS&T's role in satellite reconnaissance.
+The task force concluded that the thirty-year old arrangement of separate
+  Air Force, CIA, and Navy components to the NRO "leads to counterproductive
+  competition" and that it would preferable to restructure the NRO  with
+  separate directorates for imagery and SIGINT. Their recommendation would
+  be briefed to Gates and Secretary of Defense Dick Cheney in late March,
+  and President Bush would sign NSD-67 on March 30. The directive authorized
+  the recommended restructuring of the NRO.
+That restructuring would be effected in 1993. As a result, satellite
+  programs such as the KH-11 and advanced KH-11 imagery satellites and the
+  ORION signals intelligence satellite, were no longer CIA-NRO programs but
+  NRO programs — although OD&E personnel continued to work on such programs.
+  Similarly, satellite ground stations were no longer CIA stations, but belonged
+  to the NRO.
+Document 56a
+: DCI, Terms of Reference for a National Imagery Agency,
+    1995, 5 pp.
+Source: Freedom of
+    Information Act Request
+Document
+56b
+:CIA, Press Release, National Imagery and Mapping Agency
+Proposed to Congress, November 28, 1995, 2 pp.
+Source: CIA Public
+Affairs
+In April 1995, then DCI-designate John Deutch told the Senate
+  Select Committee on Intelligence that, if confirmed, he would "move immediately
+  to consolidate the management of all imagery collection, analysis, and
+  distribution." He argued that "both effectiveness and economy can be improved
+  by managing imagery in a manner similar to the National Security Agency's
+  organization for signals intelligence."
+After his confirmation, Deutch established a National Imagery Agency
+  (NIA) steering group, which in turn chartered an NIA task force. The terms
+  of reference for the task force included among its key assumptions that
+  "at a minimum, the NIA will be formed from the Central Imagery Office,
+  the Defense Mapping Agency, National Photographic Interpretation Center,
+  and  portions of the Defense Intelligence Agency and the Services."
+Deutch's plan was opposed by several former CIA officials, who felt
+  that the new imagery agency would be placed within the Department of Defense
+  — not only abrogating DCI prerogatives but quite possibly resulting in
+  a de-emphasis on national intelligence in order to provide support to military
+  activities (both operations and exercises). Objections and questions were
+  also raised by the House Permanent Select Committee on Intelligence and
+  Sen. Robert Kerrey (D-NE), the vice chairman of the Senate Select Committee
+  on Intelligence. 
+Despite reservations and objections, Deutch and Secretary of Defense
+  William Perry informed Congress in late November 1995 of their plans to
+  establish a National Imagery and Mapping Agency (NIMA) as a combat support
+  agency within the Department of Defense on October 1, 1996. NIMA came into
+  being on the date planned, absorbing the DS&T's NPIC as well as the
+  Directorate of Intelligence's Office of Imagery Analysis, the Central Imagery
+  Office, the Defense Mapping Agency, the Air Force's Defense Dissemination
+  Program Office (which disseminated satellite imagery), the imagery exploitation
+  activities of the NRO ,  Defense Airborne Reconnaissance Office, and
+  Defense Intelligence Agency. It did not assume responsibility for the imagery
+  exploitation activities of the military service or unified intelligence
+  organizations.
+Document 57
+:
+ Michael D. Mumford, Andrew M. Rose, and David A. Goslin, The American Institutes for Research,        
+An Evaluation of Remote Viewing: Research and Applications
+, September 29, 1995. Unclassified.
+    Source: 
+www.lfr.org/lfr/cs/library/airreport.pdf 
+    A number of intelligence agencies took part in "remote viewing" efforts in the 1970s and beyond - including the CIA, Air Force Technical Applications
+    Center, Defense Intelligence Agency, and Army intelligence. Congressional supporters of the effort, seeking to find a home for the program in the
+    mid-1990s, asked the CIA to consider assuming responsibility for the effort (which it had previously abandoned). This report was commissioned by the
+    agency, and its contents contributed to the decision not to continue the effort.
+Document
+    58
+: Restructuring the DS&T, 1996, 1 p.
+Source: CIA Public
+    Affairs
+In September 1995, Ruth David replaced James Hirsch as Deputy
+  Director for Science and Technology. David had been director of Sandia
+  Laboratory's Strategic Thrust in Advanced Information Technologies. Not
+  surprisingly, her primary emphasis as DDS&T was in the information
+  technology area — an area that a 1995 blue ribbon review panel had recommended
+  be a key area of DS&T activity.
+In order to enhance the DS&T's role, David established three new
+  offices — as described and explained in this CIA summary — the Clandestine
+  Information Technology Office, the Office of Advanced Analytical Tools,
+  and the Office of Advanced Projects. At the same, time the Office of Research
+  and Development was abolished. David's plan for funding the new office,
+  by cutting the budget of the DS&T's Foreign Broadcast Information Service,
+  as well as her disestablishment of ORD proved to be extremely controversial.
+Document 59
+:
+        [Deleted], "Taking Stock: An Interview with Dr. Ruth David, CIA's Deputy Director for Science and Technology," 
+Studies in Intelligence
+, 40, 3
+        (Fall 1996). Secret.
+    Source: CIA Freedom of Information Act Release.
+    Dr. Ruth David served as the CIA's Deputy Director for Science and Technology for three years, beginning in September 1995. This interview, conducted a
+    year into her tenure, reflects her concern with the importance of information technology and agility. 
+Document
+    60
+: CIA, D&ST Realignment Overview, 2000, 4 pp.
+Source: CIA Public
+    Affairs
+In January 2000, Gary L. Smith, the Deputy Director for Science
+  and Technology suddenly resigned — according to CIA statements because
+  he wished to resume his retirement. Smith had become DDS&T only nine
+  months earlier, after retiring from the Johns Hopkins University Applied
+  Physics Laboratory. DCI George Tenet moved quickly to appoint a new deputy
+  director, selecting Smith's deputy, Joanne Isham, who had also served as
+  the deputy to Smith's predecessor — Ruth David. 
+At the time there was speculation as to whether the DS&T had a future.
+  In the fall of 2000, Isham announced a number of organizational initiatives
+  intended to enhance the DS&T's performance and relevance to the Tenet's
+  objectives for the intelligence community. This unclassified overview explains
+  the changes and their intent.
+Most of the DS&T components remained in place — the Office of Technical
+  Services, the Office of Technical Collection, the Office of Development
+  and Engineering, and the Foreign Broadcast Information Service. But, the
+  Office of Advanced Analytical Tools (AAT), established under Ruth David's
+  tenure was replaced by the Office of Advanced Information Technology (AIT),
+  which had a somewhat broader mandate (AIT would be disestablished in 2001,
+  with some of its functions being transferred to the CIA's new chief information
+  officer). In addition, an Office of Advanced Technologies and Programs
+  was established to replace, at least in part, the Office of Research and
+  Development that David had abolished. The new alignment also eliminated
+  the Clandestine Information Technology Office (CITO), which had been a
+  joint activity of the DS&T and the Directorate of Operations. Some
+  of CITO's activities were transferred back to the Office of Technical Collection,
+  while others were transferred to a newly created Information Operations
+  Center in the Directorate of Operations.
+Document 61
+: Central Intelligence Agency, "CIA Opens Center on Climate Change and National Security," September 25, 2009, www.cia.gov, Unclassified.
+Source: www.cia.gov.
+Document 61a
+: Susan Viscuso, Information and Privacy Coordinator, to Jeffrey T. Richelson, September 13, 2011. Unclassified.
+Document 61b
+: Scott Koch, Acting Information and Privacy Coordinator, to Jeffrey T. Richelson, February 12, 2012. Unclassified.
+Document 61c
+: Michele Meeks, Information and Privacy Coordinator, to Jeffrey T. Richelson, February 1, 2013. Unclassified.
+Document 61d
+: Michele Meeks, Information and Privacy Coordinator, to Jeffrey T. Richelson, June 4, 2013. Unclassified.
+This press release announced the creation a jointly manned DS&T and Directorate of Intelligence office to examine the national security impacts of climate change — including desertification, rising sea levels, population shifts, and increased competition for natural resources. The release stated the Center would support U.S. policymakers in negotiating and implementing international agreements on environmental issues. The center was closed in 2012, yet the CIA has denied FOIA requests for its products and claimed no documents could be found concerning its dissolution despite "thorough and diligent" searches.
+Document 62
+:
+        Central Intelligence Agency,
+ Devotion to Duty: Responding to the Terrorist Attacks of September 11
+th
+, December 2010. Unclassified.
+    Source: www.cia.gov.
+    This CIA brochure provided some details on the activities of CIA components in the years since the September 11, 2001 attacks. It notes the role of a six-man team
+    from the directorate in locating Improvised Explosive Devices in Afghanistan.
+Document 63
+:
+     Organization Chart, Central Intelligence Agency, 2011. Unclassified.
+    Source: www.cia.gov.
+While the most recent CIA organizational chart on the CIA website does not reflect the disestablishment of the Office of Development and Engineering (
+Document 64
+), it does reflect the creation of a number of new directorate offices established post-September 11, 2011 — including the offices of
+    Global Access, Special Activities, Special Communications Programs, Systems Engineering and Analysis, and Technical Readiness.
+Document 64
+:
+    Bruce Carlson, Director, National Reconnaissance Office, Office of the Director Announcement 2011-49, "Organizational Announcement," December 19, 2011.
+    Confidential/Noforn.
+    Source: NRO Freedom of Information Act Release.
+    This organizational announcement refers to the dissolution of the DS&T's Office of Development Engineering — established almost forty years earlier (in
+    1973) as a successor to the directorate's Office of Special Projects, whose primary function was the development of satellite reconnaissance systems. 
+Sources and further reading
+Richard M. Bissell Jr., with Jonathan E. Lewis and Frances T. Pudlo,
+Reflections
+    of a Cold Warrior
+ (New Haven: Yale University Press, 1996)
+Paul C. Crickmore, 
+Lockheed SR-71: The Secret Missions Exposed
+  (Oxford: Osprey, 1997)
+Dwayne A. Day, John Logsdon, and Brian Latell, 
+Eye in the Sky: The
+  Story of the CORONA Spy Satellites
+ (Washington, D.C.: Smithsonian,
+  1998)
+John Marks, 
+The Search for the "Manchurian Candidate"
+ (New York:
+  Norton, 1988)
+Antonio J. Mendez, 
+The Master of Disguise: My Secret Life in the
+  CIA
+ (New York: Morrow, 1999)
+Gregory W. Pedlow and Donald E. Welzenbach, 
+The CIA and the U-2 Program,
+  1954-1974
+ (Washington, D.C.: Center for the Study of Intelligence,
+  1998)
+Chris Pocock, 
+The U-2 Spyplane: Toward the Unknown: A New History
+  of the Early Years
+ (Atglen, Pa.: Schiffer, 2000)
+John Prados, 
+The Soviet Estimate: U.S. Intelligence Analysis and
+  Russian Military Strength
+ (New York: Dial Press, 1982)
+Jeffrey T. Richelson, 
+The Wizards of Langley: Inside the CIA's Directorate
+  of Science and Technology
+ (Boulder, Co: Westview, 2001)
+Robert Wallace and Keith Melton with Henry Robert Schlesinger, 
+Spycraft: The Secret History of the CIA's Spytechs from Communism to Al-Qaeda
+ (New York: Dutton, 2008).
+NOTES
+[1]
+ Jeffrey T. Richelson, 
+The Wizards of Langley: Inside the CIA's Directorate of Science and Technology 
+            (Boulder, Co: Westview, 2001).
+[2]
+ Ibid., pp. 9-11, 37-38, 147; Robert Wallace and H. Keith Melton with Henry Robert Schlesinger, 
+Spycraft: The Secret History of the CIA's Spytechs from Communism to Al-Qaeda
+, (New York: Dutton, 2008), pp. 200-202.
+[3]
+ Jeff Stein, "CIA's Unit on Climate Change Faces Uncertain Future," 
+Spy Talk
+, January 11,
+        2011, http://voices.washingtonpost.com; David Kravets, "CIA Says Global-Warming Intelligence
+        Is "Classified." September 22, 2011, www.wired.com, Claims about the lack of documents with
+        regard to the disestablishment of the Center were made in responses to FOIA requests by the
+        author.
+[4]
+ See Jeffrey T. Richelson, 
+The U.S. Intelligence Community
+ (Boulder, Co.: Westview, 2011), pp. 25-27.
+[5] See Jeffrey T. Richelson, 
+The Wizards of Langley:
+      Inside the CIA's Directorate of Science and Technology
+ (Boulder, Co.:
+      Westview Press, 2001), pp. 94-95.
+[6] Robert L. Perry, 
+Management of the National Reconnaissance
+  Program, 1960-1965
+, January 1969. (Chantilly, Va. : NRO History Office,
+  2000), p. 97.
+[7] John Ranelagh, 
+The Agency: The Rise and Decline
+  of the CIA, From Wild Bill Donovan to William Casey
+ (New York: Simon
+  & Schuster, 1986), p. 208.
+[8] Fred Emery, 
+Watergate: The Corruption of American
+  Politics and the Fall of Richard Nixon
+ (New York: Times Books, 1994),
+  pp. 52-53; Thomas Powers, 
+The Man Who Kept the Secrets: Richard Helms
+    and the CIA
+ (London: Weidenfeld and Nicolson, 1979), p. 253.
+[9] Michael Dobbs, "Deconstructing the Death Ray," 
+Washington
+  Post
+, October 17, 1999, pp. F1, F4.
+home
+          | 
+about
+ | 
+documents
+          | 
+news
+ | 
+publications
+          | 
+FOIA
+ | 
+research
+          | 
+internships
+ | 
+search
+          | 
+donate
+          | 
+mailing 
+          list
+Contents 
+            of this website Copyright 1995-2017 National Security Archive. All 
+          rights reserved.
+Terms 
+          and conditions
+ for use of materials found on this website.
