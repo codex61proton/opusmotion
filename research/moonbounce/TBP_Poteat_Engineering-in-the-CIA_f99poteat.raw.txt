@@ -1,0 +1,528 @@
+Engineering in the CIA:
+ELINT, Stealth, and Beginnings of Information Warfare
+by S. Eugene Poteat, South Carolina Gamma ’57
+
+T
+
+HE LATE 1950S WERE THE HEYDAYS OF THE U-2
+reconnaissance aircraft as it flew with impunity over the Soviet Union, bringing back the
+most-sought-after intelligence at the time:
+confirmation that there was no real bomber or ballistic
+missile gap with the Soviet Union. But the U-2 also
+brought back something else: a foreshadowing of its
+own impending demise. The U-2 camera, along with
+its rudimentary electronics intelligence (ELINT) receivers, had begun to pick up indications of a Soviet
+antiaircraft defense buildup with new and better surface-to-air (SAM) missiles and radar. The Soviet kept
+trying to shoot down the U-2 with interceptor fighters
+and SAMs; they did not succeed until May 1, 1960.
+
+AnAn
+Esoteric
+Subject
+Esoteric
+Subject
+At the time of the U-2 shootdown, the CIA already was
+well along in developing the U-2’s replacement, the
+Oxcart reconnaissance aircraft, at Lockheed’s Skunk
+Works in Burbank, CA. The Oxcart would fly at approximately 90,000 feet at Mach 3.3. It would also become the predecessor to the Air Force’s better-known
+SR-71 Blackbird. The CIA and the Air Force jointly
+also had their ultimate reconnaissance system, the Corona satellite, well under way in a parallel development
+— the first in a long series of reconnaissance satellites
+that would eventually replace all aircraft overflights,
+including the Oxcart.
+Concerns about the vulnerability of the yet-to-fly
+Oxcart to a greatly improved Soviet air defense radar
+network were also the basis for the most secret and
+sensitive aspect of the project. The Oxcart was to be
+invisible to the Soviet radars — the first-ever stealth
+aircraft. The engineering approach to stealth was to
+create an airplane that would result in a deceptively
+small blip on enemy radar screens by shaping the airplane with razor-sharp edges, or chines, by tilting the
+rudders inboard to reduce radar reflections, and by
+using as much composite radar-absorbing material as
+possible. But how small a radar target was small
+enough? That depended on how good the Soviet radar
+was. But there were more questions about Soviet radar than there were answers.
+22
+
+The intelligence community had no hard information
+about the transmitter power of Soviet radar, its receiver
+sensitivity, spatial coverage of its beams, or even how
+widespread it was deployed, much less anything about
+its counter-stealth capabilities. ELINT could not provide answers to such hard questions. Further, few in
+the ELINT community knew anything about the
+Oxcart program, and fewer still knew anything about
+the stealth aspects of the program. It seemed to come
+down to making the best possible intelligence estimate
+with regard to the Soviet’s radar capability for dealing
+with a high and fast airplane with a very small radar
+cross section. In the words of other intelligence veterans, “Estimating is what you do when you don’t know
+and cannot find out.”
+
+Low
+Regard
+forfor
+ELINT
+Low
+Regard
+ELINT
+Many intelligence analysts considered ELINT next to
+useless. One prominent CIA operations officer said that
+his clandestine service considered ELINT the only fiveletter cuss word, that he viewed ELINT as worthless,
+and that only agents could be relied on for worthwhile
+information.
+ELINT was a passive, rudimentary means of intelligence collection. It involved getting a radio receiver
+and recorder within line of sight of Soviet radar or other
+S. Eugene (Gene) Poteat earned his B.S. in electrical engineering from the Citadel in 1957. He began his career in
+research and development at the
+Bell Telephone Laboratories, working in New Jersey and Cape
+Canaveral, FL. He joined the CIA
+in 1960, and his career spanned
+more than 30 years in technical intelligence. He ser ved abroad in
+London and Scandinavia.
+Upon retiring as a senior executive, Gene founded the Petite Research Group in McLean, VA. He
+has done graduate study in foreign
+policy, national security, and intelligence at Cambridge University
+and the Institute of World Politics
+in Washington, DC. He now writes and lectures on these subjects.
+He and his wife, the former Martha Cox, reside in McLean
+and have two daughters.
+
+THE BENT of Tau Beta Pi
+
+sources of important noncommunications signals. From
+radio direction finding and the recordings, one could
+determine the radar’s general location and the signal’s
+radio frequency, pulse rate, and pulse width. From
+these signal parameters, an analyst could then estimate
+the radar’s performance, but not with great accuracy
+or certainty. Most Soviet radar, however, was well beyond the reach of ELINT.
+This was the scene at the end of 1959, when I was a
+new engineer assigned to the CIA’s Office of Scientific
+Intelligence (OSI). I was soon cleared into the Oxcart
+project and also into the stealth aspect.
+
+Difficult
+Questions
+Difficult
+Questions
+The Oxcart mission planners were especially concerned
+about just how widespread the Soviet’s early-warning
+radar was and where itwas located. It seemed impossible, however, to determine the number, exact location,
+or any other technical information on those installations.
+I recalled a story from my Cape Canaveral days in the
+early 1950s, when the signal from a ground-based radar located nearly a thousand miles beyond our horizon
+was picked up at the Cape — the signal was reflected
+off a Thor missile during a test flight. The suggestion
+was then made that this same phenomenon (later called
+bi-static intercept) could be used to intercept Soviet
+high-powered radar located well over the horizon by pointing the ELINT antennas at the Soviet ballistic missiles
+during their flight testing, by using the missile’s radio beacon for pointing, or simply programming the ELINT antennas to follow the missile’s predicted trajectory.
+The idea to gain greater knowledge of Soviet air
+defense capabilities through bi-static interception was
+approved by CIA management, and project Melody was
+born. There were no computers in those days, so our
+feasibility studies and engineering calculations involved
+solving spherical trigonometry equations using slide
+rules, tables of logarithms, and hand-cranked calculators. Melody was installed at a CIA monitoring site on
+the shores of the Caspian Sea in northern Iran. Over
+the ensuing years, Melody produced bi-static intercepts
+of virtually all the ground-based Soviet missile tracking radar, including all their anti-ballistic missile tracking sites located at a test range nearly a thousand miles
+away. The fixed location of Melody and limited trajectories of the Soviet missiles being tracked, however,
+still did not provide the locations of all the air defense
+radar installations throughout the Soviet Union that
+were needed by the Oxcart mission planners.
+
+A New Challenge
+A new Soviet early-warning radar, called the Tall King,
+began to appear about this time, which if deployed
+widely, appeared to improve significantly the Soviets’
+air defenses. The new, very large, and obviously powerful Tall King radar quickly became the Oxcart’s nemFall 1999
+
+esis. Melody’s success with the high-powered, missilerelated radar led to the idea of using the moon as a distant bi-static reflector to intercept and locate the Tall
+King radar systems deployed in the Soviet Union.
+At the same time, the Lincoln Laboratory, America’s
+premier radar-development house, had been engaged
+in a “radar astronomy race” with its Soviet counterpart to see which side would be first to detect and characterize the moon’s surface using radar. Lincoln won
+handily. I visited Dr. John Evans at the labs and discussed the moon radar results and the bi-static moon
+idea. Drawing on the labs’ understanding of the moon
+as a reflector of radar signals, sensitive ELINT receivers, tuned to the Tall King frequency, were attached to
+the giant 60-foot RCA radar antenna just off the New
+Jersey Turnpike near Moorestown and pointed at the
+moon. (The labs’ giant radar antenna was preoccupied
+with further radar astronomy experiments.) The
+ELINT receivers were also optimized for the effects
+of the moon as a reflector, that is, using the lab’s
+“matched filter” techniques. Over time, as the Earth
+and moon revolved and rotated, all the Soviet radar
+sites came into view one at a time, and their precise
+geographic locations were plotted. The extremely large
+number of installations that were found, and the rather
+complete coverage of the Soviet Union, were not good
+news for the Oxcart program office — or for the U.S.
+Air Force Strategic Air Command, which had to plot
+wartime bomber penetration routes.
+
+AA
+Talented
+Engineering
+Team
+Talented
+Engineering
+Team
+Now assigned to the Oxcart program office, I asked for,
+and was granted, the job of trying to get the hard technical data we needed on the Soviet radar sites to put
+the stealth vulnerability issue to rest. I assembled a
+group of engineers and scientists, many Tau Bates, who
+were known for their innovation and had a nose for running field operations anywhere in the world. We outfitted a C-97 cargo aircraft that had concealed antennas
+and operated in the Berlin air corridors, which had lineof-sight access to East German-based Soviet radars,
+with laboratory precision measuring instruments.
+There was a similarly equipped RB-47 reconnaissance
+aircraft that operated around the periphery of the Soviet Union.
+These projects lead to a series of airborne radar
+power and pattern measurement systems that could
+measure a radar’s spatial coverage and radiated power
+with extreme precision. During one of the flights into
+Berlin, the C-97 intercepted the SA-2’s scanning radar,
+and by comparing the direct signal path with the signal reflected from the ground, we calculated the width
+of the radar’s scanned sector — needed by the electronic countermeasures designers. The system could
+also measure other important radar signal parameters,
+including radio frequency coherence, polarization, and
+internal and external signal structure — details which
+23
+
+provided even further insight into a radar’s performance and would be vital to the designers and builders
+of electronic jammers.
+The precise dimensions of the Tall King’s antenna
+were also needed for our calculations. One military
+attaché got close-in ground photographs of radar sites
+in East Germany. The antenna was mounted on a small
+brick base, and we asked for the dimensions of one of
+the bricks. It turned out the bricks were from the
+nearby Pritzwalk Brick Factory. When we asked our
+clandestine service to filch a Pritzwalk brick, we dared
+not admit it was for an ELINT project. We were happy
+with their impression that it was to be hollowed out
+and used for a dead-letter drop.
+Our special systems were installed in a series of Air
+Force planes, starting with the C-97 and RB-47, then
+C-130s, and finally ever more modern aircraft. Missions were flown around the world along the periphery
+of all Communist countries and in the Berlin air corridors. Technical reports on the mission results were
+published by the CIA and distributed throughout defense and intelligence communities, as well as to the
+industry’s electronic countermeasures designers.
+One of the earliest benefits of this accurately measured air defense coverage was the revelation that the
+Soviet’s low-altitude radar coverage was far better than
+our analysts’ earlier estimates, and the Strategic Air
+Command quickly changed its plans for wartime penetration to a much lower and survivable altitude.
+
+Project
+PALLADIUM
+Project
+Palladium
+We now knew the Soviet air defense radar power and
+spatial coverage, but that was only half the answer to
+the Oxcart’s stealth — and health. We also needed to
+know the sensitivity of Soviet radar receivers and the
+proficiency of its operators. We came up with an electronic scheme to generate and inject carefully calibrated false targets into the radar units, deceiving them
+into seeing and tracking a ghost aircraft.
+Basically, we received the radar signal and fed it into
+a variable-delay line before transmitting the signal back
+to the radar. By smoothly varying the length of the
+delay line, we could simulate the false target’s range
+and speed. Knowing the radar’s power and spatial coverage from the aircraft precision measurements, we
+could now simulate an aircraft of any radar cross section, from an invisible stealth airplane to one that made
+a large blip on Soviet radar screens — and anything in
+between, at any speed and altitude — and fly it along
+any prescribed path. Our project was dubbed Palladium. Now the real trick was to find some way of discovering which of our blips the Soviets could see on
+their radar screens — the smallest size blip being a measure of the sensitivity of the Soviet radar and the skill
+of its operators. We began looking at a number of possible Soviet reactions that might give us clues as to
+whether our ghost aircraft was seen. We finally found
+24
+
+that certain Soviet communication links could be monitored to reveal Soviet detection and tracking of the
+ghost — and in real time.
+Every Palladium operation consisted of a CIA team
+with its ghost aircraft system, an NSA team to monitor
+the communication links, and a military operations support team. Covert Palladium operations were carried
+out against a variety of Soviet radar sites around the
+world, from ground bases, naval ships, and submarines
+— submarine antenna installations being the trickiest.
+
+Fooling
+Adversaries
+Fooling
+thethe
+Adversaries
+When the Soviets moved into Cuba with their missiles
+and associated radar, we were presented a golden opportunity to measure the system sensitivity of the SA2 anti-aircraft missile radar. One particular memorable
+operation conducted during the Cuban missile crisis had
+the Palladium system mounted on a destroyer out of
+Key West. The destroyer lay well off the Cuban coast
+just out of sight of Soviet radar, near Havana, but with
+our Palladium antenna just breaking the horizon. The
+false aircraft was made to appear to be a US fighter
+plane out of Key West about to overfly Cuba. A Navy
+submarine slipped into Havana Bay and was to surface
+just long enough to release a timed series of metallic
+balloon-borne spheres of different sizes. The idea was
+for the early-warning radar to track our electronic aircraft and then for the submarine to surface and release
+the calibrated spheres to rise into the path of the oncoming false aircraft. It took a bit of coordinating and
+timing to keep the destroyer, submarine, and false aircraft all in line between the Havana radar and Key
+West.
+We expected the Soviets would track and report the
+intruding aircraft and then switch on their SA-2 radar
+in preparation for firing their missiles — and would also
+report seeing the other strange targets, our spheres,
+as well. The NSA team would provide the necessary
+feedback, with its skilled team of Russian and Spanish
+linguists operators, and their monitoring systems on
+board the destroyer. The smallest spheres reported
+seen by the SA-2 radar operators would correspond to
+the size, or smallest radar cross-section aircraft, that
+could be detected and tracked.
+While we got the answers we went after, it was not
+without some excitement — and entertainment. In the
+middle of the operation Cuban fighter planes were dispatched to intercept the intruder. We had no trouble
+in manipulating the Palladium system controls to keep
+our ghost aircraft just ahead of the pursuing Cuban
+fighters. When the NSA team heard the Cuban pilot
+radio his controllers that he had the intruding aircraft
+in sight and was about to make a firing pass to shoot it
+down, we all had the same idea at the same instant. The
+engineer moved his finger to the switch, I nodded yes,
+and he switched off the Palladium system.
+THE BENT of Tau Beta Pi
+
+Important
+Important
+achievements
+achievements
+We had finished our special mission, concluding that
+the Oxcart would indeed be detected and tracked by
+the Soviets, which by then was no surprise to any of
+us. We felt that we had only proved that the Earth
+was round, and that as soon as the Oxcart came over
+the horizon, the Soviet’s air defense radar would immediately see and track it. At the same time, however,
+we had also established realistic stealth radar crosssection goals that, if met by the next generation of
+stealth aircraft, would allow the aircraft to fly with
+impunity right through the Soviet radar beams. The
+F-117 stealth fighter and B-2 stealth bomber would
+eventually meet these goals. Another CIA engineer,
+with knowledge of Russian math models for calculating a complex structure’s radar cross section, would
+pass the formula on to the Lockheed Skunk Works,
+which would use them in their stealth designs.
+
+Seeking
+Countermeasures
+Seeking
+Countermeasures
+Even before we had finished our projects, it had become obvious that if the Oxcart could not fly stealthily,
+it could in the meantime fly safely, relying on its superior performance to outfly the anti-aircraft missiles.
+But we would need a stable of effective electronic countermeasures in the future. Our group had already spun
+off two other groups: one to take on the job of developing electronic jammers and warning receivers for the
+Oxcart, SR-71, and the U-2s that were still flying —
+albeit over China rather than the Soviet Union; and a
+second group to continue investigating revolutionary
+techniques to further reduce the Oxcart’s radar crosssection to an acceptable level.
+The second group came up with some novel schemes,
+such as mounting special electron guns on the Oxcart
+to generate a radar-absorbing electron cloud in front of
+the aircraft. One of the U-2 missile warning receivers
+we developed was modified and installed in an Air Force
+fighter plane and became the basis of a later system
+called Wild Weasel, used to locate and destroy SA-2
+missile sites in North Vietnam. Wild Weasel became
+the stuff of great stories and legends about the daringdo of the pilots who hunted down the SA-2 sites,
+launched their radar-killing missiles in close, and dodged
+the missiles fired at them during these encounters.
+Word quickly spread about our group’s newfound
+knowledge of Soviet and Chinese radar, and calls came
+in from around the world seeking more information
+about the capabilities of specific radar systems. Requests even came in from submarine skippers wanting
+to know how Chinese surface search radar could detect targets as small as their periscopes, which compromised their positions to enemy patrol boats. We
+assured them that the radar could not possibly see their
+small periscope, but that they were likely seeing the
+Fall 1999
+
+submarine’s ECM (SIGINT) mast. The mast was also
+raised above and behind the periscope; it was about
+the size of a totem pole and made an ideal target as the
+motion of the waves varied the mast’s length, effectively
+optimizing it for detection by the radar. After lowering
+these masts, the submarines were no longer detected.
+
+GulfofofTonkin
+TonkinIncident
+Incident
+Gulf
+In early August 1964 our group received an extraordinary, and prophetic, query. My boss handed me a copy
+of a message containing fragments from the radar
+operator’s log from the US destroyer Maddox, which
+was operating in the Gulf of Tonkin off the coast of
+North Vietnam. The operator’s log noted how the
+Maddox and another destroyer, Turner Joy, had been
+attacked for the second time by North Vietnamese torpedo boats — and that the attacking boats were seen
+only on the ships’ radar and heard by the ships’ sonar
+operators. That morning my boss said, “The people
+upstairs want to know if those torpedo boats were real,
+or could the Maddox’s radar have been spoofed electronically, the way you spoofed their radar?” A fast
+read of the Maddox log gave few clues, and I asked if
+there was any more information available or expected.
+I came up with a list of things I needed to know before
+giving a confident answer, such as: visibility in the Gulf
+at the time, weather and surface conditions, any reports
+of lightning or thunderstorms in the area, the speed of
+the torpedo boats if moving radially toward the
+Maddox, and the presence of other ships and aircraft
+in the area. My boss went away with these questions,
+but he returned shortly to say that nothing else would
+be forthcoming and that I was to do the best I could
+with the information I had — and soon.
+After a fretful hour, I concluded I would have to take
+the radar operator’s word that he saw boats, but added
+that with the answers to my questions, a positive answer would be quick and easy. The Washington Post
+headlines the next morning carried President Johnson’s
+authorization to start bombing North Vietnam in retaliation for the attacks. I learned later that the original query had come from the White House and that
+Secretary of Defense McNamara and others were there,
+along with Director of Central Intelligence John A.
+McCone [CA Α ’22]. I surmised that McCone was the
+likely source of the request because he knew about our
+Palladium project. I was now curious as to why the
+White House seemed not to want to hear what his intelligence experts had to say, so I tried for a period of
+time to obtain answers to my original question and to
+learn more about the situation in the Gulf of Tonkin
+that night. I did eventually learn that there indeed
+had been severe thunderstorms, rough seas, and most
+important, lightning. Ships’ surface-search radar is notoriously unreliable in rough and stormy seas, and sonar even more so. Furthermore, the blips on the ship’s
+25
+
+radar screen, that the operators thought were torpedo
+boats, never reflected solid tracks or tracks moving
+steadily or radially toward the destroyers, as would
+happen in an attack. I finally had my answer; there never
+were torpedo boats involved in an attack that night.
+
+Hen
+House
+Hen
+House
+Our focus soon shifted to a broader range of other socalled intractable technical problems. Satellite photography had discovered a huge new radar deep in the
+Soviet hinterland, the Hen House. It appeared to be a
+phased-array radar, possibly space surveillance. By
+now, early ELINT satellites were in orbit, and the
+radar’s frequency was known to be in the VHF band.
+A second Hen House was also under construction in
+the northeastern Soviet Union, a few hundred miles
+inland from Riga.
+Judging from the size of the radar and its probable
+high power, I felt we should be able to pick up its signal
+well over the horizon via a phenomenon known as tropospheric-scatter. Studying a map, I found an island in
+the Baltic Sea that looked to be at about the right distance to install a tropospheric-scatter receiver system.
+After extensive negotiations for access to the island,
+dual antennas were installed (about 50 wavelengths
+apart to reduce the expected atmospheric fading), and
+the receiver was set up for unattended operation. Our
+Briar Patch system finally picked up the very first Hen
+House transmission and every subsequent transmission.
+We learned that the radar tracked US reconnaissance satellites from the first orbit, and that the Soviets had an incredibly effective espionage network in
+place to tip off the Hen House when a US intelligence
+satellite was about to be launched. When there was a
+lengthy hold of an impending launch from Vandenberg
+Air Force Base in California, the Hen House would
+switch off and come back on the instant the satellite
+lifted off. We also learned that the Hen House tracked
+aircraft just as well and as often as satellites. The
+radar’s precise frequency indicated its pointing angle,
+which was then correlated with the most likely targets
+being tracked.
+
+CaughtCheating
+Cheating
+Caught
+One of Melody’s more significant successes would occur during negotiations with the Soviets on the 1972
+Anti-ballistic Missile (ABM) treaty — which included
+an obligation not to give non-ABM systems, such as
+the new Soviet SA-5 antiaircraft missile, capabilities
+to counter strategic ballistic missiles — and not to test
+them in an ABM mode. Intelligence analysts were debating whether the SA-5 antiaircraft missile could be
+upgraded to become an ABM and whether the Soviets
+might try to test it covertly in an ABM mode.
+26
+
+After nearly a year of trying to come up with an
+agreed-on estimate of SA-5 capabilities and Soviet intentions, many analysts believed that the Soviets would
+never dare cheat on such an important treaty. I suggested that we assume that the Soviets, based on their
+history, should be expected to cheat on the treaty by
+testing their SA-5 against one of their own ballistic
+missiles and that we need only find a way to catch them
+at it. Much to the chagrin of the analysts, Melody answered the question within a few weeks. Melody had
+been quickly modified by adding a special ELINT receiver, tuned to the SA-5’s ground-based target-tracking radar frequency — which was known by then.
+Melody, pointing its antenna at the Soviet missiles in
+flight, readily intercepted the SA-5 target tracking radar signals, bi-statically, from the Soviet’s Sary Shagan
+missile test range nearly 1,000 miles away, as the Soviets repeatedly tested the SA-5 in the forbidden ABM
+role.
+During one of the ensuing Geneva negotiating sessions, Dr. Henry Kissinger, using intelligence derived
+from the Melody intercepts, looked his Soviet counterpart in the eye and read him the dates and times they
+had cheated on the treaty. The cheating immediately
+ceased, and the Soviets began a mole-hunt for the spy
+in their midst, who most surely had tipped us off.
+
+Counting
+Troops
+Counting
+Troops
+During the Vietnam War, the CIA was engaged in a
+heated debate with the Army and Secretary of Defense
+McNamara’s office over the infiltration rate of North
+Vietnamese soldiers into South Vietnam. The CIA estimates were much larger than those of the Department of Defense, and if they could be validated, did not
+bode well for the outcome of the war. The Air Force
+had airdropped acoustic sensors along the Ho Chi Minh
+Trail (Project Igloo White) in an attempt to detect and
+count infiltrators. Both the Air Force and Navy also
+had SIGINT aircraft orbiting off the Vietnamese coast
+to intercept and count the number of small radios carried by the infiltrating groups, which always traveled
+in fixed numbers on the trail, on their trek south. A good
+estimate was obtained by multiplying the number of radios by the number of men per group. The problem was
+that the orbiting SIGINT airplanes could not fly high
+enough to intercept all the radios on the very long trail.
+Our solution for an accurate count was simply to get
+an airplane, in this case the U-2, that could fly high
+enough to intercept all the radios simultaneously. A
+special radio receiver was quickly found and installed.
+Each U-2 could stay aloft 12 hours, and two could provide 24-hour coverage. The infiltration rate turned out
+to be more like a flood. McNamara’s people, with their
+computerized estimates, would finally accede to the
+higher CIA numbers.
+THE BENT of Tau Beta Pi
+
+Trailblazing
+
+(Continued on page 36.)
+(Continued from page 26.)
+
+During the years that our engineering group was in
+existence, we would occasionally discuss just how far
+we could go in terms of probing, spoofing, and injecting false signals and information into an adversary’s
+communications networks to learn covertly more about
+his hidden capabilities and intentions. We also
+brainstormed about what responses and second-order
+observables we might look for when radiation security,
+encryption, and deception were used. The process had
+no name at that time, but, in retrospect, we were unwitting participants in the beginnings of what is now
+known as the information warfare.
+The CIA gave its engineers and scientists an unusual
+amount of freedom to find solutions to the vast and
+seemingly intractable problems they faced — placing
+a premium on academic standing, innovation, and selfreliance. Looking at today’s technologies, and the intelligence challenges, I know the new generation of Tau
+Beta Pi engineers are more than up to the job.
+1
+
+This article is based on an article by S.E. Poteat, ‘Stealth,
+ELINT, 1960-75: Some Beginnings of Information Warfare,
+Studies in Intelligence, Vol. 42, No.1, 1998. The volume is SECRET. Ref. article has, however, been recently declassified.
+
+Fall 1999
+
+27
+
+
