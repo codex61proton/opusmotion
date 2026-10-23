@@ -1,0 +1,1094 @@
+ The Historical Review Program, part of the
+ CIA Information Management Services, identifies, collects, and
+ produces historically relevant collections of declassified documents.
+ An Underwater
+ These collections, centered on a theme or event, are joined with
+ supporting analysis, essays, video, audio, and photographs,
+ and showcased in a booklet plus DVD, and made available to
+ historians, scholars, and the public.
+ Ice Station Zebra
+ All of our Historical Collections are available on the
+ CIA Library Publication Page located at:
+https://www.cia.gov/library/publications/historical-collection-publications/
+ USE MOBILE
+ Recovering a Secret Spy Satellite Capsule
+ from 16,400 Feet Below the Pacific Ocean
+ DEVICE TO SCAN
+ or contact us at
+ HistoricalCollections@ucia.gov
+Crane lifting Trieste II (DSV-1).
+ (Credit: CIA)
+ Table of Contents
+ Note to Reader 1
+ Partners 2
+ An Underwater Ice Station Zebra:
+ Recovering A KH-9 Hexagon Capsule
+ From 16,400 Feet Below The Pacific Ocean
+ David Waltrop 5
+ Selected Declassified CIA Documents 20
+Cover: Trieste II (DSV-1) under tow at night.
+(Credit: Naval Undersea Museum, Keyport, WA)
+Opposite: Trieste II (DSV-1) stowed in White Sands dock well.
+(Credit: CIA)
+ Recovering a SECRET SPY SATELLITE CAPSULE
+AN UNDERWATER ICE STATION ZEBRA
+ Note to Reader
+ As a standard practice, the Historical Collections Division (HCD) collaborates
+ with outside academic institutions, presidential libraries, think tanks, and
+ museums to carry out its mission of releasing historically significant collections of
+ declassified Central Intelligence Agency (CIA) materials to the public. Leveraging
+ the capabilities of multiple organizations more effectively utilizes scarce resources
+ with the ultimate benefit to the American public of greater knowledge of intelligence
+ activities at reduced costs.
+ In this release, describing the underwater recovery of a HEXAGON satellite film
+ capsule, HCD has broken new ground. For the first time, we have collaborated
+ with an independent, peer-reviewed, publication to release a group of documents.
+ The enclosed article on this little known underwater operation (starting on page 5)
+ originally appeared in the volume 19, number 3, 2012 issue of Quest: The History
+ of Spaceflight Quarterly. With Quest’s agreement, we have reprinted the article as
+ published to make it available to the public without charge.
+ The declassified CIA documents are posted to the Agency’s public website at
+ https://www.cia.gov/library/publications/historical-collection-publications/
+ Disclaimer
+ All statements of fact, opinion, or analysis expressed in this booklet are those
+ of the author. They do not necessarily reflect official positions or views of
+ the Central Intelligence Agency or any other US government entity, past or
+ present. Nothing in the contents should be construed as asserting or implying
+ US Government endorsement of an article’s statements or interpretations.
+Opposite: Part of the HEXAGON film bucket photographed
+on the ocean bottom at 16,400 feet.
+(Credit: CIA) 1
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ Information Management Services,
+ Historical Collections Division (HCD),
+ in partnership with the Directorate Information Review Officers, is responsible
+ for executing the Agency’s Historical Review Program. This program seeks
+ to identify and review for declassification collections of documents that detail
+ the Agency’s analysis and activities relating to historically significant topics and
+ events. HCD’s goals include increasing the usability and accessibility of historical
+ collections. HCD also develops release events and partnerships to highlight each
+ collection and make it available to the broadest audience possible.
+ HCD’s mission is to:
+ H Promote an accurate, objective understanding of the information that has
+ helped shape major US foreign policy decisions.
+ H Broaden access to lessons-learned, presenting historical material that gives
+ greater understanding to the scope and context of past actions.
+ H Improve current decision-making and analysis by facilitating reflection on
+ the impacts and effects arising from past foreign policy decisions.
+ H Showcase CIA’s contributions to national security and provide the
+ American public with valuable insight into the workings of its government.
+ H Demonstrate CIA’s commitment to the Open Government Initiative and
+ its three core values: Transparency, Participation, and Collaboration.
+2
+AN UNDERWATER ICE STATION ZEBRA
+ Published since 1992, Quest is the only
+ peer-reviewed journal exclusively
+ focused on preserving the history of
+ spaceflight. Written by professional and
+ amateur historians along with people
+ who worked in the programs, each
+ quarterly 64-page issue features articles
+ chronicling the making of the space
+ age, plus rare photos and interviews on
+The Naval Undersea Museum in Keyport, human spaceflight, robotic exploration,
+Washington, collects and interprets the military programs, policy, international
+history, science, and operations of the activities, and commercial endeavors.
+underwater Navy. With over 40,000 These are the stories that fascinate and
+artifacts and 8,530 library holdings, the captivate; that give behind-the-scenes
+museum is an important repository for insight into the space program.
+information and items related to undersea
+weapons, submarine technology, diving
+and salvage artifacts, and submersibles.
+Exhibits comprising more than 17,000 square
+feet of gallery space examine and showcase
+150 years of naval undersea history and
+technology. Standout artifacts include the
+sail from the Cold War submarine USS
+Sturgeon (SSN-637), submersibles Trieste II
+(DSV-1) and Deep Quest, and the end
+cap from underwater habitat Sealab II.
+The museum is one of twelve official
+Navy museums and is accredited by the
+American Association of Museums. 3
+ Recovering a KH-9 HEXAGON Capsule
+ Trieste II (DSV-1) in the sunlight.
+ (Credit: Naval Undersea Museum, Keyport, WA)
+AN UNDERWATER ICE STATION ZEBRA
+ AN UNDERWATER ICE STATION ZEBRA
+ Recovering a KH-9 HEXAGON Capsule from
+ 16,400 Feet Below the Pacific Ocean
+By David W. Waltrop ty lexicon, a diverse group from vari- later. This time an aircraft caught it and
+ ous organizations with unique talents its less-damaged parachute in mid-air.
+ The 1963 Cold War thriller, Ice came together to undertake a dangerous During recovery of the third bucket on
+Station Zebra, by Scottish author mission, never before attempted. 10 July, the main parachute had appar-
+Alistair MacLean is a high intrigue ently snapped off. The 1,100 lb incom-
+espionage story of American and Soviet The First KH-9 Mission ing object, traveling between 400 and
+agents vying to recover film from a The first HEXAGON mission 500 feet per second, hit the ocean with
+satellite that had crashed in the Arctic. (M1201) lifted off from Vandenberg a projected 2600Gs of force, sinking on
+The novel and later 1968 movie adapta- Air Force Base, California, shortly impact.5
+tion of the same name starring Rock before noon on 15 June 1971. Like the Accounts vary on what the recov-
+Hudson, Patrick McGoohan, Ernest CORONA and GAMBIT satellites ery crews saw as they waited in circling
+Borgnine, and Jim Brown, although fic- before it, HEXAGON photographed ships, helicopters, and airplanes for the
+titious, resemble the real-life episode of “denied areas” and returned the bucket’s return. Several mistakenly
+a film capsule from an American exposed film to Earth in recovery vehi- reported signals from other aircraft as
+CORONA spy satellite that went down cles (RV), called “buckets,” ejected coming from the bucket’s water-acti-
+near Spitzbergen, Norway, in April from the satellite. The buckets re- vated beacon. A helicopter crew saw
+1959, and may have been recovered by entered the atmosphere, were slowed the drogue chute, which deployed first
+the Soviet Union.1 The Spitzbergen by a parachute, and then waiting Air to pull out the main chute, with a strap
+incident is not the only time when parts Force C-130 aircraft captured them in hanging from the main chute attach-
+of a U.S. spy satellite landed in the mid-air near the primary recovery zone ment point, indicating that the main had
+wrong place. In August 1964, pictures north of Hawaii. CORONA and GAM- detached from the drogue. They
+of another CORONA capsule appeared BIT initially had one bucket, but as observed the drogue hit the water, float
+in local newspapers after it accidentally technology improved, both carried two, for approximately one minute, and then
+landed in Venezuela.2 In May 1972, which increased a satellite’s on-orbit sink. A search of the area where the
+suspected fragments of a KH-8 GAM- life and allowed operators controlling a bucket came down found discolored
+BIT satellite came down in farmland satellite to return part of the film load water, possibly from a location dye
+about 75 miles north of London, without ending an entire mission. marker, for about 100 square feet, along
+England.3 Technology improved to the point that with bubbles, but no debris.
+ However, one of the most amaz- the first HEXAGON satellite had four Due to the parachute problems on
+ing stories of a wayward piece of an buckets (Figure 1) and the largest film the first two buckets and the loss of the
+American spy satellite occurred during supply—175,601 feet (1,350 lb)—of third, satellite operators placed only 50
+the first KH-9 HEXAGON mission. A any U.S. satellite up until that point.4 percent of the film onboard the fourth
+film capsule from that satellite crashed Despite high battery tempera- bucket to lessen its weight. On 16 July,
+into the Pacific Ocean on reentry. The tures and voltage problems eight to ten that bucket entered the recovery zone
+Central Intelligence Agency (CIA) and hours into the mission, the new HEXA- and a C-130 caught it in mid-air.6
+U.S. Navy led a secret operation to GON operated normally. On 20 June, Notwithstanding the problems
+retrieve that capsule from a depth of the first bucket, with 40,000 feet of encountered, the first HEXAGON mis-
+16,400 feet, the deepest underwater sal- film, separated from the satellite and sion was called an amazing success.
+vage then attempted. What follows is re-entered the Hawaiian recovery zone. While the parachute failures presented
+not just a CIA or Navy narrative. It is a Pilots from the 6594th Test Group major concerns, the battery overheat-
+story encompassing the National based at Hickam Air Force Base, ing, voltage anomalies, and other diffi-
+Reconnaissance Office (NRO), Hawaii, responsible for conducting the culties seemed easily corrected. The
+Department of Defense (DOD), and mid-air recovery of buckets, spotted the 123,601 feet (930 lb) of recovered film
+private industry. It is an account in descending object, but because of its far exceeded that carried on the first
+which decades before the phrases “joint badly damaged parachute, allowed it to successful CORONA (20 lb), and the
+duty,” “multi-INT intelligence,” and land in the water. Divers retrieved it typical KH-7 GAMBIT (45 lb) and
+“interagency collaboration” gained before it sank. The second bucket KH-8 GAMBIT “dual bucket” (160 lb),
+popularity in America’s national securi- returned 52,000 feet of film six days flights. The imagery from the first
+ Q U E S T 19:3 2012 5
+ www.spacebusiness.com/quest
+ Recovering a KH-9 HEXAGON Capsule
+ HEXAGON bucket alone covered
+ more than two-thirds of all known
+ Soviet missile sites, and a set of photo-
+ graphs taken on one pass over Albania
+ permitted the identification, by class
+ and weapon type, of that country’s
+ entire inventory of aircraft and ships.
+ These accomplishments, plus a 2.3-foot
+ best resolution, led a National
+ Photographic Interpretation Center
+ officer at Eastman Kodak’s film pro-
+ cessing center in Rochester, New York,
+ to say after receiving the first bucket’s
+ film: “My God, we never dreamed
+ there would be this much, this good!
+ We’ll have to revamp our entire opera-
+ tion to handle the stuff.”7
+ Losing the third bucket’s pre-
+ cious film, however, was very disap-
+ pointing.
+ Planning the Salvage Operation
+ Dr. F. Robert Naka, deputy direc-
+ tor of the NRO (DDNRO), and Carl E.
+ Duckett, CIA deputy director for
+ Science and Technology, soon author-
+ ized the Office of Special Projects, the
+ Agency element responsible for recon-
+ naissance satellites, to make informal
+ inquiries with the Navy about the pos-
+ sibility of recovering the item from the
+ ocean floor. Navy, CIA, NRO, Air
+ Force, and industry representatives met
+ at CIA headquarters on 27 July to for-
+ malize the details.8 The Navy proposed
+ using the Trieste II Deep Sea Vehicle 1
+ (DSV-1) to effect the operation. Figure 1: KH-9 HEXAGON satellite with its four buckets clearly visible.
+ The Navy operated three deep- Credit: NRO
+ sea submersibles named Trieste from
+ 1958 to 1984. Each vehicle, called a sion, eventually designated Trieste II bucket’s recovery on a non-reim-
+ bathyscaphe, used a lighter-than-water (DSV-1), surveyed the USS Scorpion bursable basis.10
+ gasoline-filled float to carry a pressure after it sank on 22 May 1968 in more Determining the bucket’s loca-
+ sphere in which the pilots would ride. than 10,000 feet of water about 400 tion on the ocean floor would be the
+ The Trieste I, built in 1953 by Swiss miles southwest of the Azores. operation’s hardest part, but based on
+ physicist Auguste Piccard in Trieste, Although the Trieste II (DSV-1)’s the Navy’s experience, there appeared
+ Italy, and soon purchased by the U.S. maximum achieved depth was only to be a “very good chance” of success.
+ Navy, gained international recognition 13,000 feet at the time of the CIA head- Locating the impact point as accurately
+ when on 23 January 1960 it became the quarters meeting, the Navy expected a as possible was crucial. From that
+ first piloted craft to reach the bottom of planned test dive to 20,000 feet later point, it was necessary to predict the
+ the Marianas Trench, the deepest part that August to demonstrate no trouble sink rate and the affect of water cur-
+ of the ocean. The Trieste I (in 1963) in reaching the deeper depth. 9 rents on the sinking object, which
+ and Trieste II (in 1964) then surveyed Moreover, documents say that since the depended on estimating the damaged
+ the wreckage of the nuclear powered Navy had already intended to deploy bucket’s shape, its effective density,
+ submarine USS Thresher after it sank the submersible to the Hawaiian and velocity at point of impact. With a
+ in the North Atlantic on 10 April 1963 Islands from August through October, general search zone identified, the
+ with the loss of all hands. A third ver- the Trieste II DSV-1 could effect the Navy would use NRO funds to hire a
+6
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ Figure 2: One of Perkin-Elmer’s
+ proposed net salvage methods,
+ which the Navy feared would
+ stir up the ocean bottom.
+ Credit: NRO
+team led by Dr. Fred N. Spiess, director light from ruining the film, at a depth of needed to fix the parachute problem
+of the Marine Physical Laboratory less than 120 feet divers would cover might significantly delay the next
+(MPL), Scripps Institute of the object with canvas before transfer- HEXAGON mission, making the buck-
+Oceanography, to find the bucket and ring it to surface ships. They further et’s film more critical to satisfying
+place Deep Ocean Transponders planned to surface at night if possible imagery requirements, and that the
+(DOTs) on the ocean floor that would to reduce the chances of exposure to recovered items might help solve the
+later direct the Trieste II (DSV-1) to the light. Eastman Kodak personnel would parachute problem. The operation
+target. Dr. Spiess’ connection provided then tediously despool the film by hand would provide experience in the event
+the perfect cover: if uncleared crew or at their Rochester processing facility. of other losses. The major concluded,
+public asked, the recovered item was an In a memo summarizing the 27 July “The potential gains from the recovery
+MPL instrument. The Navy’s estimate meeting, Donald W. Patterson, CIA of RV-3 would far outweigh the moder-
+for ten days of search time, plus four HEXAGON Sensor Subsystem pro- ate funding required. It is appropriate
+days travel time, was $100,000. gram director, concluded there was “a that an attempt be made.”
+ One key question remained, good chance of recovering the RV, and McLucas agreed. With the basic
+would the film still be useable? that the film would be useable with plan set, on 10 August he sent a memo
+Surprisingly, an Eastman Kodak test some small degradation.” to Robert A. Frosch, assistant secretary
+immersing a 10,000-foot sample roll of An Army major on the NRO staff of the Navy for research and develop-
+film in simulated Pacific seawater at added some points about the value of ment, asking for help arranging “the
+deep sea pressures for five days indi- retrieving the film in a separate note necessary Navy and Scripps support.”
+cated that a considerable portion of the summarizing the meeting for under The NRO Staff Major’s points must
+imagery might be recoverable if the secretary of the Air Force and director have persuaded the DNRO who wrote,
+salvage team could keep the film wet of the NRO (DNRO) John L. McLucas. “Recovery of the film would be most
+and away from light until processed. “The third RV contained the most desirable since the imagery recorded
+The test found that initial exposure of imagery of the four,” he wrote; was from a particularly productive por-
+the roll’s edge to salt water caused the “Further, this imagery was acquired on tion of the mission. Additional infor-
+film’s emulsion gelatin to swell, effec- that part of the mission when the mation as to the nature of the parachute
+tively sealing the roll’s center against weather was particularly favorable, failure might also be obtained.” 11
+further intrusion. To ensure security of especially in Western Russia and Frosch responded eight days later that
+the classified payload and keep sun- Eastern Europe.” He explained the time the Navy would be “pleased to assist,”
+ 7
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ but cautioned “success of the operation fears that corrosive seawater might cooling unit to keep the bucket below
+ depends upon locating the reentry vehi- have weakened key beryllium structur- 40 oF.17 Further promising tests of the
+ cle, by no means a certainty [since] the al elements, caused the group to reject HEXAGON film concluded that a very
+ small size of the package and accuracy that idea in favor of methods that would thin edge of film (about a quarter inch)
+ of the reported sinking position make envelop the sunken item. Molaskey’s would likely be fogged, then a two-inch
+ location a difficult task.” The Trieste II team considered several net options edge with a latent image degraded in
+ (DSV-1), he wrote, could start recovery (Figure 2), but those too were inadvis- exposure but probably still usable, fol-
+ operations after 5 October. The USNS able as discussions with the Navy found lowed by 2.5 inches of good photogra-
+ De Steiguer, a survey ship capable of such a device “would undoubtedly stir phy. This news gave one CIA officer
+ towing a camera-equipped search fish up sediment on the ocean floor to the reason to be optimistic when he report-
+ at a depth of more than 20,000 feet, extent that the operator’s visibility ed on 14 September, “The operation is
+ would be available to Dr. Spiess for a would be reduced essentially to zero for proceeding smoothly and everyone
+ ten-day search to commence on about 1 periods of up to an hour.”15 The final connected with it is enthusiastic and
+ October.12 approach used a “hay hook” design to feels that there is a reasonable chance
+ descend over, and close around, the of success.”18
+ Overcoming Obstacles bucket before bringing it to the surface Then potential disaster struck. A
+ Various teams began determining (Figures 3 and 4). flash flood in Glen Riddle,
+ light levels at different depths, prevail- The shipping container designed Pennsylvania, on 14 September left the
+ ing sea currents, ocean bottom condi- to transport the salvaged item to Container Research Corporation’s engi-
+ tions, and executing the other required Eastman Kodak’s processing center neering, purchasing, sales, and manage-
+ tasks, but several concerns quickly (Figure 5) had to be large enough to ment offices in about six feet of water
+ arose. Frosch’s prediction about the hold the “hay hook,” with the bucket and a foot of silt. The HEXAGON con-
+ accuracy of the reported impact point inside, along with the canvas to protect tainer, on a higher level, escaped dam-
+ was prophetic as many groups had it from uncleared personnel and sun- age and its cover was located intact in
+ widely divergent views on its location. light. In addition, the container needed the silt, but not before the raging waters
+ The Satellite Tracking Center had three to be capable of being moved while full had washed away the skids and all but
+ points: an original point, a point later of water, filled from the top and drained at least one of the casters used to sup-
+ changed due to a calculating error, and from the bottom (since Eastman Kodak port the device. On Perkin-Elmer’s
+ a final point. The drogue chute’s loca- planned to reuse the seawater during direction, the Container Research
+ tion, which recovery aircraft deter- despooling), and have wheels for easy Corporation shipped the undamaged
+ mined based on the two- to three-mile transport. It could be no bigger than 72 components as scheduled. They arrived
+ accuracy of their Loran C navigation inches high, 65 inches wide, and 78 on time at the San Diego dock a few
+ systems, showed another point. The inches long to fit through a door at days later, and “although somewhat
+ main chute deployment point led to yet Eastman Kodak. To prevent bacterial marked up and scratched from the
+ another spot. Calculations based on growth on the film, and with the inad- flood” appeared sound.”19
+ wind direction, ballistic trajectory, visability of using fungicides, the sal-
+ spacecraft ephemeris, as well as an vage team needed to maintain the con- Executing the Salvage Operation
+ independent government assessment, tainer (with bucket, hook, and canvas The operation came together in
+ yielded different results. Based on these inside) at a temperature of 40 oF or less the last week of September. In addition
+ various inputs, the search team eventu- for the journey to Eastman Kodak.16 to the shipping container, crews deliv-
+ ally defined a 1.5-mile wide by 8-mile Most problems were well on their ered the “hay hook” to the San Diego
+ long search zone 350 miles north of way toward a solution by about mid- dock, security cleared the essential
+ Hawaii.13 September. Perkin-Elmer subcontracted Scripps and Navy personnel, and the
+ Leonard B. Molaskey, a Perkin- with the Pennsylvania-based Container group settled on a plan to construct a
+ Elmer program manager responsible for Research Corporation to build the ship- wooden refrigerator to keep the bucket
+ devising a method to raise and transport ping container, and it was on schedule below 40 oF.20 Before actual recovery
+ the bucket from the Pacific to Eastman for delivery to the Submarine operations commenced, however, a
+ Kodak’s film processing center, Development Group I, the Navy unit series of land and sea trials occurred to
+ encountered problems owing to the directly responsible for the salvage test the hook’s functionality and allow
+ sunken object’s unknown condition.14 operation, at San Diego, California, crews to practice transferring the item
+ Opinions varied on whether it was still where crews readied the Trieste II from the Trieste II (DSV-1) to surface
+ intact or had broken apart at impact or (DSV-1) and support ships. The Navy’s ships. In the first test, on 20 September,
+ during its descent into the high-pres- Underwater Research and Development the hook, suspended from a crane, suc-
+ sure deep. Initial plans called for Center agreed to fabricate the Perkin- cessfully lifted a loaded 55-gallon drum
+ attaching a hook with a cable to the Elmer “hay hook” by 17 September. off a sandy beach from various posi-
+ bucket and hauling it to the surface, but Plans were also underway to procure a tions (nose down, on its side, etc.) and
+8
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ An Integral Operating Unit
+ (IOU) composed of the USS Apache,
+ USS White Sands, and Trieste II
+ (DSV-1) left San Diego for the “at sea”
+ test site 60 miles offshore on 27
+ September. At 11:00 AM, the next day,
+ Lt. Cmdr. Malcolm G. Bartels, the
+ White Sands and Trieste II (DSV-1)
+ commander, outlined the test proce-
+ dures. Two officers, Lt. Cmdr. Phil C.
+ Stryker Jr. and Lt. Richard “Dick” H.
+ Taylor, would join Bartels in the three-
+ person craft. The Trieste II (DSV-1)
+ would carry an NRO-provided dummy
+ bucket, tethered to its forward port
+ skeg, 4,200 feet to the bottom to avoid
+ searching for or possibly losing it. The
+ submersible would test the hook’s
+ opening and closing abilities, then
+ back away 50 to 100 yards to deter-
+ mine the sensitivity of the dummy
+Figure 3: Perkin-Elmer designed “hay hook” attached to the Trieste II. Credit: CIA
+ bucket’s pinger and the receiving
+ equipment onboard the Trieste II
+ (DSV-1). If all went well, the sub-
+ mersible would recollect the dummy
+ bucket, surface, and practice transfer
+ operations to the White Sands. The
+ IOU would then sail directly to the
+ search zone off the Hawaiian
+ Islands.22
+ Plans called for the oceangoing
+ tug Apache to tow the White Sands, a
+ World War II era auxiliary repair dock
+ with limited independent maneuver-
+ ability, to an operating area, with the
+ Trieste II (DSV-1) stowed in its dock
+ well (Figures 6 and 7). Launching the
+ Trieste II (DSV-1) required flooding
+ the dock well and towing the sub-
+ mersible out to sea through the White
+ Sands stern gate. Once launched, the
+ approximately ten hour-long pre-dive
+ checkout procedure, which included
+ loading about 67,000 gallons of avia-
+ tion gasoline and 30 tons of steel shot
+ ballast into the small craft, would
+Figure 4: Perkin-Elmer “hay hook” in the open position. Credit: CIA occur.
+ Following the completion of
+ pre-dive procedures, the first test dive
+ at different depths in the sand to simu- inspection, however, revealed it failed commenced at 3:45 PM on 29
+ late immersion in the ocean bottom. to open to the full 70 inches as September. Onboard the Trieste II
+ The 900 lb hook was 150 lb over spec- designed. Molaskey nevertheless (DSV-1), several sonar, television,
+ ifications owing to the installation of believed shortening the center rod on camera, navigation, and electrical
+ counterbalance weights, but it initially both sides by about three inches would problems occurred almost immediate-
+ appeared to operate well. A closer easily correct the problem.21 ly after submerging. Reaching the bot-
+ tom, the manipulator arm had difficul-
+ 9
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ ty cutting away the dummy bucket. The
+ submersible had to rise off the bottom,
+ dangling the object from its skeg to
+ cause enough tension in the tether to
+ cut it. A lack of depth perception out
+ the viewport made maneuvering the
+ hook over the bucket extremely diffi-
+ cult. Although they came close, the
+ crew was unable to lower the hook over
+ the object on this dive. During these
+ maneuvers, the winch cable jumped the
+ pulley and broke, dropping the hook.
+ Having lost 900 pounds unexpectedly,
+ the small submersible shot up 400 feet
+ before its crew could release enough
+ gasoline to stop the ascent. Back on the
+ bottom, the hook and dummy bucket
+ were difficult to find; it took 45 min-
+ utes to find both. Unable to retrieve Figure 5: Early sketch of Perkin-Elmer designed shipping container intended to
+ both objects in its mechanical arm, the transport the salvaged bucket to Eastman Kodak’s film processing center in
+ Trieste II (DSV-1) surfaced with the Rochester, New York. Credit: NRO
+ hook hanging straight down. The three-
+ man crew finally returned to the White
+ Sands at about 2:00 AM on 30 five days later where the Trieste II plywood box constructed around a two-
+ September.23 (DSV-1) was unable to locate the foot by four-foot frame insulated by
+ A meeting occurred a few hours dummy bucket on the ocean floor and one-and-a-half inch glass wool blan-
+ later to choose a course of action for experienced another navigation com- kets with the aluminum side facing the
+ the remainder of the test. Cmdr. John puter failure causing the submersible to box’s interior. An outside cooling unit
+ Bradford “Brad” Mooney, representing surface about five miles from the target blew air into the box through an open-
+ Capt. Samuel R. Packer, commanding point. This caused concern not only for ing behind the cooling coil. On 2
+ officer of Submarine Development the equipment problems, but because November, as the IOU approached the
+ Group I, strongly advocated the need to the De Steiguer was already transiting search zone, discussions among the
+ perfect a recovery technique with all to the search zone. The Trieste II (DSV- crew discovered that the device could
+ due haste. During the course of the day, 1) did not locate the dummy bucket not cool “8,000 pounds of sea water to
+ with the Trieste II (DSV-1) still under- until the test third dive on 11 October, below 40 oF in the outside ambit of
+ tow to avoid the lengthy period needed but with the submersible’s power run- about 90 oF in bright sunlight.” The
+ to stow and relaunch the submersible, ning dangerously low, and no time for crew painted the unit’s exterior white,
+ crews repaired the craft’s electrical additional test dives, Bartels, Stryker, constructed a duct to recirculate the
+ problems, recharged batteries, reposi- and Taylor instead exercised the hook cooled air, taped off all seams, and
+ tioned the winch line, replenished shot without actually maneuvering it over insulated the unit as much as possible
+ and gasoline, and completed other the dummy bucket. That gave the men in order to improve its cooling abilities.
+ preparations for the next dive. The confidence they could collect the item They then undertook the difficult task
+ crew added black, white—and eventu- given enough time. When the Trieste II of placing the shipping container—
+ ally international orange—strips, to (DSV-1) surfaced and was back which when hanging from the ship’s
+ increase the hook’s visibility, installed onboard the White Sands, the IOU crane, swung like a “house wrecker’s
+ a plumb bob in the hook’s center to aid headed for the search zone. On 20 ball” in even the smallest rolls—inside
+ in positioning it over the bucket, and October, the De Steiguer reported it the cramped refrigerator box and filled
+ again modified the mechanism to found the lost bucket and had pho- it with seawater to start the cooling
+ enlarge its opening span. After com- tographed it with the camera on the process. During this period, pieces of
+ pleting these tasks, and testing the search fish (Figure 8).25 insulation fell into the shipping con-
+ hook’s expanded opening radius by While transiting to the search tainer, requiring the crew to overflow
+ lifting it with the White Sands crane, zone, the White Sands crew built a the container with water to remove the
+ problems with the White Sands fresh wooden refrigerator on deck as containments
+ contaminants and send out calls to the
+ water supply forced the IOU back to planned. The eight-foot tall, by eight- mainland for more insulation.26
+ San Diego on 1 October.24 foot wide, by eight-foot long contrap- As crewmembers handled the
+ The ships returned to the test site tion consisted of a three-quarter inch refrigerator and container problems,
+10
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ descended toward the bottom in the Trieste II (DSV-1). At
+ about 8:00 PM, one hour and 45 minutes into the dive, they
+ paused 300 feet above the ocean floor. Relaying range to the
+ DOTs via a hydrophone, while the Apache and White Sands
+ tracked their position, the men began searching for the sunken
+ item. Although they received several sonar contacts, they
+ made no visual sighting, and feared they might be in the
+ wrong location. The dive ended around 2:00 AM on 5
+ November without finding the bucket.27
+ A meeting with two Apache officers from the dive’s
+ navigation team later that morning to plan the next attempt
+ decided that the Apache should survey the field from the sur-
+ face to confirm the location of the underwater DOTs. During
+ the meeting, however, bad weather moved in and grew steadi-
+ ly worse over the next days with 30-knot wind gusts and
+ eight- to ten-foot swells reported on 7 November. Weather
+ conditions postponed the Apache’s navigation survey because
+Figure 6: Trieste II (DSV-1) stowed in the White Sands dock well.
+ the White Sands, unable to maintain headway against the high
+ Credit: CIA
+ seas, required the Apache to provide a tandem tow for the
+ White Sands and Trieste II (DSV-1), which could not be
+ stowed in such difficult sea conditions.28
+ On 9 November, with Apache’s fuel running low and
+others readied the Trieste II (DSV-1) for launch. At 8:30 PM,
+ weather conditions worsening, the ships headed toward the
+the White Sands started flooding its dock well, and by 10:30
+ operation area’s southernmost sector. Growing concern that
+that night, had taken the Trieste II (DSV-1) undertow. Since
+ heavy seas might damage the Trieste II (DSV-1), undertow
+the refrigerator had cooled to only 56 oF on 3 November, the
+ for such length in rough weather, caused the IOU to reduce
+White Sands began making regular ice to place inside the
+ the tandem tow’s speed to the minimum two knots needed to
+makeshift refrigerator and called in additional airdrops of dry
+ maintain steerage. On 10 November, the USS Current
+ice and insulation to cool the contraption. With the airdrops in
+ relieved the Apache, which headed to Pearl Harbor for refuel-
+progress during the early afternoon of 4 November, the White
+ ing. The Current towed the White Sands and Trieste II (DSV-
+Sands headed for “zero DOT,” one of the transponders the De
+ 1) to the lee side of the Hawaiian Islands where crews stowed
+Steiguer placed to mark the sunken bucket’s location. The
+ the submersible onboard the White Sands before the Apache
+Apache, meanwhile, released additional DOTs. As the White
+ returned to tow the White Sands, with the Trieste II (DSV-1)
+Sands approached zero DOT, Bartels, Stryker, and Taylor
+ inside, into Pearl Harbor on 15 November.29
+ The next day, Rear Admiral Paul L. Lacy Jr., command-
+ er, Submarine Forces, Pacific Fleet, met with Cmdr. Mooney,
+ in charge of the operation at sea, and his officers, and then pri-
+ vately with the onsite CIA representative, to decide whether
+ to postpone operations until fairer spring weather arrived. The
+ decision was to try again immediately with additional Navy
+ support. After refitting all ships, including replacing the
+ makeshift wooden refrigerator built in transit with an eight-
+ foot by eight-foot by twenty-four-foot walk-in freezer capable
+ of maintaining temperatures as low as 0 oF, the IOU left Pearl
+ Harbor on 21 November. This time, Capt. Packer replaced
+ Mooney as the officer in charge to add his full authority. The
+ Navy also assigned two other tugs, the Abnaki and Coucall,
+ for greater flexibility. When the IOU reached the search zone
+ on 24 November, the White Sands separated its towline allow-
+ ing the Apache to conduct the DOTs survey, which bad
+ weather had postponed during the first recovery attempt. The
+ Apache located all DOTs despite fears the De Steiguer-placed
+ DOTs, which only had a one-month life expectancy, may have
+ expired. Analysis of the survey and discussions with Dr.
+ Spiess indicated that the De Steiguer, which had experienced
+Figure 7: A crane lifting U.S. Navy’s Trieste II (DSV-1) sub. navigation problems enroute to the search area, might have
+ Credit: CIA
+ misreported at least one and possibly two DOT locations.
+ 11
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ Armed with this new information, crews felt they could vec- or permanently.” Security marked concerns almost from the
+ tor the Trieste II (DSV-1) directly to the bucket, avoiding an effort’s start. As early as 16 August 1971, the deputy assistant
+ elaborate search.30 for NRO security cited CIA findings that “the Soviets have no
+ Weather delayed the next dive until 5:45 PM on 30 capability to recover the capsule,” and no evidence they know
+ November. On the way down, Bartels, Stryker, and Taylor it crashed. The CIA concluded that while the Soviet Navy
+ again encountered mechanical problems with the Trieste II maintains a tug equipped with communications equipment
+ (DSV-1). The Doppler sonar failed. A leak in the starboard that could presumable monitor U.S. reentries in the Pacific
+ shot release caused the submersible to develop a 25-degree Ocean to support its nuclear submarine fleet, the tug was
+ list to port, and the men felt they lacked control until reaching nowhere near HEXAGON’s recovery area on 10 July.35
+ a depth of about 7,000 feet. Around 15,000 feet, a computer Buzard, on the other hand, referencing Defense Intelligence
+ power failure lost part of the navigation memory. Riding with Agency reports, found the opposite: the Soviet Union may
+ the trail ball (a device hanging below the submersible to alert have the ability to recover objects from 33,000 feet, and spec-
+ the crew when they were approaching bottom) out to about 35 ulated they likely know the bucket landed in the ocean.
+ feet obscured the ocean floor so they winched it in to 10 feet. Buzard explained Moscow and other governments “have the
+ This caused the submersible to move forward since the cable, same territorial rights in the ocean as we. If we abandon the
+ due to the list, assumed a slight angle to the rear, pulling the site they can move in,” and pointed to a Soviet ship keeping
+ craft down slightly. Attempts to lower the ball failed. As a station in the North Atlantic directly over one of its downed
+ result, the Trieste II (DSV-1) had to either slow down or slide November class submarines for over a year-and-a-half “pre-
+ the skeg along the bottom to move, making steering diffi- sumably to preclude any U.S. effort to recover hardware.”
+ cult.31 Since the IOU’s salvage operations, “have established a pre-
+ The men eventually received a signal from one of the cise area of extreme interest, which the Soviets must be
+ DOTs and drove in that direction until losing contact due to a aware,” he warned, “we should not abandon the site until our
+ dead zone between the sonar’s 30-yard minimum range and objective is achieved.” Buzard recommended, “If we abandon
+ the 30-foot maximum visual range out the viewport. The crew the site without achieving the objective, we should perform
+ then spotted the sunken bucket passing about two feet off the all actions that make it appear as if we have retrieved 1201-3
+ starboard skeg. They stopped immediately, but the sub-
+ mersible’s momentum carried it beyond the target. They
+ maneuvered to bring the bucket into view when the low volt-
+ age battery light activated. The crew was unable to plant a
+ new DOT next to the target, and with little power remaining
+ (4 of 65 battery cells were depleted to the extent they reversed
+ polarity), had no choice but to end the mission. They surfaced
+ at 4:15 AM on Wednesday, 1 December.32
+ Steadily deteriorating weather again halted dive opera-
+ tions. Twenty-knot winds, two-foot seas, with over six-foot
+ swells battered the ships on 2 December, followed by 30-knot
+ gusts two days later. Near tragedy struck once again when on
+ 5 December the White Sands, towing the Trieste II (DSV-1) in
+ high seas, slowed or briefly stopped. Momentum carried the
+ submersible into the White Sands stern, causing the towline to
+ slacken and wrap around the larger ship’s port station-keeping
+ propeller. In changing towlines, a swell caught the small sub-
+ mersible and set it adrift. The Apache managed to take the
+ submersible in tow, without collision or damage to either ves-
+ sel, except for the White Sands now inoperable engine. An
+ inconspicuous note in the Apache deck log captured the
+ drama: “Trieste II is adrift. Commenced making various
+ courses and speeds to take Trieste II in tow.”33 The IOU
+ returned to Pearl Harbor days later with plans to resume oper-
+ ations after Christmas.34
+ With salvage activities temporarily halted, retiring
+ HEXAGON Program Manager Col. Frank S. Buzard sent a
+ message to NRO Staff Director Col. David D. Bradburn and
+ NRO Deputy Director Naka on 7 January 1972 expressing Figure 8: Photograph of the sunken bucket’s intact upper struc-
+ ture, taken by the USNS De Steiguer search team on 20 October
+ thoughts about a Soviet attempt to recover the sunken item in
+ 1971 at 16,400 feet. Credit: CIA
+ the event “we decide to abandon the scene for a short period
+12
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ [designation for third bucket from
+ HEXAGON M1201] including those
+ communications which would be ordi-
+ narily needed for.”36
+ The IOU left Pearl Harbor again
+ for the search zone five days after
+ Buzard sent his note, but bad seas
+ forced the unit back to port in early
+ February without conducting dive oper-
+ ations. Poor weather and the need to dry
+ dock the White Sands for repairs post-
+ poned salvage operations until the
+ spring. No evidence was found to indi-
+ cate the Navy followed Buzard’s advice
+ to keep station over the bucket, but it
+ seems unlikely given the poor weather
+ conditions. The IOU next departed
+ Pearl Harbor for the search site on 8
+ April.
+ At about 5:00 PM on 25 April
+ 1972, Bartels, Stryker, and Taylor start-
+ ed their third dive for the bucket.
+ Following a two-hour descent, and a
+Figure 9: First piece of debris the Trieste II (DSV-1) sighted 25-26 April 1972. three-and-a-half-hour search, they
+ Credit: CIA sighted a tangled mass of metal and
+ screen wire harness 18 to 24 inches long
+ and eight to ten inches wide (Figure 9).
+ They next sighted two jagged gold foil
+ pieces six to eight inches across (Figure
+ 10). Transiting to a large sonar contact
+ 800 feet away, they found what
+ appeared to be a six-to-eight inch long
+ piece of nylon webbing with a two-inch
+ metal ring attached, and then, finally,
+ the missing item embedded in the sea
+ floor 18 to 24 inches.
+ Evidence as to the object’s condi-
+ tion varies. A 29 April message said it
+ appeared intact with a hole in the center
+ of the aft thermal bulkhead and multiple
+ strands of film streaming out another
+ hole at the 9 o’clock position about two
+ or three feet, undulating with the sea
+ current. Photos of the salvage operation
+ and post-recovery analysis, however,
+ indicate that the bucket probably broke
+ apart and that the film stacks (Figures
+ 11 and 12) had detached from the struc-
+ ture and were laying exposed on the
+ ocean floor. Only the bucket’s upper
+ stage remained intact. This upper struc-
+ ture possibly appeared in the 20
+Figure 10: Second piece of debris the Trieste II (DSV-1) sighted 25-26 April 1972. October photos the De Steiguer search
+ Credit: CIA team took and could account for the
+ apparently inaccurate 29 April report
+ that the bucket was intact.37
+ 13
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ Ninety minutes of careful maneu-
+ vering, and six attempts later, the hook
+ was in position to retrieve the film
+ stacks. The submersible rose off the
+ bottom, held motionless for ten minutes
+ to allow silt and mud to drain (Figure
+ 13), and once everything appeared
+ secure, started a careful ascent, but the
+ action proved too much for the fragile
+ item. Ten minutes later, pieces of film
+ began breaking off in lengths varying
+ from one inch to two or three feet
+ (Figure 14). Almost halfway to the sur-
+ face, the film started breaking into two
+ to three foot segments. By the time the
+ Trieste II (DSV-1) neared the surface
+ around 2:30 AM on 26 April, more than
+ nine hours after starting its dive, pieces
+ were hanging through the lines of the
+ hook. To minimize surface swell, the
+ hook was lowered to about 35 feet
+ while a five-person dive team from the
+ White Sands, 3,000 to 4,000 yards
+ away, raced to the scene in small boats.
+ The film stacks nevertheless continued
+ breaking apart and disintegrated into a
+ cloud of reddish brown dust about ten
+ minutes before the divers arrived. All
+ that remained were unusable shreds of
+ film three to six feet in length hanging
+ from the hook. Nothing suggesting a
+ satellite remained for others to find.38
+ At 3:33 PM on 26 April, the
+ Apache, with the White Sands in tow,
+ changed course to 120 degrees true and
+ departed “from the MPL research site”
+ for the last time.39 An Eastman Kodak
+ analysis of seven strands of recovered
+ film later concluded the film “separated
+ into pieces due to externally and rapid-
+ ly applied forces,” probably at the ini-
+ tial impact point, not prolonged expo-
+ sure to seawater, depressurization, or
+ the ocean floor’s high pressure and low
+ temperature. The impact had been
+ severe enough to transfer paint in two
+ places as the film roll hit, or was hit by,
+ nearby parts of the assembly. The num-
+ ber 300 (Figure 15) was partially legi-
+ ble on one occasion.
+ Epilogue
+ Figures 11 and 12. Film stacks on the ocean floor, 25-26 April 1972. Credit: CIA
+ After the parachute failures on
+ the first Hexagon mission, McDonnell-
+ Douglas and the Aerospace
+ Corporation designed a stronger
+14
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ “extended skirt” chute (Figure 16),
+ manufactured by Para Dynamics in
+ El Monte, California. The Irving Air
+ Chute Company designed a new
+ drogue chute. Tests proved the new
+ chutes were vastly superior to the
+ original devices designed by the
+ Goodyear Aerospace Company.
+ Analysis of the recovered chutes
+ from the first two and fourth
+ HEXAGON buckets found the main
+ shroud lines overstressed by a factor
+ of two, which resulted from a failed
+ design and a testing oversight that
+ did not account for the high-shock
+ of initial chute deployment. Calling
+ the old chutes “at best marginal,”
+ NRO Historian Robert Perry con-
+ cluded in his recently declassified
+ 1973 HEXAGON history that it
+ seemed almost miraculous crews
+ retrieved three of the four buckets:
+ “by all odds,” Perry wrote, “the
+ ratio should have been reversed.”
+ As an added measure, technicians
+ “baked” the new chutes at 370
+Figure 13: Film stacks inside the recovery hay hook shortly after leaving the bottom, 25- degrees for eight hours to set their
+26 April 1972. Credit: CIA shape before installation into the
+ bucket. To ensure quality,
+ Aerospace and McDonnell-Douglas
+ representatives inspected and
+ packed each chute using a new vac-
+ uum technique, which extracted air
+ to reduce volume. The parachute
+ deployment altitude was also low-
+ ered to 40,000 feet so thicker air
+ could further slow the descending
+ object. The added time to correct
+ the design defects delayed the sec-
+ ond HEXAGON launch until 20
+ January 1972, but the new chutes
+ worked perfectly on all four buck-
+ ets.40
+ A 24 May 1972 CIA memo
+ for the record summarizing the sal-
+ vage operation identified several
+ lessons learned. It maintained that
+ an integrated search and salvage
+ effort could have avoided the search
+ team’s confusing data, which sent
+ the Trieste II (DSV-1) looking in the
+ wrong location during the first dive.
+ It recommended creating a method
+Figure 14: Photo showing the film stacks disintegrating in transit to the surface, 25-26
+ of readying the Trieste II (DSV-1)
+April 1972. Credit: CIA independent of weather conditions,
+ because the Navy needed two or
+ 15
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ Unit with a Meritorious Unit
+ Commendation for “this singularly sig-
+ nificant achievement,” which “provid-
+ ed the United States Navy with the
+ capability to conduct deep-ocean
+ search, location, and object recovery
+ operations in 80 percent of the sea
+ areas on Earth.” DNRO McLucas also
+ praised the crews of the ships involved
+ in a 15 May memo to Secretary Frosch,
+ writing they “established and demon-
+ strated a unique capability vital to the
+ security of the United States.” 45
+ Locating such a small object at such a
+ depth, and in such a remote location,
+ under difficult sea and weather condi-
+ Figure 15: Photo taken during Eastman Kodak's post-salvage analysis of recovered film
+ shreds showing the number 300 imprinted on the film. Paint transfer due to the extreme tions over an eight-month period was a
+ impact shock caused the imprint. Credit: CIA remarkable feat utilizing innovative
+ salvage techniques, navigation equip-
+ ment, and concepts in ocean survey and
+ navigation. It deserves a unique place
+ three days of calm seas to prepare the the operation to recover the HEXA-
+ in history.
+ submersible once launched, and criti- GON bucket ended in a cloud of dust,
+ cized the craft’s “relatively poor” relia- the CIA launched the 170-crewed
+ About the Author
+ bility noting, “Major system failures Glomar Explorer, built by eccentric
+ David Waltrop is a program manager in
+ occurred on each of the three dives.” billionaire Howard Hughes, to conduct
+ the CIA Historical Collections
+ The memo stated the IOU’s lack of a larger, more ambitious, undersea sal-
+ Division. He served previously as the
+ mobility limited the number of dives, vage operation. Publicly, it would
+ National Reconnaissance Office
+ because the ships, moving at about extract minerals from the ocean floor,
+ (NRO) deputy chief historian and co-
+ three knots, needed at least three days but its true mission was to retrieve a
+ editor of NRO’s quarterly corporate
+ to transit from Pearl Harbor to the Soviet Golf-II submarine, which sank
+ publication. All statements of fact,
+ search zone, missing dive opportunities in March 1968, 1,560 miles northwest
+ opinion, or analysis expressed in this
+ and requiring extended periods at sea of Hawaii, in 16,500 feet of water. The
+ article are those of the author and do
+ waiting for improved weather. It ended outcome of both operations turned out
+ not necessarily reflect the official posi-
+ saying the success of the second oddly similar with part of the Soviet
+ tions or views of the CIA, NRO, or any
+ HEXAGON mission considerably submarine falling back to the ocean
+ other U.S. government agency. Nothing
+ reduced the intelligence value of recov- floor during its attempted salvage on 8
+ in this article should be construed as
+ ering the film from the ocean bottom; August 1974.42
+ asserting or implying U.S. government
+ the motivating factor became showing The HEXAGON capsule recov-
+ authentication of information or
+ the ability to perform a deep-sea recov- ery ranks in the top of bold operations
+ Agency endorsement of the author’s
+ ery. undertaken in intelligence and undersea
+ views. The CIA and NRO have
+ The magazine Undersea exploration history. Although the film
+ reviewed this material to prevent the
+ Technology published a three-para- stacks “slipped from our fingers at the
+ disclosure of classified information.
+ graph article on the salvage operation last moment,” it was the world’s deep-
+ Citations to CIA records were omitted.
+ in July 1972. Although it did not men- est successful salvage up until that
+ tion any classified aspects–only that the point, accomplished against staggering
+ For More Information
+ Trieste II (DSV-1) recovered a “small environmental and technical odds.43 A
+ For information on this operation,
+ electronic package” during the “deep- strikingly brief reference in the White
+ including declassified photos and docu-
+ est operation of its kind ever success- Sands ship’s history file at the U.S.
+ ments, and a copy of this article for
+ fully accomplished in the world” and Naval Historical Center says, “The
+ download, see the CIA public website:
+ named the key personnel and ships period from 2 August through the end
+ involved—it did cause a discussion of the year was occupied by a major https://www.cia.gov/library/publications/
+ between NRO Deputy Director Naka effort in preparing and conducting the historical-collection-publications/
+ and the Navy on its source. The Navy deepest salvage-recovery operation yet index.html
+ told Naka it did not authorize the attempted by man.”44 Chief of Naval
+ release.41 Operations Admiral Elmo R. Zumwalt
+ On 4 November, six months after Jr. presented the Integral Operating
+16
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+Acknowledgments Distribution, SUBJ Recovery of RV - #3, 17. Memo, L. Molaskey to Distribution,
+The author would like to thank Dr. 27 July 1971, NRO ARC, Job SUBJ Trip Report – Visit to San Diego RE
+Vance Mitchell, Dr. Jeffrey Charlston, 199900043, Box 4, File 24; D. Recovery of RV #3, 1 September 1971,
+Cargill Hall, Jim David, Brad Mooney, Patterson, Memo for the Record, SUBJ NRO ARC, Job 199900043, Box 4, File
+ RV-3 Recovery Planning Meeting, 28 July 24.
+Mal Bartels, Dick Taylor, and Lee
+ 1971, NRO ARC, Job 199800074, Box 5,
+Mathers for assisting with this article, File 156; Memo to DNRO McLucas, SUBJ
+ 18. Memo for the Record, SUBJ Status of
+and offer special gratitude to the Recovery Effort as of 14 September
+ Possible Recovery of Hexagon Mission
+declassification officers responsible for 1971, 14 September 1971, NRO ARC,
+ 1201 RV-3, 3 August 1971, NRO ARC,
+releasing this story. Job 199800074, Box 5, File 15.
+ Job 199800074, Box 5, File 156.
+ 19. Memo, T. Urban to L. Molaskey, SUBJ
+ 9. Documents indicate the Navy had
+ Trip to Container Research Corp. Glen
+Notes certified the Trieste II (DSV-1) to 13,000
+ Riddle, PA on 9/14/71, 15 September
+1. NRO Review and Redaction Guide for feet at the time of the 27 July CIA meet-
+ 1971, NRO ARC, Job 199900043, Box 4
+Automatic Declassification of 25-year old ing, but operation participants say the
+ File 24; Memo, L. Molaskey to
+information, version 1.0, 2008 edition, Navy had certified the submersible to
+ Distribution, SUBJ Trip Report – Recovery
+p. 178-179. Available at www.nro.gov, 20,000 feet, with a maximum achieved
+ Hook Test Program – San Diego,
+declassified records, frequently request- depth of 13,000 feet.
+ California 20-21 September 1971, 24
+ed records.
+ 10. Operation participants do not recall September 1971, NRO ARC, Job
+2. Frederic Oder, James Fitzpatrick, Paul this existing deployment to the Hawaiian 199900043, Box 4 File 24.
+Worthman, The Corona Story, 1987, p. Islands, in comparison to the docu-
+ 20. Memo, L. Molaskey to Distribution,
+96-98. Available at www.nro.gov, ments, but cannot rule out such a mis-
+ SUBJ Trip Report – Recovery of #3 – San
+Declassified Records, Frequently sion.
+ Diego, California – 23 and 24
+Requested Records.
+ 11. Memo, DNRO McLucas to Assistant September, 29 September 1971, NRO
+3. Robert Perry, A History of Satellite Secretary of the Navy for Research and ARC, Job 199900043, Box 4, File 24.
+Reconnaissance: Volume 3A Gambit, Development, SUBJ Deep Sea Recovery
+ 21. Memo, L. Molaskey to Distribution,
+1974, p. 297-298. Available at of Hexagon Reentry Vehicle, 10 August
+ SUBJ Trip Report – Recovery Hook Test
+www.nro.gov, Declassified Records, 1971, NRO ARC, Job 199800074, Box 5,
+ Program – San Diego, California 20-21
+Gambit and Hexagon Special Collection, File 156.
+ September 1971, 24 September 1971,
+Gambit and Hexagon Histories,
+ 12. Memo, Secretary Frosch to DNRO NRO ARC, Job 199900043, Box 4, File
+Document 4.
+ McLucas, SUBJ Deep Sea Recovery of 24; Memo, L. Molaskey to Distribution,
+4. Frederic Oder, Paul Worthman, The Hexagon Reentry Vehicle, 18 August SUBJ Trip Report – Recovery of #3 – San
+Hexagon Story, 1988, p. 97. (henceforth, 1971, NRO ARC, Job 199800074, Box 5, Diego, California – Activities of 9-22-91,
+Hexagon Story). Available at File 156. 30 September 1971, NRO ARC, Job
+www.nro.gov, Declassified Records, 199900043, Box 4, File 24.
+ 13. Memo for the Record, SUBJ Status of
+Gambit and Hexagon Special Collection,
+ Recovery Effort as of 14 September 22. Memo, L. Molaskey to Distribution,
+Gambit and Hexagon Histories,
+ 1971, 14 September 1971, NRO ARC, SUBJ Trip Report – Recovery of #3 –
+Document 7.
+ Job 199800074, Box 5, File 157. Activities of 27 September through 3
+5. Memo, L. Molaskey to Distribution, October 1971, 4 October 1971, NRO
+ 14. Richard Chester, A History of the
+SUBJ Recovery of RV - #3, 27 July 1971, ARC, Job 199900043, Box 4, File 24.
+ Hexagon Program, p. 159-167. Available
+National Reconnaissance Office Archive
+ at www.nro.gov. Declassified Records, 23. Ibid.
+and Records Center (henceforth NRO
+ Gambit and Hexagon Special Collection,
+ARC), Job 199900043, Box 4, File 24; 24. Ibid. Molaskey’s trip report
+ Gambit and Hexagon Histories,
+Memo for the Record, SUBJ Status of describes a fresh water problem on the
+ Document 1.
+Recovery Effort as of 14 September White Sands, but recovery participants
+1971, 14 September 1971, NRO ARC, 15. Memo, L. Molaskey to Distribution, do not recall this causality.
+Job 199800074, Box 5, File 157. SUBJ Trip Report – Recovery of RV #3,
+ 25. Memo, L. Molaskey to Distribution,
+ 20 August 1971, NRO ARC, Job
+6. Hexagon Story, p. 97. SUBJ Status of RV-3 Recovery (Telecon to
+ 199900043, Box 4, File 24.
+ Cdr. Mooney, Sub Dev. Group I), 8
+7. Robert Perry, A History of Satellite
+ 16. Memo, L. Molaskey to Distribution, October 1971, NRO ARC, Job
+Reconnaissance: Volume 3B Hexagon,
+ SUBJ Recovery of RV #3 – Meeting at 199900043, Box 4, File 24; Memo, L.
+1973, p. 104-105 (henceforth Perry,
+ NWC 7-30-71, 2 August 1971, NRO ARC, Molaskey to Distribution, SUBJ Telecon
+Hexagon History). Available at
+ Job 199900043, Box 4, File 24; Memo, with Lt. Cdr. Doyle, 12 October 1971,
+www.nro.gov, Declassified Records,
+ L. Molaskey to Distribution, SUBJ Telecon NRO ARC, Job 199900043, Box 4, File
+Gambit and Hexagon Special Collection,
+ to <DELETED>, 4 August 1971, NRO 24; Memo, L. Molaskey to Distribution,
+Gambit and Hexagon Histories,
+ ARC, Job 199900043, Box 4, File 24; SUBJ Status of RV-3 Recovery, 13
+Document 5; Hexagon Story, p. 97, 101.
+ Perkin-Elmer Contract Authorization, 3 October 1971, NRO ARC, Job
+8. For accounts of the 27 July CIA meet- September 1971, NRO ARC, Job 199900043, Box 4, File 24.
+ing in this and the following three para- 199900043, Box 4, File 24.
+ 26. Ibid.
+graphs see: Memo, L. Molaskey to
+ 17
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ 27. Ibid.
+ 28. Memo, L. Molaskey to Distribution,
+ SUBJ Trip Report – Recovery of RV#3, 18
+ November 1971, NRO ARC, Job
+ 199900043, Box 4, File 24.
+ 29. Memo, L. Molaskey to Distribution,
+ SUBJ Trip Report – Recovery of RV#3, 22
+ November 1971, NRO ARC, Job
+ 199900043, Box 4, File 24; USS Apache
+ (ATF-67) Deck Log for November 1971,
+ National Archives and Records
+ Administration, RG 24, Box 89.
+ 30. Memo, L. Molaskey to Distribution,
+ SUBJ Trip Report-Recovery of RV #3, 22
+ November 1971, NRO ARC, Job
+ 199900043, Box 4, File 24; Memo, L.
+ Molaskey to Distribution, SUBJ Trip
+ Report–Recovery of RV #3, 10 December
+ 1971, NRO ARC, Job 199900043, Box 4,
+ File 24.
+ 31. Memo, L. Molaskey to Distribution,
+ SUBJ Trip Report – Recovery of RV #3, 10
+ December 1971, NRO ARC, Job
+ 199900043, Box 4, File 24.
+ 32. Ibid. Molaskey’s trip report says the
+ crew attempted to use the submersible’s
+ mechanical arm to plant a new DOT next
+ to the target, but the arm would not oper-
+ ate correctly, possibly owing to the list
+ and battery problems. Operation partici-
+ pants, however, adamantly contend the Figure 16: KH-9 HEXAGON Mark 8 “extended skirt” parachute with bucket below.
+ arm never worked below 10,000 feet. Credit: NRO
+ The pilots would never have attempted to
+ use the arm during the actual bucket
+ recovery.
+ 33. USS Apache (ATF-67) Deck Log for 38. Ibid. SUBJ Deep Sea Recovery of Hexagon, 9
+ December 1971, National Archives and May 1972, NRO ARC, Job 199800074,
+ Records Administration, RG 24, Box 89. 39. USS Apache (ATF-67) Deck Log for
+ Box 5, File 152.
+ April 1972, National Archives and
+ 34. Memo, L. Molaskey to Distribution, Records Administration, RG 24, Box 89. 44. Memo, C. Hudiburgh to Commander
+ SUBJ Trip Report – Recovery of RV #3, 10 Submarine Group One, SUBJ White
+ December 1971, NRO ARC, Job 40. Perry, Hexagon History, p. 105-106;
+ Sands (ARD20) Command History 1971,
+ 199900043, Box 4, File 24. Hexagon Story, p. 101-103.
+ 3 May 1972, U.S. Navy Yard Washington,
+ 35. Memo, SUBJ Recovery of RV-3, 10 41. “Trieste Recovers Electronics DC, Navy Archives Ships File, Box 859A.
+ August 1971, NRO ARC, Job 199700059, Package from 16,400-ft. Depth,”
+ 45. Memo, DNRO McLucas to Assistant
+ Box 3, File 89; Message 1048, 10 August Undersea Technology (July 1972), p. 25;
+ Secretary of the Navy, Research and
+ 1971, NRO ARC, Job 199700059, Box 3, Memo for the Record, SUBJ (A) Message
+ Development, SUBJ Deep Sea Recovery
+ File 89; Message 2437, 12 August 1971, 4390 Dated 14 August 1971 and (B)
+ of Hexagon Reentry Vehicle, 15 May
+ NRO ARC, Job 199700059, Box 3, File Hexagon, 23 August 1972, NRO ARC, Job
+ 1972, NRO ARC, Job 19980074, Box 5,
+ 89; Memo, SUBJ Recovery of Hexagon 199700059, Box 3, File 94; Message
+ File 152.
+ R/V, 16 August 1971, NRO ARC, Job 4390, 14 August 1972, NRO ARC, Job
+ 199700059, Box 3, File 89. 199700059, Box 3, File 94.
+ 36. Message 0123, 7 January 1972, 42. “Project Azorian: The Story of the
+ NRO ARC, Job 199700059, Box 3, File Hughes Glomar Explorer”, Studies in
+ 89. Intelligence, 1985. Released by CIA on
+ 12 February 2010.
+ 37. Message 2294, 29 April 1972, NRO
+ ARC, Job 199800069, Box 3, File 1. 43. Memo, J. Draim to DNRO McLucas,
+18
+ Q U E S T 19:3 2012
+ www.spacebusiness.com/quest
+AN UNDERWATER ICE STATION ZEBRA
+ Left: Trieste II (DSV-1) pilots Lt. Cmdr. Bartels (left),
+ Lt. Taylor (center), and Lt. Cmdr. Stryker (right).
+ (Credit: Richard Taylor, Jack Myers)
+Right: Photo possibly show-
+ing Trieste II (DSV-1) before
+last dive on the HEXAGON
+bucket. “Mid-Pacific Oper-
+ations” was the recovery’s
+unclassified name.
+(Credit: Naval Undersea
+Museum, Keyport, WA)
+ 19
+ Recovering a SECRET SPY SATELLITE CAPSULE
+ Selected Declassified CIA Documents
+20
+AN UNDERWATER ICE STATION ZEBRA
+ 21
+Recovering a SECRET SPY SATELLITE CAPSULE
+22
+AN UNDERWATER ICE STATION ZEBRA
+ 23
+Recovering a SECRET SPY SATELLITE CAPSULE
+24
+AN UNDERWATER ICE STATION ZEBRA
+ 25
+Recovering a SECRET SPY SATELLITE CAPSULE
+26
+AN UNDERWATER ICE STATION ZEBRA
+ 27
+Recovering a SECRET SPY SATELLITE CAPSULE
+28
+AN UNDERWATER ICE STATION ZEBRA
+ 29
+Recovering a SECRET SPY SATELLITE CAPSULE
+Diagram of Trieste II (DSV-1).
+(Credit: Naval Undersea Museum, Keyport, WA)
+Crane lifting Trieste II (DSV-1).
+ (Credit: CIA)
+ The Historical Review Program, part of the
+ CIA Information Management Services, identifies, collects, and
+ produces historically relevant collections of declassified documents.
+ An Underwater
+ These collections, centered on a theme or event, are joined with
+ supporting analysis, essays, video, audio, and photographs,
+ and showcased in a booklet plus DVD, and made available to
+ historians, scholars, and the public.
+ Ice Station Zebra
+ All of our Historical Collections are available on the
+ CIA Library Publication Page located at:
+https://www.cia.gov/library/publications/historical-collection-publications/
+ USE MOBILE
+ Recovering a Secret Spy Satellite Capsule
+ from 16,400 Feet Below the Pacific Ocean
+ DEVICE TO SCAN
+ or contact us at
+ HistoricalCollections@ucia.gov
+
