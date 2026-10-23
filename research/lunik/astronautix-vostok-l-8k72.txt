@@ -1,0 +1,807 @@
+Vostok-L 8K72 - Encyclopedia Astronautica
+Skip to content
+79,433 pages · 13,741 images · since 1994
+Browse A–Z
+Today in space history
+Encyclopedia Astronautica
+The full story of spaceflight
+Search the site and the encyclopedia
+Exploration
+Solar System
+Deep Space
+Sky & Earth
+The Encyclopedia
+→
+A–Z
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+The Encyclopedia
+Index V
+R-7
+Vostok-L 8K72
+Encyclopedia entry
+Vostok-L 8K72
+Launch vehicle · Russia
+Part of R-7
+Original archive entry. The text, images and links below are kept as they were written.
+Luna LV
+Credit: © Mark Wade
+Russian orbital launch vehicle. R-7 ICBM with single-engine upper stage used for early Soviet unmanned lunar shots.
+The problem of start-up of a rocket stage in zero-G was not solved in the Soviet Union until Korolev's Luna upper stage was developed for the R-7. A 20 March 1958 government resolution required the first launch of a Soviet probe to the moon within a year. In this period Glushko was developing the RD-109 engine for a high performance R-7 third stage. This burned liquid oxygen and UDMH propellants, achieving the astonishing specific impulse of 350 seconds. This would potentially double the payload compared to a liquid oxygen/kerosene stage. But the new technology engine was considered too much of a risk by Korolev. It also used the toxic hydrazine fuel he detested on principal. So on 10 October 1958 he gave Kosberg the task of developing a third stage engine for the R-7 derived from the R-7 first stage verniers and burning his preferred liquid oxygen/kerosene propellants. This would power the first Luna probes to the moon and later be developed into the Vostok and Molniya upper stages.
+LEO Payload:
+4,000 kg (8,800 lb).
+Payload:
+280 kg (610 lb) to a translunar trajectory.
+Stage Data - Luna 8K72
+Stage 0. 4 x Luna 8K72-0.
+Gross Mass
+: 43,400 kg (95,600 lb).
+Empty Mass
+: 3,800 kg (8,300 lb).
+Thrust (vac)
+: 990.000 kN (222,560 lbf).
+Isp
+: 312 sec.
+Burn time
+: 120 sec.
+Isp(sl)
+: 254 sec.
+Diameter
+: 2.68 m (8.79 ft).
+Span
+: 2.68 m (8.79 ft).
+Length
+: 19.00 m (62.00 ft).
+Propellants
+:
+Lox/Kerosene
+.
+No Engines
+: 1.
+Engine
+:
+RD-107-8D74-1958
+.
+Status
+: Out of Production.
+Stage 1. 1 x Luna 8K72-1.
+Gross Mass
+: 95,300 kg (210,100 lb).
+Empty Mass
+: 6,900 kg (15,200 lb).
+Thrust (vac)
+: 936.500 kN (210,534 lbf).
+Isp
+: 315 sec.
+Burn time
+: 320 sec.
+Isp(sl)
+: 246 sec.
+Diameter
+: 2.60 m (8.50 ft).
+Span
+: 2.99 m (9.80 ft).
+Length
+: 28.00 m (91.00 ft).
+Propellants
+:
+Lox/Kerosene
+.
+No Engines
+: 1.
+Engine
+:
+RD-108-8D75-1958
+.
+Status
+: Out of Production.
+Stage 2. 1 x Luna 8K72-2.
+Gross Mass
+: 8,100 kg (17,800 lb).
+Empty Mass
+: 1,120 kg (2,460 lb).
+Thrust (vac)
+: 49.000 kN (11,015 lbf).
+Isp
+: 316 sec.
+Burn time
+: 440 sec.
+Diameter
+: 2.56 m (8.39 ft).
+Span
+: 2.56 m (8.39 ft).
+Length
+: 2.84 m (9.31 ft).
+Propellants
+:
+Lox/Kerosene
+.
+No Engines
+: 1.
+Engine
+:
+RD-0105
+.
+Status
+: Out of Production.
+More at
+:
+Vostok-L 8K72
+.
+Related
+Family
+orbital launch vehicle
+Country
+Russia
+Engines
+RD-0105
+,
+RD-107-8D74-1958
+,
+RD-108-8D75-1958
+Spacecraft
+Luna E-1
+,
+Luna E-1A
+,
+Luna E-3
+Projects
+Luna
+Launch Sites
+Baikonur
+,
+Baikonur LC1
+Stages
+Luna 8K72-0
+,
+Luna 8K72-1
+,
+Luna 8K72-2
+Agency
+Korolev bureau
+Photo Gallery
+R-7 aft end
+Credit: © Mark Wade
+Chronology
+12 events
+1958 March 20
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+Soviet lunar probes authorised.
+- .
+Nation
+:
+Russia
+.
+Program
+:
+Luna
+.
+Spacecraft
+:
+Luna E-1
+.
+Decree 'On work on automated lunar probes and three-stage launch vehicles for them' was issued..
+1958 August 18
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+Luna launch delayed.
+- .
+Nation
+:
+Russia
+.
+Class
+:
+Technology
+.
+Type
+: Navigation technology satellite.
+Planned August launch rescheduled after failure of American lunar probe on August 17. Inability to complete final tests of the new engines and malfunctions during pre-launch preparations indicated a lot of work had to be done on the new launch vehicle before the first launch could be attempted.
+1958 September 2
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+Launch of Soviet Luna probes authorised.
+- .
+Nation
+:
+Russia
+.
+Program
+:
+Luna
+.
+Spacecraft
+:
+Luna E-1
+.
+Decree 'On launch of automated lunar probes November' was issued..
+1958 September 23
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Launcher disintegrated 93 seconds after launch due to longitudinal resonance of strap-ons..
+Failed Stage
+: 0.
+Luna failure - booster disintegrated at T+92 seconds
+- .
+Payload
+: E-1 s/n 1.
+Mass
+: 361 kg (795 lb).
+Nation
+:
+Russia
+.
+Related Persons
+:
+Glushko
+,
+Korolev
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-1
+.
+This was the start of an acrimonious debated between Glushko and Korolev design bureaux over the fault and fix for the problem..
+1958 October 11
+08:42 GMT - .
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Launcher disintegrated 104 seconds after launch due to longitudinal resonance of strap-ons..
+Failed Stage
+: 0.
+Luna failure - booster disintegrated at T+104 seconds
+- .
+Payload
+: E-1 s/n 2.
+Mass
+: 361 kg (795 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-1
+.
+1958 December 4
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Core engines shut off at 245 seconds into the flight. Cause was a loss of lubrication to the hydrogen peroxide pump..
+Failed Stage
+: 1.
+Luna failure - booster core shut down at T+245 seconds
+- .
+Payload
+: E-1 s/n 3.
+Mass
+: 361 kg (795 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-1
+.
+1959 January 2
+16:41 GMT - .
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Failure of the launch vehicle control system..
+Failed Stage
+: G.
+Luna 1
+- .
+Payload
+: E-1 s/n 4.
+Mass
+: 361 kg (795 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-1
+.
+USAF Sat Cat
+:  112 .
+COSPAR
+: 1959-Mu-1.
+Lunar probe; passed within 5,995 km of moon but did not hit it as planned due to a failure of the launch vehicle control system. Went into solar orbit. First manmade object to attain of escape velocity. Also known as
+Mechta
+("Dream"), popularly called
+Lunik I
+. Because of its high velocity and its announced package of various metallic emblems with the Soviet coat of arms, it was concluded that Luna 1 was intended to impact the Moon. After reaching escape velocity, Luna 1 separated from its 1472 kg third stage. The third stage, 5.2 m long and 2.4 m in diameter, travelled along with Luna 1. On 3 January, at a distance of 113,000 km from Earth, a large (1 kg) cloud of sodium gas was released by the spacecraft. This glowing orange trail of gas, visible over the Indian Ocean with the brightness of a sixth-magnitude star, allowed astronomers to track the spacecraft. It also served as an experiment on the behavior of gas in outer space. Luna 1 passed within 5,995 km of the Moon's surface on 4 January after 34 hours of flight. It went into orbit around the Sun, between the orbits of Earth and Mars. The measurements obtained during this mission provided new data on the Earth's radiation belt and outer space, including the discovery that the Moon had no magnetic field and that a solar wind, a strong flow of ionized plasma emmanating from the Sun, streamed through interplanetary space.
+1959 June 18
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Inertial system failed at 153 seconds after launch. Vehicle destroyed by range safety..
+Failed Stage
+: G.
+Luna failure - inertial system failed at T+153 seconds
+- .
+Payload
+: E-1A s/n 5.
+Mass
+: 387 kg (853 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft Bus
+:
+Luna E-1
+.
+Spacecraft
+:
+Luna E-1A
+.
+1959 September 12
+06:39 GMT - .
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+Luna 2
+- .
+Payload
+: E-1A s/n 6.
+Mass
+: 387 kg (853 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft Bus
+:
+Luna E-1
+.
+Spacecraft
+:
+Luna E-1A
+.
+Decay Date
+: 1959-09-13 .
+USAF Sat Cat
+:  114 .
+COSPAR
+: 1959-Xi-1.
+First probe to impact lunar surface. Delivered a pennant to the surface of the Moon and conducted research during flight to the Moon. Impacted Moon 13 Sep 1959 at 22:02:04 UT, Latitude 29.10 N, Longitude 0.00 - Palus Putredinis, east of Mare Serenitatis near the Aristides, Archimedes, and Autolycus craters. After launch and attainment of escape velocity, Luna 2 separated from its third stage, which travelled along with it towards the Moon. On 13 September the spacecraft released a bright orange cloud of sodium gas which aided in spacecraft tracking and acted as an experiment on the behavior of gas in space. On 14 September, after 33.5 hours of flight, radio signals from Luna 2 abruptly ceased, indicating it had impacted on the Moon. Some 30 minutes after Luna 2, the third stage of its rocket also impacted the Moon. The mission confirmed that the Moon had no appreciable magnetic field, and found no evidence of radiation belts at the Moon.
+1959 October 4
+00:43 GMT - .
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+Luna 3
+- .
+Payload
+: E-2A s/n 1.
+Mass
+: 279 kg (615 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+MVS
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-3
+.
+Decay Date
+: 1960-04-20 .
+USAF Sat Cat
+:  21 .
+COSPAR
+: 1959-Theta-1.
+Apogee
+: 499,998 km (310,683 mi).
+Perigee
+: 500 km (310 mi).
+Inclination
+: 55.00 deg.
+Period
+: 21,563.20 min.
+Luna 3 was the third spacecraft successfully launched to the Moon and the first to return images of the lunar far side. It was launched on a figure-eight trajectory which brought it over the Moon (closest approach to the Moon was 6200 km) and around the far side, which was sunlit at the time. It was stabilized while in optical view of the far side of the Moon. On October 7, 1959, the television system obtained a series of 29 photographs over 40 minutes, covering 70% of the surface, that were developed on-board the spacecraft. The photographs were scanned and 17 were radio transmitted to ground stations in facsimile form on October 18, 1959, as the spacecraft, in a barycentric orbit, returned near the Earth. The photographs were to be retransmitted at another point close to Earth but were not received. The spacecraft returned very indistinct pictures, but, through computer enhancement, a tentative atlas of the lunar farside was produced. These first views of the lunar far side showed mountainous terrain, very different from the near side, and two dark regions which were named Mare Moscovrae (Sea of Moscow) and Mare Desiderii (Sea of Dreams).
+1960 April 15
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: The third stage RO-5 engine either did not reach full thrust or shut down early..
+Failed Stage
+: 3.
+Luna failure - third stage insufficient delta V
+- .
+Payload
+: E-3 s/n 1.
+Mass
+: 279 kg (615 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+RVSN
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-3
+.
+Decay Date
+: 1960-04-15 .
+COSPAR
+: F600415A. Reached an altitude of 200,000 km before plunging back to earth..
+1960 April 16
+16:07 GMT - .
+Launch Site
+:
+Baikonur
+.
+Launch Complex
+:
+Baikonur LC1
+.
+LV Family
+:
+R-7
+.
+Launch Vehicle
+:
+Vostok-L 8K72
+.
+FAILURE
+: Strap-on B reached only 75 percent of thrust at ignition. Four tenths of a second after liftoff it broke away from the core..
+Failed Stage
+: 2.
+Luna failure at lift-off
+- .
+Payload
+: E-3 s/n 2.
+Mass
+: 279 kg (615 lb).
+Nation
+:
+Russia
+.
+Agency
+:
+RVSN
+.
+Program
+:
+Luna
+.
+Class
+:
+Moon
+.
+Type
+: Lunar probe.
+Spacecraft
+:
+Luna E-3
+.
+Decay Date
+: 1960-04-16 . This dramatic failure resulted in a loss of thrust, and the lateral strap-on units separated and flew over the tracking stations and living areas. The core continued on its trajectory..
+Key facts
+AKA
+8K72;A-1;Luna;Luna 8K72;SL-3
+Status
+Retired 1960
+First Launch
+1958-09-23
+Last Launch
+1960-04-16
+Number
+9
+Payload
+4,000 kg (8,800 lb)
+Thrust
+3,956.76 kN (889,515 lbf)
+Gross mass
+277,000 kg (610,000 lb)
+Height
+30.84 m (101.18 ft)
+Diameter
+2.60 m (8.50 ft)
+Apogee
+400,000 km (240,000 mi)
+Spotted an error in this entry? Let us know
+→
+Encyclopedia Astronautica
+One of the web's most comprehensive spaceflight references since 1994.
+About
+About the encyclopedia
+Editorial policy
+Contact and corrections
+Friends of the Encyclopedia
+Gunter's Space Page
+Spacefacts
+Designation-Systems.net
+© Encyclopedia Astronautica			·
+Privacy
+·
+Terms
