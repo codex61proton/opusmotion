@@ -1,0 +1,319 @@
+             Frequency-Dependent Characteristics of the EME Path
+                                          Joe Taylor, K1JT
+                                              June 15, 2010
+
+   The fundamental nature of radio-frequency echoes from the moon was well established half a century
+ago. Professional studies were made at Jodrell Bank, MIT Lincoln Laboratory, Arecibo Observatory,
+and elsewhere, motivated by a desire to evaluate potential applications of EME (Earth-moon-Earth)
+communication — possibly even broadcasting! — and for surreptitious eavesdropping on the private
+VHF/UHF radio traffic of others. These ideas soon gave way to more practical solutions using man
+made satellites. The applications of lunar radar evolved into astronomical studies of terrain and surface
+composition, both for scientific reasons and to evaluate possible landing sites for the Apollo astronauts.
+    Much of this early work is known to the amateur EME community, at least in broad outline, but some
+is not. In this paper I summarize the basic professional results of most interest to radio amateurs, with
+special emphasis on the effects of lunar libration. I then present a number of new measurements, all
+made with amateur EME equipment, to show that libration effects on EME signals are neither
+mysterious nor unpredictable. Indeed, the statistical effects of frequency spreading and multipath fading
+— two different ways of describing the same libration-induced phenomenon — can be predicted
+accurately for any time, frequency, and locations on Earth. These results show clearly why 15-to-20
+WPM CW signals propagated by EME are often hard to copy on the 432 and 1296 MHz bands, because
+of libration fading, even when signal strength is otherwise adequate. The results provide useful
+quantitative constraints for making optimum choices of coding and modulation for the EME path.
+
+                                     Fundamentals of Lunar Radar
+    A typical lunar radar experiment of the early 1960’s transmitted high-power pulses a few
+microseconds wide, and examined the time structure of their return echoes. The relevant geometry is
+illustrated in Figure 1. As suggested by the sketch of returned echo power, the full duration of lunar
+echoes is t = 2R/c = 11.6 ms: that is, twice the moon’s radius, R = 1738 km, divided by c, the speed of
+light. However, most of the received power comes from near the leading edge of the echo, from a bright
+central spot of radius r <<R. Thus, in back-scattered radio waves the lunar disk is bright near its center
+and dark at the edge, the lunar ―limb‖ — a very different situation from that for visible light, where there
+is very little limb darkening and the full moon is almost equally bright over the full disk. The reason, of
+course, is that on distance scales comparable to the relevant radio wavelengths — a few centimeters to
+ten meters or so — most of the lunar surface is relatively smooth. In contrast, on scales of visible
+wavelengths the surface is rough and scatters light efficiently in all directions.
+   The geometric quantities illustrated in Figure 1 are related by the following equations:
+
+               𝑟 = 𝑅 sin 𝜑
+                                      1
+                         𝑟2 2
+               𝑑 =𝑅 1− 1− 2                = 𝑅 (1 − cos 𝜑)
+                         𝑅
+
+                    2𝑑
+               𝑡=
+                     𝑐
+
+
+                                                     1
+These equations give specific one-to-one relationships between lunar radius R, angle of incidence φ,
+projected distance r from the center of the disk, range depth d, and excess time delay t.
+   Hagfors (Radio Science, vol. 5, pp. 189–227, 1970) published detailed data on lunar reflectivity (or
+radar ―cross section‖) per unit area of the disk. By integrating those data from the center of the disk
+outward, one obtains the curves of Figure 2. It’s easy to see that at 430 MHz, half of the available echo
+power comes from the innermost 14% of the disk radius, or 2% of disk area. Small but measurable
+amounts of power come from farther out, toward the lunar limb. By contrast, at 1.3 GHz the half-power
+point extends to about 19% of the full disk radius, and at 8 GHz to 33%. In terms of time delay, half of
+the power is received in the first 120 μs at 430 MHz, the first 210 μs at 1.3 GHz, and the first 650 μs at 8
+GHz.
+
+                                              Lunar Librations
+   Most amateur EME stations are not configured for transmitting narrow pulses, or for the fast T/R
+switching needed to make direct measurements of echo power with millisecond resolution. However,
+another measurement approach is possible, related to lunar librations. It is well known that the moon’s
+spin is synchronized to its orbital motion, so that approximately the same face is presented to Earth at all
+times. The lunar orbit is eccentric, so the orbital angular speed varies according to Kepler’s law. On the
+other hand, the spin rate is constant, so the moon’s orientation appears to ―wobble‖ back and forth in a
+monthly cycle. The orbit is inclined to the ecliptic (the Earth’s orbital plane) by about 5.1°, which
+introduces a monthly North-South ―nodding‖ component of motion.
+   An even larger contribution to apparent lunar wobble is caused by Earth rotation. This motion has a
+daily cycle, and its amplitude is proportional to the cosine of observer latitude. The net effect of all
+these motions gives the moon an apparent direction and rate of spin at any specified time and viewing
+location on Earth. An important consequence, as indicated in Figure 3, is that reflecting regions on one
+side of the lunar disk may be approaching the observer, while those on the other side are receding.
+These motions cause differential Doppler shifts from reflecting regions spread across the disk, and thus
+frequency spreading of returned echoes. The frequency spread causes signal fading as individual
+contributions interfere constructively or destructively. For angular libration rate ω, the rotational
+velocity at the moon’s equator is Rω. Thus, for a transmitted signal at frequency f the maximum
+Doppler offset is f0 = 2 f Rω/c and the full limb-to-limb Doppler spread is 2 f0 = 4 f Rω/c. Since we
+know that most of the echo power comes from a relatively small fraction of the disk, we should expect
+the frequency profile of an EME echo to be sharply peaked toward its center but to have broad, low-
+level wings.
+   The libration rate ω can be calculated for any time and any location on Earth by techniques similar to
+those used to find the moon’s position in the sky. The bottom panel of Figure 4 shows such calculations
+for the K1JT location (Maidenhead locator FN20qi) over the month of August, 2010. The two upper
+panels show expanded views of the data for August 7 and August 19-20. The assumed frequency is
+1 GHz, and limb-to-limb spreads for other frequencies can be obtained by multiplying by the actual
+frequency in GHz. Data are plotted only for times when the moon is above the horizon. The curves have
+a distinct shape for each day, determined by the combination of effects with daily and monthly periods.
+The detailed shapes will be different for different terrestrial locations.
+   For a station at 40° latitude the computed Doppler spreads at 1 GHz extend upward to nearly 30 Hz.
+Deep minima like the one on August 7 (see Figure 4, especially the top panel) occur when the vector
+sum of all libration contributions approaches zero. These deep minima are precisely the reason for the
+occasional times when normally rapid QSB slows almost to a stop.
+
+
+                                                     2
+   The effect of libration on EME signals between two different stations is the sum of one-way
+contributions for each station alone. Because ω has both magnitude and direction, the summation must
+be done using vectors before final reduction to a magnitude. Examples of such calculations for three
+different EME paths are presented in Figure 5. Stations closer to the equator, such as WP4G and
+PY2SRB, will generally see larger libration rates and thus larger Doppler spreads.
+
+
+                                    Amateur Libration Measurements
+   Can these libration effects be observed and accurately measured with amateur equipment? Indeed
+they can! Figure 6 presents spectra obtained at 432 and 1296 MHz at the K2UYH station on June 6,
+2010, using the program WSJT8 in its echo-testing mode. The upper two panels have linear power
+scales, while the lower panels emphasize low-amplitude wings of the spectra by using a scale in dB
+relative to the maximum. Vertical ticks near the bottom of each panel delimit the computed range of
+Doppler spreads at ± f0. The measured spectral extents correspond very closely to these limits, thereby
+confirming that significant echo power was being received, even from close to the lunar limb. As
+expected, however, the spectral profiles are sharply peaked, showing that most echo power comes from
+near the center of the disk where Doppler shifts are smallest.
+    For practical purposes related to amateur EME communication, I define two parameters for
+measuring frequency spread: w50 and w10. Both are readily determined from autocorrelation functions of
+the echo spectra. Loosely speaking, they represent the full widths of those functions at the 50% (–3 dB)
+and 10% (–10 dB) points. In other words, w50 represents a range of frequencies containing half of the
+echo power, while w10 contains 90% of the power. For the data shown in Figure 6, the autocorrelation
+functions yield w50 = 2.3 ± 0.3 Hz and w10 = 6.9 ± 0.6 Hz at 432 MHz, and w50 = 6.2 ± 0.3 Hz and
+w10 = 18.9 ± 0.6 Hz at 1296 MHz. Many other measurements of w50 and w10 have been made over the
+past two months, covering wide ranges of frequency, libration rate, and location on Earth. Six more
+examples are shown in Figure 7, based on data obtained at 144 MHz by K1JT, at 1296 MHz by
+VK7MO, and at 10.3 GHz by G3WDG. Again, the full limb-to-limb range of predicted Doppler spread
+is shown for each spectrum by means of short vertical ticks.
+   Figure 8 assembles the presently available measurements of w50 and w10 for 144 MHz through
+2.3 GHz and plots them against limb-to-limb Doppler spread calculated for the time, frequency, and
+place of observation. The sets of measurements for both w50 and w10 are well represented by straight
+lines. There is a slight trend toward larger widths at frequencies above 2 GHz. As expected, this effect
+becomes significantly greater at even higher frequencies.
+    In passing, I note that the echo measurements reported at 144 and 432 MHz and 10 GHz used linear
+polarization, while those at 1296 and 2303 MHz used circular (transmitting right-hand and receiving
+left). Theory says that the depolarized component of return echoes should exhibit larger values of w50
+and w10 than the polarized component, because depolarization will be greater at large angles of
+incidence. It would be interesting to test this prediction, but I have not yet done so.
+
+                                         Consequences for EME
+    What does all this mean for the practicalities of amateur EME communication? Figure 9 summarizes
+the frequency dependence of Doppler spread, the most essential quantity distinguishing real EME
+signals from those arising from a hypothetical smooth, stationary reflector. The sloping solid line
+illustrates the maximum limb-to-limb Doppler spread for self-echoes from a station at latitude ±40°.
+Typical spreads will be smaller than this maximum, and sometimes much smaller; the long-dashed
+straight line therefore gives median values of limb-to-limb Doppler spread. (Half the time, the effect
+
+                                                    3
+will be greater than the median; half the time it will be less.) Finally, the short-dash and dash-dot curves
+illustrate expected median values of w50 and w10. These curves have been calculated to include the extra
+frequency dependence arising from larger active reflecting regions at the higher frequencies. Remember
+that the Earth-rotation contribution to libration rate depends on the observer’s latitude. Doppler spreads
+for stations near the equator will be somewhat larger than those shown, and for high-latitude stations
+will be less. For two-station exchanges of signals, the locations of both stations are important.
+   The measurable widths w50 and w10 characterize the range of Doppler spreads of greatest practical
+consequence for making EME QSOs with weak signals. At 1296 MHz and below, we experience
+libration effects primarily as signal fading. Most of the fading takes place at rates between w50 and w10,
+or timescales between 1/w10 and 1/w50. At 2.3 GHz and above most libration fading is faster than Morse
+code elements, so we don’t notice it as such. Instead, we hear the effect as broadening of the signal in
+the frequency domain. CW EME signals sound increasingly rough as frequency increases above 2 GHz.
+   The transmission rates of CW dashes and full characters at 20 WPM are illustrated by the horizontal
+dotted lines in Figure 9. Together with the curves for w50 and w10, these lines define a problematic
+region where Morse-coded CW can be notoriously hard to copy. Inside this region, libration-induced
+fading takes place at about the same rate as the transmission of amplitude-modulated code elements. At
+lower frequencies, e.g. 144 MHz, fading is slow enough that several CW characters can be heard and
+copied on signal peaks. Above 2 GHz, fading is mostly faster than the important code elements and we
+simply hear a ―less than T9‖ CW tone.
+   Of course, digital protocols such as JT65 are also affected by libration-induced Doppler spreads, but
+for a number of reasons the consequences can be much less severe than with on-off CW keying. JT65
+transmissions have a robust synchronizing mechanism, a known structure, and more than five-fold
+redundancy built into their Reed-Solomon error-correction scheme. Their modulation is 65-tone
+frequency-shift keying, with exactly one tone always present. Signal dropouts within a transmission (no
+tone present) are easily recognized and ignored by the decoder. There is no effect comparable to a
+Morse dash being effectively chopped into two dits by a brief null. There is no need to piece together
+copied fragments of a repeated message, since this is done automatically when the decoder identifies a
+Reed Solomon codeword.
+   Doppler spread sets a lower limit on the tone spacings usable for frequency-shift keying. The tone
+spacings for sub-modes JT65A, B, and C are respectively 2.7, 5.4, and 10.8 Hz. With this in mind,
+Figure 9 shows clearly why JT65B is perfectly usable at 144 and 432 MHz, while JT65C is preferable
+under most conditions at 1.3 and 2.3 GHz. At 3.4 GHz even JT65C will show degraded performance,
+except when the libration rate is low. At still higher frequencies, JT65C is useful only at selected times
+of minimal libration. The mode JT4G, with 315-Hz spacing between each of its four tones, should be
+effective up to 10 GHz.
+
+
+
+
+                                                     4
+                                                Conclusions
+
+   For each of the most popular amateur EME bands the following table lists maximum and median
+limb-to-limb Doppler spreads for stations at ±40° latitude, followed by measurable widths w10 and w50
+that correspond to the median. These numbers can serve as a quick-reference guide to the appropriate
+magnitude ranges for frequency spreading on each band.
+
+           Frequency       Limb-to-Limb       Limb-to-Limb            w10               w50
+                             Maximum             Median             Median            Median
+             (MHz)             (Hz)               (Hz)               (Hz)              (Hz)
+               144                4                2.2                1.1               0.4
+               432               12                  7                  3               1.2
+              1296               37                 19                 10                4
+              2304               65                 35                 20                8
+              3400               97                 51                 31               12
+              5760              164                 86                 60               25
+             10368              295                156                128               58
+
+Finally, here are some general lessons and rules of thumb relating to the discussion in this paper:
+
+      A smooth moon would produce a specular reflection. Most echo power would come from a few
+       Fresnel zones around disk center. Time spread would be much less than 2R/c = 11.6 ms and
+       frequency spread much less than 30 f Hz, with f in GHz. Polarization would be preserved, but
+       the sense of circular polarization would be reversed.
+
+      A rough moon would produce diffuse echoes, with uniform brightness across the disk. Time
+       spread would be 11.6 ms, and limb-to-limb frequency spread as much as 30 f Hz, depending on
+       libration rate. There would be significant depolarization, with cross-polarized return echoes just
+       a few dB weaker than the ―correct‖ polarization.
+
+      At the frequencies used for amateur EME, conditions fall somewhere between these two
+       extremes. Lunar echoes are nearly specular at VHF and are increasingly diffuse at higher
+       frequencies.
+
+      Lunar libration is an apparent effect relative to a particular observer. It has an East-West
+       component from the moon’s orbital eccentricity and a North-South component from orbital
+       inclination, both with a monthly period, and a daily East-West contribution from Earth rotation.
+       The net libration rate can be computed for any time and location.
+
+      Libration fading and libration-induced Doppler spread are the same thing, experienced in
+       different ways. Fading time scale is the inverse of Doppler width.
+
+      The inevitable fading of EME signals, especially troublesome at 432 and 1296 MHz, can be
+       mitigated if the signal has sufficient diversity in time, frequency, or both. CW operators use a
+       single narrow-band signal and much repetition, which is better than nothing. Digital modes can
+       use robust synchronization, multiple frequencies, and mathematically encoded redundancies,
+       which together can be much more effective.
+
+                                                     5
+                                         Acknowledgments
+
+    I thank Charlie Suckling, G3WDG, who has drawn recent attention to the existence of predictable
+libration minima. Charlie also shared some raw data from his 10 GHz echo tests, which I used in
+Figure 7. David Anderson, GM4JJJ, quickly incorporated the calculation of limb-to-limb Doppler
+spreads into his fine EME program, MoonSked, and I was happy to check my own calculations against
+those in MoonSked. Rex Moncur, VK7MO, used my program WSJT8 to make echo tests at 1296 MHz
+and 2.3 GHz, providing data used in Figures 7 and 8. Alan Katz, K2UYH, joined me in making WSJT8
+measurements of frequency spread at 432 and 1296 MHz, at his station. All of this work was carried out
+in the finest spirit of amateur cooperation, and the help is much appreciated!
+
+
+
+
+    Figure 1. Simplified EME geometry, side view. Echo contributions from point P are delayed by
+ t = 2d/c relative to those from the disk center, point Q. The maximum excess delay is 2R/c = 11.6 ms.
+
+
+
+                                                  6
+Figure 2. Cumulative fraction of echo power received from inside specified fractions of the lunar
+radius. Corresponding angles of incidence for incoming radiation and excess time delays are shown at
+the bottom. The radio-frequency data are derived from Hagfors (1970).
+
+
+
+
+                                                  7
+Figure 3. EME geometry, viewed from Earth. The ring of radius r is a locus of constant echo delay; the
+dashed vertical line is a locus of constant Doppler shift. Maximum positive and negative Doppler shifts
+occur at the equatorial points marked ± f0.
+
+
+
+
+                                                  8
+Figure 4. Limb-to-limb Doppler shifts calculated for self-echoes at K1JT, for the month of August
+2010. Curves for each day extend from moon rise to moon set. The two upper panels give expanded
+views for August 7 and August 19-20, and curves for these dates are highlighted in the bottom panel.
+Doppler shifts may be scaled from 1 GHz to other frequencies in the usual way.
+
+
+
+
+                                                   9
+Figure 5. Limb-to-limb Doppler shifts calculated for the EME paths K1JT to IK1UWL, K1JT to
+VK7MO, and WP4G to PY2SRB for the month of August 2010. Curves for each day cover the full
+range of mutual moon availability.
+
+
+
+                                              10
+Figure 6. Measurements of Doppler spread at 432 and 1296 MHz, from echo tests made at K2UYH on
+June 6, 2010. The upper panels use a linear power scale; the lower ones are in dB relative to the
+maximum. Vertical ticks indicate the predicted maximum positive and negative Doppler offsets, ± f0.
+
+
+
+
+                                                 11
+Figure 7. Measurements of Doppler spread at two different libration rates, at each of three frequencies.
+The measurements at K1JT were on 2010 May 21 at 19:30 and 23:30 UTC; those at VK7MO on May 26
+at 06:30 and 10:30 UTC; and those at G3WDG on May 18 at 08:50 and 09:56 UTC. Vertical ticks
+indicate the predicted maximum positive and negative Doppler offsets, ± f0, for each measurement.
+
+
+
+
+                                                  12
+Figure 8. Measured values of frequency spread w10 and w50 at three different frequencies and many
+different libration rates. The echo tests at 144 MHz were made at K1JT; those at 432 MHz, at K2UYH;
+those at 1296 MHz at VK7MO and K2UYH; and those at 2302 MHz, at VK7MO.
+
+
+
+
+                                                13
+Figure 9. Maximum and median Doppler spreads for self-echoes at latitude ±40°, and the
+corresponding median values of w10 and w50. Horizontal dotted lines represent the transmission rates of
+dashes and individual characters of Morse code sent at 20 words per minute.
+
+
+
+
+                                                   14
+
