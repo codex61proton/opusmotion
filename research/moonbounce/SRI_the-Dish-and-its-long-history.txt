@@ -1,0 +1,150 @@
+ 
+ SRI’s “the Dish” and its long history - SRI 
+ Skip to content 
+ Research 
+ Advanced Technology & Systems 
+ Biosciences 
+ Education 
+ Information & Computing Sciences 
+ Integrated Systems & Solutions 
+ Commercialization 
+ Commercial R&D 
+ Ventures 
+ Center for Innovation, Strategy & Policy 
+ Nomura-SRI Innovation Center 
+ About 
+ People 
+ News & Stories 
+ Events 
+ Our History 
+ Contact 
+ Innovating In 
+ AI 
+ Climate & sustainability 
+ The future of education & work 
+ Health 
+ Quantum 
+ Security 
+ Space 
+ Careers 
+ 日本支社 
+ Research 
+ Advanced Technology & Systems 
+ Biosciences 
+ Education 
+ Information & Computing Sciences 
+ Integrated Systems & Solutions 
+ Commercialization 
+ Commercial R&D 
+ Ventures 
+ Center for Innovation, Strategy & Policy 
+ Nomura-SRI Innovation Center 
+ About 
+ People 
+ News & Stories 
+ Events 
+ Our History 
+ Contact 
+ Innovating In 
+ AI 
+ Climate & sustainability 
+ The future of education & work 
+ Health 
+ Quantum 
+ Security 
+ Space 
+ Careers 
+ 日本支社 
+ Search sri.com 
+ February 2, 2024 
+ SRI’s “the Dish” and its long history
+ SRI’s The Dish 
+ The famous radio antenna has a rich legacy of communicating with spacecraft above Earth and around other planets, as well as listening to distant stars and Cold War-era atmospheric nuclear blasts.
+ For six decades the millions of people driving along the 280 freeway in Palo Alto have looked up into the golden hills to the east and caught sight of what’s known as the Dish, a 70-ton, 150-feet-wide diameter lightweight aluminum satellite dish.
+ Situated along a popular Stanford University walking trail, the Dish is owned by the federal government and operated by SRI . Operating since 1961, its function over the years includes satellite communications, data collection from astronomical events, and studies of the ionosphere, a layer of Earth’s upper atmosphere. In its history, it has also listened to radio blips beamed across quadrillions of miles by “dead” stars called pulsars, helped advance the imminent use of a new and powerfully reliable GPS signal known as L5, and successfully beamed signals to numerous satellites in Earth orbit that otherwise would’ve been lost.
+ “The Dish is a remarkable instrument and a major landmark in the area,” says Steve Muther, a senior SRI research engineer who has served for the past 24 years as the Dish’s lead operator, keeping it running smoothly and helping it perform myriad activities for clients in the public and private sectors.
+ The origins of the Dish 
+ The Dish traces back to the 1950s. A government proposal called for a giant radio antenna to evaluate and track nuclear weapons tests in Earth’s atmosphere by both the U.S. and the dawn of the Space Age in 1957 when the former Soviet Union launched the first satellite, Sputnik 1.
+ The U.S. government approved the creation of the Dish and funded SRI — what was then known as the Stanford Research Institute — to the tune of $350,000, or about $3.6 million in today’s money.
+ By listening to radio signals generated in the ionosphere by exploding bombs, U.S. researchers could not only advance their understanding of their own country’s weapons but also gain insight into Soviet technology. The Dish performed its reconnaissance mission admirably, though as it turned out, only for a couple of years, as the signing of the Partial Test Ban Treaty in 1963 put a stop to atmospheric nuclear tests. Dish researchers pivoted to new scientific opportunities associated with the Space Race and President Kennedy’s 1962 vision of landing astronauts on the moon.
+ “Back then, the researchers at what became SRI were asking ‘We have this big asset and now its mission is gone—what do we do with it?’” said Casper. “They realized The Dish is great not only for looking at the ionosphere but also all these other things in space, including satellites. So, they approached NASA and very quickly became involved.”
+ Interplanetary work 
+ Over the ensuing decades, the Dish amassed an extensive resumé supporting spacecraft operations. Some of the first contributions were to Pioneer program missions at NASA starting in the mid-1960s, where signals sent between the Dish and space-borne antennae (also built by SRI) on the Pioneer satellites confirmed and measured “solar wind,” the stream of particles flowing off the Sun into space. From there, NASA wielded the Dish to communicate with the Mariner program spacecraft that for the first time visited the planets of the inner Solar System, namely Mercury, Venus, and Mars. 
+ The Dish played a role in experiments conducted as part of the Apollo missions, where radio signals bounced off the Moon to The Dish from the astronauts’ orbiting command module aided in inferring properties of the lunar surface.
+ This interplanetary work has continued into the modern day. For instance, The Dish participated in an experiment with a pair of miniature satellites, dubbed CubeSats , that set up shop in Martian orbit in 2018 as part of the InSight mission. The demonstration was tested using mini-sats as communications relays and data-gathering enhancers for future expeditions.
+ In this vein, The Dish could also be used for experiments under Artemis, NASA’s plan to return astronauts to the Moon for the first time in over fifty years and establish a more durable lunar presence.
+ Now, with over sixty years of service, The Dish has vastly exceeded its intended lifetime of a decade.
+ Earth’s orbit 
+ A significant amount of the work for The Dish, however, is for spacecraft much closer to home, in Earth orbit. Commercial satellite companies approach SRI from time to time with troubleshooting requests for spacecraft. Thanks to its ample power, The Dish can often successfully hail satellites whose antennas have failed to deploy in optimal orientations, and thus help companies transmit reset or compensatory instructions.
+ A particularly rewarding use of The Dish is to assist universities and students in connecting with their CubeSat missions in low-Earth orbit. As exemplified by the InSight mission, Cubesats have surged in popularity in recent years because of their relatively low cost and user-friendliness. The roughly Rubik’s cube-sized microsatellites have helped a growing number of STEM students gain valuable experience building and operating spacecraft, and even perform on-orbit science experiments and Earth observations.
+ Yet because low-power CubeSats typically orbit Earth only for a few months to a year or two, an individual student typically has a narrow window to pursue CubeSat-tied academics; if a university CubeSat has a communications glitch, a golden opportunity may be lost.
+ The Dish has saved the day quite many times, helping to reach low-signal-strength CubeSats. “For students, it’s the difference between feeling crushed and being able to say ‘Wow, I put something in orbit around the Earth,’” said Muther.
+ What’s next for the Dish 
+ When constructed in 1961, The Dish stood as the largest moving radio telescope in the United States, and even today still ranks among the top twelve in the world. “Compared to other antennas, the Dish is quite large, which means that it can transmit more power to send radio signals, or it can gather more signal if it’s trying to listen,” said  Jeffrey Casper , the Director of Applied Technology at SRI, and whose work portfolio involves antenna operations.
+ Despite its heft, it’s able to swivel—albeit slowly—on a circular rail to point at objects in the sky. And because the facility is all one structure, the support building under The Dish, where Muther and Casper often work, also moves. That movement happens in part thanks to giant ball bearings originally used for 5-inch/38-caliber guns on U.S. Navy battleships that were decommissioned after World War II, Muther explains.
+ Now, with over sixty years of service, The Dish has vastly exceeded its intended lifetime of a decade. Several other Dish-like antennas were built, following the original’s success, on the East Coast and as far away as Scotland and Ethiopia, which have since been decommissioned. No such end-of-the-road looms for The Dish, though. The facility recently received upgrades to its instrumentation interfaces in the control room, going from Apollo-era equipment in some instances to modern touchscreen interfaces, and aside from some minor metal replacement work to the superstructure here and there, The Dish is in fine fettle.
+ Today, thousands of people routinely hike the ground around the Dish, where deer, wild turkey, and coyotes flourish. The Dish is deeply ensconced in local lore and day-to-day life. “The Dish is a part of the history of Silicon Valley, and if it were ever to be taken down, a lot of people would be upset,” said Casper. “We want to keep it running as long as we can.”
+ Added Muther: “We can plan on having The Dish for another 60 years.”
+ Read more from SRI
+ October 22, 2026 
+ SRI’s PEARL Drifters™ deliver real-time ocean insight 
+ SRI’s low-cost ocean sensors supported rapid environmental assessment during one of the world’s largest maritime uncrewed systems exercises. 
+ October 20, 2026 
+ Anish Thukral receives DARPA Young Faculty Award 
+ The award is for his work on new nanocomposite laminates that could protect pliable electronics and batteries. 
+ October 15, 2026 
+ SRI and Maka collaborate to help families find thoughtfully curated videos for young children 
+ SRI’s AI-powered APPROVE supports Maka’s expert-led curation of video content for young children. 
+ Join Our Team
+ Build your own legacy
+ Explore careers 
+ Hire Us
+ Solutions to your most complex challenges
+ Send an inquiry 
+ Contact Us
+ General inquiries
+ Reach out 
+ Get the latest news from SRI
+ Commercialization 
+ Research 
+ About 
+ Careers 
+ Contact 
+ Media Inquiries 
+ SRI Japan 
+ 333 Ravenswood Ave
+Menlo Park, CA 94025 USA 
+ +1 (650) 859-2000 
+ Privacy Policy 
+ Cookies 
+ DMCA 
+ © 2026 SRI INTERNATIONAL 
+ Manage Cookie Consent
+ To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+ Functional 
+ Functional 
+ Always active 
+ The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. 
+ Preferences 
+ Preferences 
+ The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. 
+ Statistics 
+ Statistics 
+ The technical storage or access that is used exclusively for statistical purposes. 
+ The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. 
+ Marketing 
+ Marketing 
+ The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. 
+ Manage options 
+ Manage services 
+ Manage {vendor_count} vendors 
+ Read more about these purposes 
+ Accept 
+ Deny 
+ View preferences 
+ Save preferences 
+ View preferences 
+ {title} 
+ {title} 
+ {title} 
+ Manage consent 

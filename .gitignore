@@ -1,0 +1,13 @@
+__pycache__/
+build/
+scratch/
+.hoplite/
+research/raw_dossier/
+research/**/*.pdf
+research/**/*.html
+research/**/*.png
+research/dossier_imgs/
+assets/geo
+deliverables/
+*.mp4
+*.wav

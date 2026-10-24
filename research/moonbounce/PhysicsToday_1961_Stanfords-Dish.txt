@@ -1,0 +1,183 @@
+
+ Stanford's Dish - Physics Today 
+ Account 
+ Sign In 
+ Sign Out 
+ Subscribe to PT 
+ Back 
+ PT Jobs", "title": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://students.aip.org/", "text":"SPS & Sigma Pi Sigma", "title": "", "isAdditional": false , "isHat": false , "items": [] } ] },{"href":"https://physicstoday.aip.org/issue-archive", "text":"Issue Archive", "title": "", "isAdditional": false , "isHat": false , "items": [] },{"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isAdditional": false , "isHat": false , "items": [ {"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/advertising", "text":"Advertising with PT ", "title": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/about/contact", "text":"Contact Us", "title": "", "isAdditional": false , "isHat": false , "items": [] } ] }]}'>
+ Sections
+ MORE FROM AIP
+ more from AIP 
+ News & Analysis 
+ AIP Publishing 
+ AIP Foundation 
+ PT Jobs", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://students.aip.org/", "text":"SPS & Sigma Pi Sigma", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] } ] },{"href":"https://physicstoday.aip.org/issue-archive", "text":"Issue Archive", "title": "", "isActive": "false", "isAdditional": false , "isHat": false , "items": [] },{"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isActive": "false", "isAdditional": false , "isHat": false , "items": [ {"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/advertising", "text":"Advertising with PT ", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/about/contact", "text":"Contact Us", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] } ] }]}'>
+ Latest 
+ Topics 
+ Webinars 
+ Advance Your Career 
+ Careers 
+ PT Jobs 
+ SPS & Sigma Pi Sigma 
+ Issue Archive 
+ About 
+ About 
+ Advertising with PT 
+ Contact Us 
+ more from AIP 
+ News & Analysis 
+ AIP Publishing 
+ AIP Foundation 
+ PT Jobs", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://students.aip.org/", "text":"SPS & Sigma Pi Sigma", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] } ] },{"href":"https://physicstoday.aip.org/issue-archive", "text":"Issue Archive", "title": "", "isActive": "false", "isAdditional": false , "isHat": false , "items": [] },{"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isActive": "false", "isAdditional": false , "isHat": false , "items": [ {"href":"https://physicstoday.aip.org/about", "text":"About", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/advertising", "text":"Advertising with PT ", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] }, {"href":"https://physicstoday.aip.org/about/contact", "text":"Contact Us", "title": "", "isActive": "", "isAdditional": false , "isHat": false , "items": [] } ] }]}'>
+ Latest 
+ Topics 
+ Webinars 
+ Advance Your Career 
+ Careers 
+ PT Jobs 
+ SPS & Sigma Pi Sigma 
+ Issue Archive 
+ About 
+ About 
+ Advertising with PT 
+ Contact Us 
+ more from AIP 
+ News & Analysis 
+ AIP Publishing 
+ AIP Foundation 
+ Share
+ BlueSky 
+ LinkedIn 
+ Facebook 
+ -->
+ Twitter 
+-->
+ Email 
+ Download
+ News 
+ / 
+ Article
+ Stanford’s Dish
+ NOV 01, 1961
+ DOI: 10.1063/1.3057259 
+ Physics Today 
+ A radio telescope designed and built by Stanford Research Institute under a program supported by the Air Force Office of Aerospace Research and the Defense Atomic Support Agency was installed late in September on the campus of Stanford University. Because of the scientific significance of the joint SRI‐Stanford project, the trustees of the University passed a special resolution exempting the 150‐foot steel‐and‐aluminum parabolic antenna from their long‐standing ban against visible structures among the campus foothills. The Stanford radio telescope, which was constructed at a cost of $350 000, is equipped with a 20–55‐megacycle transmitter which will be operated by the University with the support of the Air Force Cambridge Research Laboratories. The transmitter’s million‐watt input will give the dish a 300–400‐kilowatt probe for use in exploring the solar system. The antenna is hoped to be in operation by the end of the year.
+ This article is only available in PDF format
+ © 1961 American Institute of Physics
+ Related content 
+ News 
+ / 
+ Article
+ Physics for plays, not for work 
+ Nilanjan P. Choudhury left physics for a corporate software job, then returned to it for playwriting.
+ October 23, 2026 12:24 PM
+ News 
+ / 
+ Article
+ Matthew Inman flies the Airbus for a major US airline 
+ October 19, 2026 11:19 AM
+ News 
+ / 
+ Article
+ Jennifer Inman supports human spaceflight at NASA 
+ October 12, 2026 03:15 PM
+ News 
+ / 
+ Article
+ Francis Halzen to receive 2026 Nobel Prize in Physics for cosmic neutrino detection 
+ His 1988 sketch of how to use Antarctic ice to detect neutrinos led to the IceCube observatory, which made the first detections of high-energy neutrinos in 2013.
+ October 06, 2026 08:46 AM
+ This Content Appeared In
+ Volume 14, Number 11
+ Get PT newsletters in your inbox
+ PT The Week in Physics
+ A collection of PT's content from the previous week delivered every Monday.
+ One email per week
+ PT New Issue Alert
+ Be notified about the new issue with links to highlights and the full TOC.
+ One email per month
+ PT Webinars & White Papers
+ The latest webinars, white papers and other informational resources.
+ 1 to 2 emails per week
+ Sign Up 
+ By signing up you agree to allow AIP to send you email newsletters.
+ You further agree to our
+ privacy policy 
+ and terms of service .
+ Physics Today , published by AIP, is the trusted source for news and insights in the physical sciences.
+ As a 501(c)(3) non-profit, AIP is a federation that advances the success of our Member Societies and an institute that engages in research and analysis to empower positive change in the physical sciences. The mission of AIP (American Institute of Physics) is to advance, promote, and serve the physical sciences for the benefit of humanity.
+ ISSN 0031-9228 | EISSN 1945-0699
+ Support Our Mission 
+ BlueSky
+ linkedin
+ facebook
+ instagram
+ Stay in touch
+ AIP at American Center for Physics - MD 
+ 1 Physics Ellipse Drive
+College Park, MD 20740
+ AIP at American Center for Physics - DC 
+ 555 12th Street NW
+Suite 250
+Washington, DC 20004
+ Contact Us 
+ AIP Publishing 
+ 1305 Walt Whitman Road
+Suite 110
+Melville, NY 11747
++1 516.576.2200
+ Contact Us 
+ Member societies
+ ACA: The Structural Science Society 
+ Acoustical Society of America 
+ American Association of Physicists in Medicine 
+ American Association of Physics Teachers 
+ American Astronomical Society 
+ American Meteorological Society 
+ American Physical Society 
+ AVS: Science & Technology of Materials, Interfaces and Processing 
+ Optica 
+ The Society of Rheology 
+ BlueSky
+ linkedin
+ facebook
+ instagram
+ Physics Today , published by AIP, is the trusted source for news and insights in the physical sciences.
+ As a 501(c)(3) non-profit, AIP is a federation that advances the success of our Member Societies and an institute that engages in research and analysis to empower positive change in the physical sciences. The mission of AIP (American Institute of Physics) is to advance, promote, and serve the physical sciences for the benefit of humanity.
+ ISSN 0031-9228 | EISSN 1945-0699
+ Support Our Mission 
+ Member societies
+ ACA: The Structural Science Society 
+ Acoustical Society of America 
+ American Association of Physicists in Medicine 
+ American Association of Physics Teachers 
+ American Astronomical Society 
+ American Meteorological Society 
+ American Physical Society 
+ AVS: Science & Technology of Materials, Interfaces and Processing 
+ Optica 
+ The Society of Rheology 
+ Stay in touch
+ AIP at American Center for Physics - MD 
+ 1 Physics Ellipse Drive
+College Park, MD 20740
+ AIP at American Center for Physics - DC 
+ 555 12th Street NW
+Suite 250
+Washington, DC 20004
+ Contact Us 
+ AIP Publishing 
+ 1305 Walt Whitman Road
+Suite 110
+Melville, NY 11747
++1 516.576.2200
+ Contact Us 
+ BlueSky
+ linkedin
+ facebook
+ instagram
+ Working at AIP 
+ Policies & Procedures 
+ Privacy Policy 
+ © 2026 American Institute of Physics

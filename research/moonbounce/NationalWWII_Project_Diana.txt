@@ -1,0 +1,216 @@
+ 
+ Project Diana: To The Moon And Back | The National WWII Museum | New Orleans 
+ Skip to Main Content of WWII
+ Visit 
+ Events 
+ Give 
+ More 
+ Travel 
+ Store 
+ Campus 
+ Calendar 
+ BB's Stage Door Canteen 
+ Search 
+ Facebook 
+ Instagram 
+ Youtube 
+ X (formerly Twitter) 
+ TikTok 
+ LinkedIn 
+ Purchase Tickets 
+ Visit 
+ Come Back Fighting: USS New Orleans at War
+ Plan Your Visit 
+ Museum Campus Guide 
+ Exhibits 
+ Groups 
+ Private Premium Experiences 
+ Museum Tours 
+ Accessibility 
+ Directions 
+ Purchase Tickets 
+ Parking 
+ Family Guide 
+ Itineraries 
+ Dining 
+ Stay 
+ The Higgins Hotel & Conference Center 
+ Hotel Dining 
+ Events 
+ View Upcoming Programming
+ Events Calendar
+ Events Calendar 
+ Educational Travel 
+ Conferences & Symposia 
+ Event Recaps 
+ BB's Stage Door Canteen 
+ Special Events 
+ Youth and Family Programs 
+ Public Programs 
+ The Victory Belles 
+ Victory Entertainment 
+ Private Event Rentals 
+ The War 
+ DOCUMENTARY SERIES
+ World War II with Tom Hanks
+ Explore By Topic 
+ Video 
+ All Articles 
+ Profiles 
+ From the Collection 
+ Research A Veteran 
+ WWII Veteran Statistics 
+ Jenny Craig Institute for the Study of War and Democracy 
+ World War II with Tom Hanks 
+ Podcasts 
+ Students & Teachers 
+ Distance Learning 
+ Field Trips 
+ Educator Resources 
+ School Programs 
+ Student Travel 
+ Student Resources 
+ ASU Partnership 
+ Madlyn and Paul Hilliard Research Library 
+ About Us 
+ Explore
+ Our Mission
+ Mission / Vision / Values 
+ Our Team 
+ Our Partners 
+ Annual Reports and Financials 
+ Notes from the Museum 
+ Join Our Team 
+ Rights & Reproduction 
+ Give 
+ Join Today
+ Become a Member
+ Victory's Promise 
+ Ways To Give 
+ Become a Member 
+ Patriots Circle 
+ Honor Roll of Charter Members 
+ Brick and Paver Tributes 
+ Honor Your Hero 
+ Gift Planning 
+ Other Ways to Support the Museum 
+ Donor Privacy Policy 
+ Breadcrumb
+ / 
+ Home 
+ / 
+ The War 
+ Explore By Topic 
+ Video 
+ All Articles 
+ Profiles 
+ From the Collection 
+ Research A Veteran 
+ WWII Veteran Statistics 
+ Jenny Craig Institute for the Study of… 
+ World War II with Tom Hanks 
+ Podcasts 
+ / 
+ Project Diana: To The Moon And Back
+ Article 
+ Project Diana: To The Moon And Back
+ Most scholars date the beginning of the Space Race to the middle of the 1950s. However, in the immediate aftermath of World War II, both the US and USSR were already taking their first steps towards extra-planetary exploration.
+ January 8, 2021 
+ Most scholars date the beginning of the Space Race between the United States and the Soviet Union to the middle of the 1950s. In the immediate aftermath of World War II, however, both sides were already taking their first preliminary steps in pursuit of the goal of extra-planetary exploration in what would grow into an over-two-decade-long contest of industry, technology, and, indeed, national ideologies. The Space Race is often subsumed or considered as just another theater of the greater arms race between the United States and the USSR. Often the early Space Race is considered as a direct product of the German scientists, engineers, and theoreticians recruited or compelled to work for the Americans or Soviets following the Nazi defeat. However, one of the earliest and most important triumphs of the nascent Space Race, although responding to German advances in ballistics and rocketry, was made by a diverse and home-grown team of all American military and civilian personnel at Camp Evans, New Jersey. In a naming tradition of borrowing from Greek and Roman mythology that later continued with the US space program, this experimental project of the US Signal Corps was code-named Project Diana, after the Greek goddess of the Moon.
+ Even before Project Diana, the Camp Evans Signal Laboratory, attached to Fort Monmouth in Wall Township, New Jersey, had already been the site of major advances in technology. Many of the buildings still standing at the camp by the time of World War II had originally been built to serve as receiving stations for the Marconi Wireless Telegraph Company as part of Italian radio pioneer Guglielmo Marconi’s scheme for a ‘wireless girdle’ or world-wide inter-connected network of telegraphic and wireless stations in 1914. Following Project Diana as well, Camp Evans would again rocket back to the forefront of American national attention, this time over fears of an engineer-inspector who had worked there until 1945:  Julius Rosenberg. Rosenberg had previously been a member of the Communist Party and in 1953 was convicted and executed along with his wife Ethel for spying for the Soviet Union.
+ Reflective array antenna at Fort Monmouth, New Jersey, USA. Used by the US Army Signal Corps in 1946 with Project Diana to bounce a radar signal off the Moon. It consists of 64 half-wave dipoles in an 8x8 array in front of a flat reflective screen, and had a gain of 24 dB and a main lobe beamwidth of about 15°. It was driven by a 50 kW modified SCR-271 radar set that produced quarter-second pulses. The echoes took about 2.5 seconds to return. The antenna could be rotated in azimuth only so the experiment could only be done at moonrise and moonset as the moon passed through the antenna's horizontal beam. It was the first demonstration that artificial radio signals could penetrate the ionosphere. Courtesy of InfoAge Science History Learning Center and Museum.
+ During World War II, Camp Evans Signal Laboratory’s main mission focused on improving America’s radar capabilities as well as experimenting with captured Japanese and German radar technology. By late 1943, the Camp Evans Signal Laboratory came under the direction of Lt. Col. John H. DeWitt Jr. DeWitt came to the Army from Bell Laboratories and had a keen personal as well as scientific interest in radio and the potential of radio waves. After Nazi Germany’s V2 rockets became the first man-made objects to enter outer space in 1944, and following the successful use of atomic weapons against Japan in 1945, the Pentagon began to worry about a threat that would come to dominate American military thinking a decade later, but, at the time, did not yet even have a name. Speaking in 1943, General Hap Arnold predicted the advent of the intercontinental ballistic missile:
+ “Someday, not too distant, there can come streaking out of somewhere—we won't be able to hear it, it will come so fast—some kind of gadget with an explosive so powerful that one projectile will be able to wipe out completely this city of Washington.”
+ The Pentagon ordered Dewitt and the Camp Evans staff to investigate if such a weapon was launched against the United States whether it would  be possible to detect and track it using radar. In the fall of 1945, DeWitt assembled his team of Chief Scientist E. King Stodola, Herbert Kauffman, Jacob Mofenson, Harold Webb, and famed mathematician Walter McAfee. As resources and time were limited, no attempt was made to design major components specifically for the experiment. Instead, the team modified radar equipment already on hand at Camp Evans for their experiment, using a heavily modified SCR-271 radar set as their transmitter.
+ Project Diana staff from left: Jacob Mofsenson, Harold D. Webb, John H. DeWitt, Jr., E. King Stodola, and Herbert Kaufman. Courtesy US Army Communications Electronics Museum.
+ For the team’s target, in light of the lack of incoming missiles to track, they chose the largest and nearest celestial body to Earth: the Moon. Mounted atop a 100 foot tower, DeWitt and his team mounted their array atop a 100 foot tower and aimed it towards the horizon and at the Moon. Set-backs and malfunctions were common, as were doubts about the real-world applicability of the team’s calculations. Additionally, the team had a limited window of opportunity of only 40 minutes each day during  which the Moon was in the prime location. Nevertheless, on Thursday, January 10, 1946 at 11:58 a.m., DeWitt’s team detected the first signals reflected back from the Moon. The radio waves from the modified array had taken 2.5 seconds to travel from New Jersey to the Moon and back. The experiment was repeated over the coming days and months and demonstrated for Pentagon officials, who were also interested in the “Moonbounce” technique’s potential to eavesdrop on the Soviet Union; experiments which ultimately proved unsuccessful.
+ Oscilloscope display showing the Project Diana radar signal. The large pulse on the left is the transmitted signal, the small pulse on the right is the return signal from the Moon. The horizontal axis is time, but is calibrated in miles. It can be seen that the measured range is 238,000 mi (383,000 km), the distance from the Earth to the Moon. Courtesy of Radio New Magazine.
+ Despite its limited military potential, Project Diana witnessed the birth of radar astronomy, or the ability to observe and measure the distance of nearby astronomical objects by analyzing their reflections. Project Diana also demonstrated that radio communication could be conducted through the ionosphere, paving the way for the development of satellites and ultimately manned space-flight. Perhaps more familiar, the “Moonbounce” technique—known today as EME or Earth-Moon-Earth communication—is still used by amateur and HAM radio operators to this day.
+ Project Diana QSL card for reception reports. 
+ Cold Conflict
+ Learn more about the burgeoning Space Race, the beginnings of the Cold War, and  one heightened threat of atomic weapons between the United States and the Soviet Union.
+ LEARN MORE 
+ This article is part of a series commemorating the 75th anniversary of the end of World War II made possible by the Department of Defense. 
+ Contributor
+ Collin Makamson 
+ Collin Makamson is the former Assistant Director of Education for Curriculum at The National WWII Museum.
+ Learn More 
+ Cite this article: 
+ MLA Citation: 
+ Collin Makamson . "Project Diana: To The Moon And Back" 
+ https://www.nationalww2museum.org/war/articles/project-diana-moon-and-soviet-union . Published January 8, 2021. Accessed October 23, 2026.
+ Copy MLA Citation 
+ APA Citation: 
+ Collin Makamson . (January 8, 2021). Project Diana: To The Moon And Back Retrieved October 23, 2026, from 
+ https://www.nationalww2museum.org/war/articles/project-diana-moon-and-soviet-union 
+ Copy APA Citation 
+ Chicago Style Citation: 
+ Collin Makamson . "Project Diana: To The Moon And Back" Published January 8, 2021. Accessed October 23, 2026. 
+ https://www.nationalww2museum.org/war/articles/project-diana-moon-and-soviet-union .
+ Copy Chicago Style Citation 
+ Topics
+ Home Front 
+ The End of World War II 1945 
+ Immediate Aftermath of World War II 
+ Explore Further
+ Article Type
+ Article 
+ Ladies of the Diamond: Women’s Professional Baseball during World War II 
+ The All-American Girls Professional Baseball League served as inspiration for young women across the country and opened the door further for women’s professional sports.  
+ Article Type
+ Article 
+ Sending Hope to Europe: The First CARE Packages Arrive in 1946 
+ A surplus of Army rations and goodwill helped improve the lives of many Europeans impoverished by World War II.
+ Article Type
+ Article 
+ American Liberators: Buchenwald 
+ American soldiers liberated the concentration camp at Buchenwald on April 11, 1945, and were profoundly shaken by what they discovered.
+ Article Type
+ Article 
+ Rosie the Riveter: Women War Workers on the WWII Home Front 
+ Rosie the Riveter represents the more than six million women from a wide variety of backgrounds who entered the workforce to support the American war effort.
+ Article Type
+ Article 
+ The ‘Lost Olympics’ of 1940 and 1944 
+ The International Olympic Committee's (IOC) plans for the 1940 Summer Games took many unexpected turns as the world drifted toward global war. 
+ Article Type
+ Article 
+ Betty Reid Soskin, WWII Home Front Worker and Iconic Park Ranger, Dies at 104 
+ In 2016, Soskin received The National WWII Museum's Silver Service Medallion, which recognizes veterans and those with a direct connection to World War II who have served our country with distinction and continue to lead by example. 
+ Article Type
+ Film Review 
+ ‘This War Ends in a Courtroom’: Nuremberg (2025) and the Real Trials 
+   Nuremberg and the real Nuremberg Trials illustrate how the Allies sought to end World War II with justice, using law rather than vengeance to rebuild the postwar world.
+ Article Type
+ From the Collection 
+ The Anti-Axis Art of Antonio Arias Bernal 
+ Antonio Arias Bernal’s art reminds us that World War II was also a war of ideas, fought with pens and brushes as much as with troops and firearms. 
+ Every day, memories of World War II—its sights and sounds, its terrors and triumphs—disappear.
+ Give Today 
+ Open today 9:00 a.m. - 5:00 p.m.
+ 945 Magazine Street, New Orleans, LA 70130
+ info@nationalww2museum.org 
+504-528-1944
+ About the Museum 
+ Media 
+ Join Our Team 
+ Contact Us 
+ Volunteer 
+ Rentals 
+ Privacy Policy 
+ FAQs 
+ Accessibility 
+ Buy Tickets 
+ Become a Member 
+ Donate 
+ Museum Store 
+ Follow Us Today
+ Facebook 
+ Instagram 
+ Youtube 
+ X (formerly Twitter) 
+ TikTok 
+ LinkedIn 
+ Sign Up for our Newsletter 
+ #1 Attraction in New Orleans
+ View Campus Map 
