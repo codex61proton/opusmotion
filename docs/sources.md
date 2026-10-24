@@ -50,6 +50,13 @@ Finer's footnote 1 points to W&G pp. 9–11 for "the ultimate contribution of th
 - **Factory markings.** Shown redacted, because the CIA articles redact them.
 - **Sary Shagan pin.** Placed at the test-range headquarters (≈46.1°N, 73.6°E). The radar's exact position is not given in the sources.
 
+## Nuances from the follow-up research (no change to the film)
+
+- **Dish size.** Eliot calls 150 ft "about the minimum size usable on radars of normal power". Poteat's memoir (single-source, undated) recalls a CIA effort mapping very high-power TALL KING radars via the Moon with RCA's 60-ft Moorestown antenna. The narration follows Eliot, and the screen quotes his qualifier.
+- **Peak power.** Eliot's "about 25 megawatts… if correct" (1967) differs about 20× from published post-Soviet figures for the Sary Shagan prototype (1.25 MW per transmitter). The film presents 25 MW only as the CIA estimate ("EST.").
+- **Hen House appearance.** Later sources describe the Sary Shagan prototype as a long open-ribbed horn array, about 250 m long. The film's two-wing plan is a generic, labelled SCHEMATIC, not a reconstruction of the U-2 image.
+- **Which nuclear test.** The 1962 ionized cloud was plausibly one of the Soviet high-altitude "Project K" shots over Kazakhstan (22 Oct – 1 Nov 1962), but Eliot does not say, so the film doesn't either.
+
 ## Things deliberately not said
 
 The film does not:
